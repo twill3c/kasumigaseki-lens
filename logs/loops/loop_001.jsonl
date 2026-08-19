@@ -7,3 +7,5 @@
 {"v": "1.2", "ts": "2026-08-20T00:56:26+09:00", "project": "kasumigaseki-lens", "loop_id": "loop_001", "event": "stage_end", "data": {"stage": 4, "stage_name": "実装", "result": "pass"}}
 {"v": "1.2", "ts": "2026-08-20T00:56:26+09:00", "project": "kasumigaseki-lens", "loop_id": "loop_001", "event": "stage_end", "data": {"stage": 5, "stage_name": "検証", "result": "pass"}}
 {"v": "1.2", "ts": "2026-08-20T00:56:26+09:00", "project": "kasumigaseki-lens", "loop_id": "loop_001", "event": "stage_end", "data": {"stage": 6, "stage_name": "文書同期", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-20T00:56:27+09:00", "project": "kasumigaseki-lens", "loop_id": "loop_001", "event": "commit", "data": {"kind": "feat", "sha": "40a8fff", "message": "feat: レンダラ適応"}}
+{"v": "1.2", "ts": "2026-08-20T00:56:27+09:00", "project": "kasumigaseki-lens", "loop_id": "loop_001", "event": "loop_end", "data": {"outcome": "success", "failure_count": 0, "summary": "レンダラ・CLI の 15 機関適応完了。31 テスト green"}}
