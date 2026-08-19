@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>霞が関レンズ — 中央省庁 報道発表一覧</title>
+<meta name="description" content="日本の中央省庁等15機関の最新報道発表を3件ずつ一望">
+<style>
+:root {
+  --bg: #f6f5f1; --card: #ffffff; --ink: #1f2328; --sub: #6a6f76;
+  --line: #e3e1da; --accent: #5b3a8e; --stale: #a15c07;
+}
+@media (prefers-color-scheme: dark) {
+  :root { --bg: #14171a; --card: #1d2126; --ink: #e6e4de; --sub: #9aa0a6;
+    --line: #2c3138; --accent: #b39ddb; --stale: #e0a94e; }
+}
+* { box-sizing: border-box; margin: 0; }
+body { background: var(--bg); color: var(--ink);
+  font-family: "Hiragino Kaku Gothic ProN", "Noto Sans JP", "Yu Gothic UI", Meiryo, sans-serif;
+  line-height: 1.6; padding: 2rem 1rem 3rem; }
+header, footer, main { max-width: 72rem; margin: 0 auto; }
+h1 { font-size: 1.6rem; letter-spacing: .04em; }
+h1 .en { font-size: .8rem; color: var(--sub); margin-left: .6em; letter-spacing: .12em; }
+.updated { color: var(--sub); font-size: .85rem; margin: .3rem 0 1.6rem; }
+main { display: grid; grid-template-columns: repeat(auto-fill, minmax(21rem, 1fr)); gap: 1rem; }
+.company { background: var(--card); border: 1px solid var(--line); border-radius: .6rem;
+  padding: 1rem 1.1rem; }
+.company h2 { font-size: 1.02rem; border-bottom: 2px solid var(--accent);
+  padding-bottom: .45rem; margin-bottom: .6rem; }
+.company h2 a { color: var(--ink); text-decoration: none; }
+.company h2 a:hover { color: var(--accent); }
+.company ul { list-style: none; padding: 0; }
+.company li { padding: .45rem 0; border-top: 1px dashed var(--line); }
+.company li:first-child { border-top: none; }
+.date { display: block; font-size: .75rem; color: var(--sub); font-variant-numeric: tabular-nums; }
+.headline { color: var(--accent); text-decoration: none; font-size: .92rem; }
+.headline:hover { text-decoration: underline; }
+.stale { color: var(--stale); font-size: .78rem; margin-bottom: .4rem; }
+.empty { color: var(--sub); font-size: .85rem; }
+footer { margin-top: 2.2rem; color: var(--sub); font-size: .78rem;
+  border-top: 1px solid var(--line); padding-top: 1rem; }
+footer a { color: var(--sub); }
+</style>
+</head>
+<body>
+<header>
+  <h1>霞が関レンズ<span class="en">KASUMIGASEKI LENS</span></h1>
+  <p class="updated">中央省庁等 15 機関の最新報道発表(各 3 件) — 最終更新 2026-08-20 01:17 JST(6 時間ごとに自動更新)</p>
+</header>
+<main>
+  <section class="company" id="kantei">
+    <h2><a href="https://www.kantei.go.jp/jp/news/index.html" target="_blank" rel="noopener noreferrer">首相官邸</a></h2>
+    <ul>
+      <li><span class="date">2026-08-20</span><a href="https://www.kantei.go.jp/jp/105/statement/2026/0819kaiken.html" class="headline" target="_blank" rel="noopener noreferrer">高市総理はエルドアン・トルコ共和国大統領との電話会談及び国際刑事裁判所（ＩＣＣ）に対する米国の制裁についての会見を行いました</a></li>
+      <li><span class="date">2026-08-20</span><a href="https://www.kantei.go.jp/jp/105/actions/202608/19tel_kaidan.html" class="headline" target="_blank" rel="noopener noreferrer">高市総理はトルコ共和国のレジェップ・タイップ・エルドアン大統領と電話会談を行いました</a></li>
+      <li><span class="date">2026-08-19</span><a href="https://www.kantei.go.jp/jp/105/actions/202608/18hijoukaigi_chibagouu.html" class="headline" target="_blank" rel="noopener noreferrer">高市総理は第１１回令和８年熊本地震非常災害対策本部会議・第１回令和８年８月千葉豪雨に関する関係閣僚会議に出席しました</a></li>
+    </ul>
+  </section>
+  <section class="company" id="cao">
+    <h2><a href="https://www.cao.go.jp/press/houdou.html" target="_blank" rel="noopener noreferrer">内閣府</a></h2>
+    <ul>
+      <li><span class="date">2026-08-19</span><a href="https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html" class="headline" target="_blank" rel="noopener noreferrer">機械受注統計調査報告（令和8年6月実績および令和8年7～9月見通し）</a></li>
+      <li><span class="date">2026-08-18</span><a href="https://www.fsc.go.jp/senmon/nouyaku/annai/nouyaku_annai_dai2_senmon_54.html" class="headline" target="_blank" rel="noopener noreferrer">農薬第二専門調査会（第54回）の開催について（非公開）【8月26日開催】</a></li>
+      <li><span class="date">2026-08-17</span><a href="https://www.esri.cao.go.jp/jp/sna/menu.html" class="headline" target="_blank" rel="noopener noreferrer">四半期別ＧＤＰ速報（2026年4-6月期・1次速報）</a></li>
+    </ul>
+  </section>
+  <section class="company" id="digital">
+    <h2><a href="https://www.digital.go.jp/news" target="_blank" rel="noopener noreferrer">デジタル庁</a></h2>
+    <ul>
+      <li><span class="date">2026-08-19</span><a href="https://www.digital.go.jp/policies/mynumber/private-business/jpki-introduction/mynumbercard-user-list" class="headline" target="_blank" rel="noopener noreferrer">マイナンバーカードを用いた公的個人認証サービス（JPKI）導入事業者及び事例一覧を更新しました</a></li>
+      <li><span class="date">2026-08-19</span><a href="https://www.digital.go.jp/policies/mynumber/private-business" class="headline" target="_blank" rel="noopener noreferrer">民間事業者向けマイナンバーカード活用情報における基本情報の資料を更新しました</a></li>
+      <li><span class="date">2026-08-19</span><a href="https://www.digital.go.jp/policies/assessment/project-review/2026/0ae1a200-65bf-48ac-b1db-f979b63fc6b8" class="headline" target="_blank" rel="noopener noreferrer">令和8年（2026年）第3回政策評価・行政事業レビュー有識者会議【公開プロセス】の会議動画を掲載しました</a></li>
+    </ul>
+  </section>
+  <section class="company" id="fsa">
+    <h2><a href="https://www.fsa.go.jp/news/index.html" target="_blank" rel="noopener noreferrer">金融庁</a></h2>
+    <ul>
+      <li><span class="date">2026-08-19</span><a href="https://www.fsa.go.jp/ordinary/earthquake202607/press.html" class="headline" target="_blank" rel="noopener noreferrer">その他,令和８年熊本地震関連j法に関する特設ページを更新しました。</a></li>
+      <li><span class="date">2026-08-19</span><a href="https://www.fsa.go.jp/news/r8/sonota/20260819.html" class="headline" target="_blank" rel="noopener noreferrer">「第２回　気候変動関連データの活用と適応に関する実践パネル」の開催について公表しました。</a></li>
+      <li><span class="date">2026-08-18</span><a href="https://www.fsa.go.jp/policy/nisa2/products/index.html" class="headline" target="_blank" rel="noopener noreferrer">その他,つみたて投資枠対象商品届出一覧及びつみたて投資枠対象商品の概要を更新しました。</a></li>
+    </ul>
+  </section>
+  <section class="company" id="soumu">
+    <h2><a href="https://www.soumu.go.jp/menu_news/s-news/index.html" target="_blank" rel="noopener noreferrer">総務省</a></h2>
+    <ul>
+      <li><span class="date">2026-08-19</span><a href="https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00957.html" class="headline" target="_blank" rel="noopener noreferrer">令和8年度地方財政審議会（8月19日）議事要旨</a></li>
+      <li><span class="date">2026-08-19</span><a href="https://www.soumu.go.jp/menu_news/s-news/01kiban18_01000293.html" class="headline" target="_blank" rel="noopener noreferrer">利用者情報ワーキンググループ第2次報告書（案）（利用者情報に係る外部送信規律の遵守に係る方策について）についての意見募集</a></li>
+      <li><span class="date">2026-08-19</span><a href="https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/yusei/02ryutsu01_04000514.html" class="headline" target="_blank" rel="noopener noreferrer">情報通信行政・郵政行政審議会　電気通信事業部会（第172回）</a></li>
+    </ul>
+  </section>
+  <section class="company" id="moj">
+    <h2><a href="https://www.moj.go.jp/press_index.html" target="_blank" rel="noopener noreferrer">法務省</a></h2>
+    <ul>
+      <li><span class="date">2026-08-07</span><a href="https://www.moj.go.jp/MINJI/minji05_00778.html" class="headline" target="_blank" rel="noopener noreferrer">肖像、声等の無断利用による民事責任の在り方に関する検討会 取りまとめ報告書の公表について</a></li>
+      <li><span class="date">2026-08-07</span><a href="https://www.moj.go.jp/housei/sougouhouritsushien/housei04_00092.html" class="headline" target="_blank" rel="noopener noreferrer">「令和八年熊本地震による災害についての総合法律支援法第三十条第一項第四号の規定による指定等に関する政令」について</a></li>
+      <li><span class="date">2026-08-06</span><a href="https://www.moj.go.jp/jinji/shihoushiken/jinji07_00322.html" class="headline" target="_blank" rel="noopener noreferrer">令和８年司法試験予備試験短答式試験の結果等について</a></li>
+    </ul>
+  </section>
+  <section class="company" id="mofa">
+    <h2><a href="https://www.mofa.go.jp/mofaj/press/release/index.html" target="_blank" rel="noopener noreferrer">外務省</a></h2>
+    <ul>
+      <li><span class="date">2026-08-19</span><a href="https://www.mofa.go.jp/mofaj/press/release/pressit_000001_04063.html" class="headline" target="_blank" rel="noopener noreferrer">駐日ボツワナ共和国大使信任状捧呈</a></li>
+      <li><span class="date">2026-08-19</span><a href="https://www.mofa.go.jp/mofaj/press/release/pressit_000001_04062.html" class="headline" target="_blank" rel="noopener noreferrer">駐日フィジー共和国大使信任状捧呈</a></li>
+      <li><span class="date">2026-08-19</span><a href="https://www.mofa.go.jp/mofaj/press/release/pressit_000001_04061.html" class="headline" target="_blank" rel="noopener noreferrer">ハイチ共和国に対する無償資金協力「社会サービスへのアクセス改善計画（OAS連携）」に関する書簡の署名・交換</a></li>
+    </ul>
+  </section>
+  <section class="company" id="mof">
+    <h2><a href="https://www.mof.go.jp/news/index.html" target="_blank" rel="noopener noreferrer">財務省</a></h2>
+    <ul>
+      <li><span class="date">2026-08-19</span><a href="https://www.mof.go.jp/insideLink/20260818170645.html" class="headline" target="_blank" rel="noopener noreferrer">昭和100年記念貨幣の販売要領が公表されました【造幣局ホームページ】</a></li>
+      <li><span class="date">2026-08-19</span><a href="https://www.mof.go.jp/public_relations/finance/index.htm" class="headline" target="_blank" rel="noopener noreferrer">広報誌「ファイナンス」8月号　特集　令和7年分の所得税等、消費税及び贈与税の確定申告状況等について</a></li>
+      <li><span class="date">2026-08-19</span><a href="https://www.mof.go.jp/jgbs/topics/gov_guaranteed_bonds/hu2017.htm" class="headline" target="_blank" rel="noopener noreferrer">第28回原子力損害賠償・廃炉等支援機構債に対する政府保証の付与</a></li>
+    </ul>
+  </section>
+  <section class="company" id="mext">
+    <h2><a href="https://www.mext.go.jp/b_menu/news/index.html" target="_blank" rel="noopener noreferrer">文部科学省</a></h2>
+    <ul>
+      <li><span class="date">2026-08-19</span><a href="https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo4/055/kaisai/1422340_00014.html" class="headline" target="_blank" rel="noopener noreferrer">中央教育審議会大学分科会質向上・質保証システム部会（第11回）を開催します</a></li>
+      <li><span class="date">2026-08-19</span><a href="https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1423086_00178.htm" class="headline" target="_blank" rel="noopener noreferrer">文部科学省大臣官房会計課非常勤職員（公用車運転手）採用のお知らせ（令和8年10月1日採用予定）</a></li>
+      <li><span class="date">2026-08-19</span><a href="https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1423086_00177.htm" class="headline" target="_blank" rel="noopener noreferrer">文部科学省大臣官房会計課非常勤職員（期間業務職員）採用のお知らせ（令和8年10月1日採用予定）</a></li>
+    </ul>
+  </section>
+  <section class="company" id="mhlw">
+    <h2><a href="https://www.mhlw.go.jp/stf/houdou/index.html" target="_blank" rel="noopener noreferrer">厚生労働省</a></h2>
+    <ul>
+      <li><span class="date">2026-08-19</span><a href="https://www.mhlw.go.jp/stf/newpage_021225156_00113.html" class="headline" target="_blank" rel="noopener noreferrer">第226回労働政策審議会職業安定分科会を開催します</a></li>
+      <li><span class="date">2026-08-19</span><a href="https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/kantokukan.html" class="headline" target="_blank" rel="noopener noreferrer">労働基準監督官採用試験広報HP</a></li>
+      <li><span class="date">2026-08-19</span><a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/tiiki/R8kumamoto_kenkousoudan.html" class="headline" target="_blank" rel="noopener noreferrer">令和８年熊本地震における健康相談窓口</a></li>
+    </ul>
+  </section>
+  <section class="company" id="maff">
+    <h2><a href="https://www.maff.go.jp/j/press/index.html" target="_blank" rel="noopener noreferrer">農林水産省</a></h2>
+    <ul>
+      <li><span class="date">2026-08-19</span><a href="https://www.maff.go.jp/j/press/nousan/kikaku/260819.html" class="headline" target="_blank" rel="noopener noreferrer">令和7年産米の相対取引価格・数量について（令和8年7月）</a></li>
+      <li><span class="date">2026-08-19</span><a href="https://www.maff.go.jp/j/press/nousan/kikaku/260819_1.html" class="headline" target="_blank" rel="noopener noreferrer">米に関するマンスリーレポート（令和8年8月号）の公表について</a></li>
+      <li><span class="date">2026-08-19</span><a href="https://www.rinya.maff.go.jp/j/press/sin_riyou/morigyo/260819.html" class="headline" target="_blank" rel="noopener noreferrer">「サザエさん一家の“もりのわ”話 吹き出しコンテスト」の受賞作品が決まりました</a></li>
+    </ul>
+  </section>
+  <section class="company" id="meti">
+    <h2><a href="https://www.meti.go.jp/press/index.html" target="_blank" rel="noopener noreferrer">経済産業省</a></h2>
+    <ul>
+      <li><span class="date">2026-06-19</span><a href="https://www.meti.go.jp/press/2026/06/20260619003/20260619003.html" class="headline" target="_blank" rel="noopener noreferrer">令和8年度物流パートナーシップ優良事業者を募集します</a></li>
+      <li><span class="date">2026-06-19</span><a href="https://www.meti.go.jp/press/2026/06/20260619001/20260619001.html" class="headline" target="_blank" rel="noopener noreferrer">中華人民共和国産並びに台湾、澎湖諸島、金門及び馬祖から成る独立の関税地域産ニッケル系ステンレス冷延鋼帯及び冷延鋼板に対する不当廉売関税の課税に関する調査において、不当廉売がされた貨物の輸入の事実及び当該輸入の本邦の産業に与える実質的な損害等の事実を推定することについての決定（仮の決定）をしました</a></li>
+      <li><span class="date">2026-06-19</span><a href="https://www.meti.go.jp/press/2026/06/20260619002/20260619002.html" class="headline" target="_blank" rel="noopener noreferrer">中華人民共和国産並びに台湾、澎湖諸島、金門及び馬祖から成る独立の関税地域産ニッケル系ステンレス冷延鋼帯及び冷延鋼板に対する不当廉売関税の課税に関する調査の期間を延長します</a></li>
+    </ul>
+  </section>
+  <section class="company" id="mlit">
+    <h2><a href="https://www.mlit.go.jp/report/press/index.html" target="_blank" rel="noopener noreferrer">国土交通省</a></h2>
+    <ul>
+      <li><span class="date">2026-08-19</span><a href="https://www.mlit.go.jp/report/press/mizukokudo03_hh_001360.html" class="headline" target="_blank" rel="noopener noreferrer">「第２回　気候変動関連データの活用と適応に関する実践パネル」を開催します〜気候変動関連データの利活用事例や課題について議論します〜</a></li>
+      <li><span class="date">2026-08-19</span><a href="https://www.mlit.go.jp/report/press/mizukokudo13_hh_000754.html" class="headline" target="_blank" rel="noopener noreferrer">「鉛製給水管の布設替えに関する手引き」改定に向けた検討を行います〜鉛製給水管の早期解消に向けた取組推進のために〜</a></li>
+      <li><span class="date">2026-08-19</span><a href="https://www.mlit.go.jp/report/press/house06_hh_000254.html" class="headline" target="_blank" rel="noopener noreferrer">小学校の防災学習から家庭や地域に広げる住まいの耐震化！〜「巨大地震のサバイバル 住まいの耐震編」と先生用ガイドを小学校に配布〜</a></li>
+    </ul>
+  </section>
+  <section class="company" id="env">
+    <h2><a href="https://www.env.go.jp/press/index.html" target="_blank" rel="noopener noreferrer">環境省</a></h2>
+    <ul>
+      <li><span class="date">2026-08-19</span><a href="https://www.env.go.jp/press/press_05444.html" class="headline" target="_blank" rel="noopener noreferrer">「第２回気候変動関連データの活用と適応に関する実践パネル」の開催について</a></li>
+      <li><span class="date">2026-08-18</span><a href="https://www.env.go.jp/press/press_05417.html" class="headline" target="_blank" rel="noopener noreferrer">中央環境審議会水環境・土壌農薬部会農薬小委員会（第102回）の開催について</a></li>
+      <li><span class="date">2026-08-18</span><a href="https://www.env.go.jp/press/111111_00043.html" class="headline" target="_blank" rel="noopener noreferrer">石綿救済法に基づく指定疾病の認定に係る医学的判定結果について</a></li>
+    </ul>
+  </section>
+  <section class="company" id="mod">
+    <h2><a href="https://www.mod.go.jp/j/press/news/index.html" target="_blank" rel="noopener noreferrer">防衛省</a></h2>
+    <ul>
+      <li><span class="date">2026-08-19</span><a href="https://www.mod.go.jp/j/press/news/2026/08/19a.html" class="headline" target="_blank" rel="noopener noreferrer">令和８年度体験飛行及び自衛隊音楽まつりの実施について</a></li>
+      <li><span class="date">2026-08-17</span><a href="https://www.mod.go.jp/j/press/news/2026/08/17b.html" class="headline" target="_blank" rel="noopener noreferrer">若林防衛大臣政務官の部隊視察の予定について</a></li>
+      <li><span class="date">2026-08-17</span><a href="https://www.mod.go.jp/j/press/news/2026/08/17a.html" class="headline" target="_blank" rel="noopener noreferrer">政府専用機の運航について</a></li>
+    </ul>
+  </section>
+</main>
+<footer>
+  <p>本サイトは各機関が公式に公開する報道発表の見出しとリンクのみを収集・表示しています(本文は保存していません)。
+  出典は各機関名のリンク先(公式サイト)をご覧ください。各発表の利用条件は出典サイトの利用規約(政府標準利用規約等)に従います。</p>
+  <p><a href="https://github.com/twill3c/kasumigaseki-lens" target="_blank" rel="noopener noreferrer">kasumigaseki-lens</a> — 収集は 6 時間間隔で実施</p>
+</footer>
+</body>
+</html>

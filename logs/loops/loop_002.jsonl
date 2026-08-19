@@ -7,3 +7,5 @@
 {"v": "1.2", "ts": "2026-08-20T00:57:14+09:00", "project": "kasumigaseki-lens", "loop_id": "loop_002", "event": "stage_end", "data": {"stage": 4, "stage_name": "実装", "result": "pass"}}
 {"v": "1.2", "ts": "2026-08-20T00:57:15+09:00", "project": "kasumigaseki-lens", "loop_id": "loop_002", "event": "stage_end", "data": {"stage": 5, "stage_name": "検証", "result": "pass"}}
 {"v": "1.2", "ts": "2026-08-20T00:57:15+09:00", "project": "kasumigaseki-lens", "loop_id": "loop_002", "event": "stage_end", "data": {"stage": 6, "stage_name": "文書同期", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-20T00:57:16+09:00", "project": "kasumigaseki-lens", "loop_id": "loop_002", "event": "commit", "data": {"kind": "feat", "sha": "52cb802", "message": "feat: デプロイ構成"}}
+{"v": "1.2", "ts": "2026-08-20T00:57:16+09:00", "project": "kasumigaseki-lens", "loop_id": "loop_002", "event": "loop_end", "data": {"outcome": "success", "failure_count": 0, "summary": "デプロイ構成完了。33 テスト green"}}

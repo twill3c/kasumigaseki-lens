@@ -7,6 +7,7 @@ xml.etree のみ使用。返り値は文書内出現順の
 
 from __future__ import annotations
 
+import re
 import xml.etree.ElementTree as ET
 
 from .dates import normalize_date
@@ -20,10 +21,23 @@ def _text(el: ET.Element | None) -> str:
     return (el.text or "").strip() if el is not None else ""
 
 
+_ENC_DECL = re.compile(rb'encoding="([A-Za-z0-9_\-]+)"')
+
+
+def _to_parseable(raw: bytes) -> bytes | str:
+    """expat が扱えない多バイト宣言(Shift_JIS 等)は Python 側でデコードする。"""
+    m = _ENC_DECL.search(raw[:200])
+    enc = m.group(1).decode("ascii").lower() if m else "utf-8"
+    if enc in ("utf-8", "us-ascii", "iso-8859-1"):
+        return raw
+    text = raw.decode(enc, "replace")
+    return re.sub(r"^<\?xml[^>]*\?>", "", text, count=1)
+
+
 def parse_feed(raw: bytes) -> list[dict]:
     try:
-        root = ET.fromstring(raw)
-    except ET.ParseError as e:
+        root = ET.fromstring(_to_parseable(raw))
+    except (ET.ParseError, LookupError) as e:
         raise ValueError(f"XML として解釈できない: {e}") from e
     tag = root.tag
     if tag.endswith("RDF"):

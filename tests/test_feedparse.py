@@ -67,3 +67,11 @@ def test_parse_three_formats(raw):
 def test_parse_feed_garbage_raises():
     with pytest.raises(ValueError):
         parse_feed(b"<html><body>not a feed</body></html>")
+
+
+def test_parse_feed_shift_jis():
+    # 総務省・国交省の実フィードは Shift_JIS 宣言(expat 非対応 → 前処理が必要)
+    raw = RSS10.replace('encoding="UTF-8"', 'encoding="Shift_JIS"').encode("shift_jis")
+    items = parse_feed(raw)
+    assert len(items) == 3
+    assert items[0]["title"] == "リリース一"
