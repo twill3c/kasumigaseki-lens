@@ -6,3 +6,5 @@
 {"v": "1.2", "ts": "2026-08-20T06:59:23+09:00", "project": "kasumigaseki-lens", "loop_id": "loop_007", "event": "stage_end", "data": {"stage": 4, "stage_name": "実装", "result": "pass"}}
 {"v": "1.2", "ts": "2026-08-20T06:59:23+09:00", "project": "kasumigaseki-lens", "loop_id": "loop_007", "event": "stage_end", "data": {"stage": 5, "stage_name": "検証", "result": "pass"}}
 {"v": "1.2", "ts": "2026-08-20T06:59:23+09:00", "project": "kasumigaseki-lens", "loop_id": "loop_007", "event": "stage_end", "data": {"stage": 6, "stage_name": "文書同期", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-20T06:59:25+09:00", "project": "kasumigaseki-lens", "loop_id": "loop_007", "event": "commit", "data": {"kind": "feat", "sha": "2500977", "message": "feat: 3→5 件化"}}
+{"v": "1.2", "ts": "2026-08-20T06:59:25+09:00", "project": "kasumigaseki-lens", "loop_id": "loop_007", "event": "loop_end", "data": {"outcome": "success", "failure_count": 0, "summary": "5 件化完了。実 E2E 15/15×5・69 テスト green"}}
