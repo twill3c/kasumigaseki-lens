@@ -6,3 +6,5 @@
 {"v": "1.2", "ts": "2026-08-20T06:34:36+09:00", "project": "kasumigaseki-lens", "loop_id": "loop_006", "event": "stage_end", "data": {"stage": 4, "stage_name": "実装", "result": "pass"}}
 {"v": "1.2", "ts": "2026-08-20T06:34:36+09:00", "project": "kasumigaseki-lens", "loop_id": "loop_006", "event": "stage_end", "data": {"stage": 5, "stage_name": "検証", "result": "pass"}}
 {"v": "1.2", "ts": "2026-08-20T06:34:36+09:00", "project": "kasumigaseki-lens", "loop_id": "loop_006", "event": "stage_end", "data": {"stage": 6, "stage_name": "文書同期", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-20T06:34:37+09:00", "project": "kasumigaseki-lens", "loop_id": "loop_006", "event": "commit", "data": {"kind": "feat", "sha": "b016146", "message": "feat: フッタ hodo 準拠"}}
+{"v": "1.2", "ts": "2026-08-20T06:34:37+09:00", "project": "kasumigaseki-lens", "loop_id": "loop_006", "event": "loop_end", "data": {"outcome": "success", "failure_count": 0, "summary": "フッタ 5 リンク構成完了。69 テスト green"}}
