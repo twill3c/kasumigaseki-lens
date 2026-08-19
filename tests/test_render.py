@@ -20,9 +20,9 @@ def sample_data(ok_all=True):
                     {
                         "title": f"機関{i} <新製品> & 発表{j}",
                         "url": f"https://co{i:02d}.example.co.jp/press/{j}.html",
-                        "date": f"2026-08-{17 + j:02d}",
+                        "date": f"2026-08-{15 + j:02d}",
                     }
-                    for j in range(3)
+                    for j in range(5)
                 ],
             }
         )
@@ -58,8 +58,8 @@ def test_t201_contents():
 
 def test_t202_links_and_escaping():
     html = render_html(sample_data())
-    assert html.count('<a href="https://co') >= 45  # 見出し 33 + 出典 11
-    assert html.count('class="headline"') == 45
+    assert html.count('<a href="https://co') >= 75  # 見出し 33 + 出典 11
+    assert html.count('class="headline"') == 75
     # エスケープ: 生の <新製品> がタグとして出ていない
     assert "&lt;新製品&gt; &amp; 発表0" in html
     assert "<新製品>" not in html

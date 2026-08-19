@@ -4,13 +4,13 @@ collect(companies, fetcher, prev, now) -> (data, exit_code)
 
 - fetcher(company) -> list[items]。例外 or 0 件は「失敗」: ok=False とし、
   prev に同 id があればその items / fetched_at を引き継ぐ(グレースフル劣化 F-05)
-- 成功時は items を最新 3 件に切り詰め fetched_at=now
+- 成功時は items を最新 5 件に切り詰め fetched_at=now
 - exit_code: 全社失敗のみ 1(G-04)
 """
 
 from __future__ import annotations
 
-MAX_ITEMS = 3
+MAX_ITEMS = 5
 
 
 def _prev_company(prev: dict | None, cid: str) -> dict | None:

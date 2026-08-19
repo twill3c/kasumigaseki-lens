@@ -36,7 +36,7 @@ def fixture_get(company):
 def test_t001_extracts_three_items(company):
     items = fetch_company(company, fixture_get(company))
     assert len(items) >= 3, f"{company['id']}: {len(items)} 件しか抽出できない"
-    for it in items[:3]:
+    for it in items[:5]:
         assert it["title"].strip(), f"{company['id']}: 空タイトル"
         assert "<" not in it["title"], f"{company['id']}: タイトルにタグ残骸"
         assert it["url"].startswith("https://"), f"{company['id']}: {it['url']}"
@@ -48,7 +48,7 @@ def test_t001_extracts_three_items(company):
 @pytest.mark.parametrize("company", COMPANIES, ids=[c["id"] for c in COMPANIES])
 def test_t002_urls_in_allowed_domains(company):
     items = fetch_company(company, fixture_get(company))
-    for it in items[:3]:
+    for it in items[:5]:
         assert in_domains(it["url"], company["allowed_domains"]), (
             f"{company['id']}: 許可外ドメイン {it['url']}"
         )

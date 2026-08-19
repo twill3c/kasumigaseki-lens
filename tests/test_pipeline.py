@@ -20,7 +20,7 @@ def fake_companies(n=11):
     ]
 
 
-def items_for(cid, n=4):
+def items_for(cid, n=7):
     return [
         {
             "title": f"{cid} リリース{j}",
@@ -45,7 +45,7 @@ def test_t101_schema_and_order():
     for c in data["companies"]:
         assert c["ok"] is True
         assert c["fetched_at"] == NOW
-        assert len(c["items"]) == 3  # 4 件返っても 3 件に切る
+        assert len(c["items"]) == 5  # 7 件返っても 5 件に切る
         for it in c["items"]:
             assert it["title"] and it["url"].startswith("https://") and it["date"]
 

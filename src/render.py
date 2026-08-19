@@ -56,7 +56,7 @@ def render_html(data: dict) -> str:
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>霞が関レンズ — 中央省庁 報道発表一覧</title>
-<meta name="description" content="日本の中央省庁等{n}機関の最新報道発表を3件ずつ一望">
+<meta name="description" content="日本の中央省庁等{n}機関の最新報道発表を5件ずつ一望">
 <style>
 :root {{
   --bg: #f6f5f1; --card: #ffffff; --ink: #1f2328; --sub: #6a6f76;
@@ -97,7 +97,7 @@ footer a {{ color: var(--sub); }}
 <body>
 <header>
   <h1>霞が関レンズ<span class="en">KASUMIGASEKI LENS</span></h1>
-  <p class="updated">中央省庁等 {n} 機関の最新報道発表(各 3 件) — 最終更新 {generated} JST(6 時間ごとに自動更新)</p>
+  <p class="updated">中央省庁等 {n} 機関の最新報道発表(各 5 件) — 最終更新 {generated} JST(6 時間ごとに自動更新)</p>
 </header>
 <main>
 {sections}
