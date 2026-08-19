@@ -17,8 +17,8 @@
 * { box-sizing: border-box; margin: 0; }
 body { background: var(--bg); color: var(--ink);
   font-family: "Hiragino Kaku Gothic ProN", "Noto Sans JP", "Yu Gothic UI", Meiryo, sans-serif;
-  line-height: 1.6; padding: 2rem 1rem 3rem; }
-header, footer, main { max-width: 72rem; margin: 0 auto; }
+  line-height: 1.6; padding: 2rem 1rem 5rem; }
+header, main, .notice { max-width: 72rem; margin: 0 auto; }
 h1 { font-size: 1.6rem; letter-spacing: .04em; }
 h1 .en { font-size: .8rem; color: var(--sub); margin-left: .6em; letter-spacing: .12em; }
 .updated { color: var(--sub); font-size: .85rem; margin: .3rem 0 1.6rem; }
@@ -37,8 +37,13 @@ main { display: grid; grid-template-columns: repeat(auto-fill, minmax(21rem, 1fr
 .headline:hover { text-decoration: underline; }
 .stale { color: var(--stale); font-size: .78rem; margin-bottom: .4rem; }
 .empty { color: var(--sub); font-size: .85rem; }
-footer { margin-top: 2.2rem; color: var(--sub); font-size: .78rem;
+.notice { margin-top: 2.2rem; color: var(--sub); font-size: .78rem;
   border-top: 1px solid var(--line); padding-top: 1rem; }
+footer { position: fixed; left: 0; right: 0; bottom: 0; z-index: 10;
+  background: var(--bg); border-top: 1px solid var(--line);
+  color: var(--sub); font-size: .78rem; text-align: center;
+  padding: .5rem 1rem; white-space: nowrap; overflow-x: auto; }
+footer p { display: inline; }
 footer a { color: var(--sub); }
 </style>
 </head>
@@ -199,9 +204,11 @@ footer a { color: var(--sub); }
     </ul>
   </section>
 </main>
-<footer>
+<div class="notice">
   <p>本サイトは各機関が公式に公開する報道発表の見出しとリンクのみを収集・表示しています(本文は保存していません)。
   出典は各機関名のリンク先(公式サイト)をご覧ください。各発表の利用条件は出典サイトの利用規約(政府標準利用規約等)に従います。</p>
+</div>
+<footer>
   <p><a href="https://github.com/twill3c/kasumigaseki-lens/blob/main/LICENSE" target="_blank" rel="noopener">MIT License</a> © 2026 坂田哲朗
   ・ <a href="https://github.com/twill3c/kasumigaseki-lens" target="_blank" rel="noopener">GitHub</a>
   ・ <a href="https://claude.ai/code/artifact/33922a13-af7b-44a2-8a2c-82473d122438" target="_blank" rel="noopener">kasumigaseki-lens の歩き方</a>
