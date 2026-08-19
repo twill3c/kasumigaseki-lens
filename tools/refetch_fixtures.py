@@ -34,8 +34,11 @@ def get(url: str, ua: str) -> bytes:
 
 
 def main() -> None:
+    only = set(sys.argv[1:])  # 例: python tools/refetch_fixtures.py meti
     FIX.mkdir(parents=True, exist_ok=True)
     for co in COMPANIES:
+        if only and co["id"] not in only:
+            continue
         ua = BROWSER_UA if co.get("ua") == "browser" else PROJECT_UA
         raw = get(co["primary_url"], ua)
         ext = "xml" if co["strategy"] == "feed" else "html"

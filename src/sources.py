@@ -7,11 +7,12 @@ strategy:
 
 ua:
 - project(既定): PROJECT_UA
-- browser: WAF が非ブラウザ UA を遮断するサイト(外務省)のみ。
-  robots.txt に Disallow 全面指定が無いことを確認済み(2026-08-20)
+- browser: WAF が非ブラウザ UA を遮断するサイト(外務省・経産省)のみ。
+  robots.txt に Disallow 全面指定が無いことを確認済み(2026-08-20、
+  経産省 robots.txt は空 = 全面許可)
 
 調査経緯(2026-08-20):
-- フィード 11 機関 / HTML 4 機関(農水・環境・法務・外務)
+- フィード 10 機関 / HTML 5 機関(農水・環境・法務・外務・経産)
 - 金融庁 RSS の pubDate は非標準トークン「JST」(dates.py で +0900 へ前処理)
 - 法務省の年別一覧は日付が <!-- dt --> コメント内・元号継続換算(平成38年=2026年)
 - 内閣府フィードのリンクは外局(esri.cao.go.jp / fsc.go.jp 等)に跨る
@@ -116,11 +117,16 @@ COMPANIES = [
         "allowed_domains": ["maff.go.jp"],
     },
     {
+        # 公式 Atom(ml_index_release_atom.xml)は 2026-06-19 で更新停止
+        # (サイト刷新でフィード凍結)→ press/index.html の直接抽出へ切替。
+        # AWS WAF: 非ブラウザ UA は 403、ブラウザ UA も断続的に JS チャレンジ
+        # (202/空ボディ)→ 0 件で ok=False となり前回分保持で凌ぐ(F-05)。
         "id": "meti",
         "name": "経済産業省",
         "source_url": "https://www.meti.go.jp/press/index.html",
-        "primary_url": "https://www.meti.go.jp/ml_index_release_atom.xml",
-        "strategy": "feed",
+        "primary_url": "https://www.meti.go.jp/press/index.html",
+        "strategy": "html",
+        "ua": "browser",
         "allowed_domains": ["meti.go.jp"],
     },
     {

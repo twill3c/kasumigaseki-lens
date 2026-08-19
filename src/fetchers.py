@@ -123,10 +123,29 @@ def parse_mofa(html: str, base: str) -> list[dict]:
     return items
 
 
+def parse_meti(html: str, base: str) -> list[dict]:
+    # <div class="left txt_box"><p>2026年8月17日</p>
+    # <a class="cut_txt" href="/press/2026/08/20260817001.html">タイトル</a>
+    pat = re.compile(
+        r'<div class="left txt_box"><p>([^<]+)</p>\s*'
+        r'<a class="cut_txt" href="([^"]+)">(.*?)</a>',
+        re.S,
+    )
+    return [
+        {
+            "title": _clean(title),
+            "url": absolutize(base, href),
+            "date": normalize_date(date),
+        }
+        for date, href, title in pat.findall(html)
+    ]
+
+
 _HTML_PARSERS = {
     "maff": parse_maff,
     "env": parse_env,
     "mofa": parse_mofa,
+    "meti": parse_meti,
 }
 
 
