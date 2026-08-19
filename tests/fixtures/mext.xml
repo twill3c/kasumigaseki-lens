@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+<channel rdf:about="https://www.mext.go.jp/b_menu/news/">
+<title>文部科学省　新着情報</title>
+<link>https://www.mext.go.jp/b_menu/news/</link>
+<description></description>
+<dc:language>ja</dc:language>
+<dc:rights>Copyright (C) Ministry of Education, Culture, Sports, Science and Technology</dc:rights>
+<dc:date>2026-08-19T17:00:05+09:00</dc:date>
+<items>
+ <rdf:Seq>
+<rdf:li rdf:resource="https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo4/055/kaisai/1422340_00014.html" />
+<rdf:li rdf:resource="https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1423086_00178.htm" />
+<rdf:li rdf:resource="https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1423086_00177.htm" />
+<rdf:li rdf:resource="https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1423086_00176.htm" />
+<rdf:li rdf:resource="https://www.mext.go.jp/b_menu/houdou/2026/mext_01666.html" />
+<rdf:li rdf:resource="https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu10/gijiroku/mext_00028.html" />
+<rdf:li rdf:resource="https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu2/113/siryo/mext_00008.html" />
+<rdf:li rdf:resource="https://www.mext.go.jp/a_menu/r8kumamotojisin/index.html" />
+<rdf:li rdf:resource="https://www.mext.go.jp/b_menu/shuppan/geppou/mext_091001_00014.html" />
+<rdf:li rdf:resource="https://www.mext.go.jp/b_menu/saiyou/sougoujimu/setumei/1421199_00009.htm" />
+<rdf:li rdf:resource="https://www.mext.go.jp/b_menu/houdou/mext_01673.html" />
+<rdf:li rdf:resource="https://www.mext.go.jp/b_menu/houdou/mext_01671.html" />
+<rdf:li rdf:resource="https://www.mext.go.jp/b_menu/saiyou/sougoujimu/index_00001.htm" />
+<rdf:li rdf:resource="https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/002/mext_00025.html" />
+<rdf:li rdf:resource="https://www.mext.go.jp/b_menu/shingi/mext_02432.html" />
+<rdf:li rdf:resource="https://www.mext.go.jp/b_menu/shingi/chousa/koutou/136/siryo/mext_00003.html" />
+<rdf:li rdf:resource="https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu2/116/houkoku_00001.html" />
+<rdf:li rdf:resource="https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu35/gijiroku/00008.html" />
+<rdf:li rdf:resource="https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/118/gijiroku/mext_00017.html" />
+<rdf:li rdf:resource="https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu4/054/gijiroku/1417785_00020.html" />
+<rdf:li rdf:resource="https://www.mext.go.jp/a_menu/kaihatu/jishin/mext_00281.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo4/055/kaisai/1422340_00014.html">
+<title>中央教育審議会大学分科会質向上・質保証システム部会（第11回）を開催します</title>
+<link>https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo4/055/kaisai/1422340_00014.html</link>
+<dc:date>2026-08-19T14:00:00+09:00</dc:date>
+<category>審議会情報</category>
+</item>
+<item rdf:about="https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1423086_00178.htm">
+<title>文部科学省大臣官房会計課非常勤職員（公用車運転手）採用のお知らせ（令和8年10月1日採用予定）</title>
+<link>https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1423086_00178.htm</link>
+<dc:date>2026-08-19T14:00:00+09:00</dc:date>
+<category>採用案内</category>
+</item>
+<item rdf:about="https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1423086_00177.htm">
+<title>文部科学省大臣官房会計課非常勤職員（期間業務職員）採用のお知らせ（令和8年10月1日採用予定）</title>
+<link>https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1423086_00177.htm</link>
+<dc:date>2026-08-19T14:00:00+09:00</dc:date>
+<category>採用案内</category>
+</item>
+<item rdf:about="https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1423086_00176.htm">
+<title>文部科学省大臣官房会計課非常勤職員（時間雇用職員）採用のお知らせ（令和8年10月1日採用予定）</title>
+<link>https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1423086_00176.htm</link>
+<dc:date>2026-08-19T14:00:00+09:00</dc:date>
+<category>採用案内</category>
+</item>
+<item rdf:about="https://www.mext.go.jp/b_menu/houdou/2026/mext_01666.html">
+<title>第2回「気候変動関連データの活用と適応に関する実践パネル」開催のお知らせ</title>
+<link>https://www.mext.go.jp/b_menu/houdou/2026/mext_01666.html</link>
+<dc:date>2026-08-19T14:00:00+09:00</dc:date>
+<category></category>
+</item>
+<item rdf:about="https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu10/gijiroku/mext_00028.html">
+<title>人材委員会（第115回）議事録</title>
+<link>https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu10/gijiroku/mext_00028.html</link>
+<dc:date>2026-08-19T12:00:00+09:00</dc:date>
+<category></category>
+</item>
+<item rdf:about="https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu2/113/siryo/mext_00008.html">
+<title>次世代医療実現のための基盤形成に関する作業部会（第5回）配付資料</title>
+<link>https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu2/113/siryo/mext_00008.html</link>
+<dc:date>2026-08-19T12:00:00+09:00</dc:date>
+<category></category>
+</item>
+<item rdf:about="https://www.mext.go.jp/a_menu/r8kumamotojisin/index.html">
+<title>令和8年熊本地震の発生に伴う夏季休業明けにおける留意点について（通知）を掲載しました</title>
+<link>https://www.mext.go.jp/a_menu/r8kumamotojisin/index.html</link>
+<dc:date>2026-08-19T10:15:00+09:00</dc:date>
+<category></category>
+</item>
+<item rdf:about="https://www.mext.go.jp/b_menu/shuppan/geppou/mext_091001_00014.html">
+<title>教育委員会月報　令和8年8月号</title>
+<link>https://www.mext.go.jp/b_menu/shuppan/geppou/mext_091001_00014.html</link>
+<dc:date>2026-08-19T05:57:00+09:00</dc:date>
+<category></category>
+</item>
+<item rdf:about="https://www.mext.go.jp/b_menu/saiyou/sougoujimu/setumei/1421199_00009.htm">
+<title>業務説明会・職員訪問</title>
+<link>https://www.mext.go.jp/b_menu/saiyou/sougoujimu/setumei/1421199_00009.htm</link>
+<dc:date>2026-08-18T15:24:00+09:00</dc:date>
+<category>採用案内</category>
+</item>
+<item rdf:about="https://www.mext.go.jp/b_menu/houdou/mext_01673.html">
+<title>国際地理オリンピックに参加した生徒が銅メダルを獲得しました。また、国際的な科学技術コンテストで特に優秀な成績をおさめた生徒に対する文部科学大臣表彰等の受賞者を決定しました。</title>
+<link>https://www.mext.go.jp/b_menu/houdou/mext_01673.html</link>
+<dc:date>2026-08-18T15:00:00+09:00</dc:date>
+<category></category>
+</item>
+<item rdf:about="https://www.mext.go.jp/b_menu/houdou/mext_01671.html">
+<title>国際情報オリンピックに参加した選手が金メダル等を獲得しました。また、国際的な科学技術コンテストで特に優秀な成績をおさめた選手に対する文部科学大臣表彰の受賞者を決定しました。</title>
+<link>https://www.mext.go.jp/b_menu/houdou/mext_01671.html</link>
+<dc:date>2026-08-18T15:00:00+09:00</dc:date>
+<category></category>
+</item>
+<item rdf:about="https://www.mext.go.jp/b_menu/saiyou/sougoujimu/index_00001.htm">
+<title>採用案内（総合職・一般職＜文教系・科学技術系・施設系＞）</title>
+<link>https://www.mext.go.jp/b_menu/saiyou/sougoujimu/index_00001.htm</link>
+<dc:date>2026-08-18T14:42:00+09:00</dc:date>
+<category></category>
+</item>
+<item rdf:about="https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/002/mext_00025.html">
+<title>中央教育審議会初等中等教育分科会教員養成部会（第162回）の開催について</title>
+<link>https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/002/mext_00025.html</link>
+<dc:date>2026-08-18T10:18:00+09:00</dc:date>
+<category></category>
+</item>
+<item rdf:about="https://www.mext.go.jp/b_menu/shingi/mext_02432.html">
+<title>デジタルな形態を含む教科書の発行・採択等の指針に関する検討会議（第5回）　配布資料</title>
+<link>https://www.mext.go.jp/b_menu/shingi/mext_02432.html</link>
+<dc:date>2026-08-18T09:45:00+09:00</dc:date>
+<category></category>
+</item>
+<item rdf:about="https://www.mext.go.jp/b_menu/shingi/chousa/koutou/136/siryo/mext_00003.html">
+<title>高等専門学校の機能強化に関する検討会（第4回）配布資料</title>
+<link>https://www.mext.go.jp/b_menu/shingi/chousa/koutou/136/siryo/mext_00003.html</link>
+<dc:date>2026-08-17T12:00:00+09:00</dc:date>
+<category></category>
+</item>
+<item rdf:about="https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu2/116/houkoku_00001.html">
+<title>基礎・横断研究戦略作業部会報告書「ライフサイエンス研究支援基盤の今後の在り方について」を掲載しました</title>
+<link>https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu2/116/houkoku_00001.html</link>
+<dc:date>2026-08-17T10:00:00+09:00</dc:date>
+<category></category>
+</item>
+<item rdf:about="https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu35/gijiroku/00008.html">
+<title>科学技術・学術審議会　大学研究力強化部会（第8回）議事録</title>
+<link>https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu35/gijiroku/00008.html</link>
+<dc:date>2026-08-14T14:00:00+09:00</dc:date>
+<category>審議会情報</category>
+</item>
+<item rdf:about="https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/118/gijiroku/mext_00017.html">
+<title>中央教育審議会初等中等教育分科会教育課程部会情報・技術ワーキンググループ（第8回）の議事録を掲載しました</title>
+<link>https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/118/gijiroku/mext_00017.html</link>
+<dc:date>2026-08-14T13:00:00+09:00</dc:date>
+<category></category>
+</item>
+<item rdf:about="https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu4/054/gijiroku/1417785_00020.html">
+<title>共同利用・共同研究拠点等に関する作業部会（第11回）　議事録</title>
+<link>https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu4/054/gijiroku/1417785_00020.html</link>
+<dc:date>2026-08-14T12:00:00+09:00</dc:date>
+<category>審議会情報</category>
+</item>
+<item rdf:about="https://www.mext.go.jp/a_menu/kaihatu/jishin/mext_00281.html">
+<title>火山調査研究推進本部政策委員会　第4回予算調整部会を開催しました（令和8年8月7日）</title>
+<link>https://www.mext.go.jp/a_menu/kaihatu/jishin/mext_00281.html</link>
+<dc:date>2026-08-14T12:00:00+09:00</dc:date>
+<category></category>
+</item>
+</rdf:RDF>
+

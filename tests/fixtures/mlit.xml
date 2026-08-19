@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="Shift_JIS" ?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xml:lang="ja">
+        <channel rdf:about="http://www.mlit.go.jp/pressrelease.rdf">
+        <title>国土交通省ホームページプレスリリース</title>
+        <link>http://www.mlit.go.jp/</link>
+        <description>国土交通省ホームページプレスリリース</description>
+                <dc:language>ja-jp</dc:language>
+                <items>
+                        <rdf:Seq>
+                                <rdf:li rdf:resource="http://www.mlit.go.jp/report/press/mizukokudo03_hh_001360.html" />
+                                <rdf:li rdf:resource="http://www.mlit.go.jp/report/press/mizukokudo13_hh_000754.html" />
+                                <rdf:li rdf:resource="http://www.mlit.go.jp/report/press/house06_hh_000254.html" />
+                                <rdf:li rdf:resource="http://www.mlit.go.jp/report/press/kaiji08_hh_000122.html" />
+                                <rdf:li rdf:resource="http://www.mlit.go.jp/report/press/kaiji07_hh_000402.html" />
+                                <rdf:li rdf:resource="http://www.mlit.go.jp/report/press/mizukokudo13_hh_000752.html" />
+                                <rdf:li rdf:resource="http://www.mlit.go.jp/report/press/house05_hh_001143.html" />
+                                <rdf:li rdf:resource="http://www.mlit.go.jp/report/press/jidosha08_hh_005812.html" />
+                                <rdf:li rdf:resource="http://www.mlit.go.jp/report/press/jidosha08_hh_005818.html" />
+                                <rdf:li rdf:resource="http://www.mlit.go.jp/report/press/jidosha08_hh_005814.html" />
+                                <rdf:li rdf:resource="http://www.mlit.go.jp/report/press/kouku02_hh_000292.html" />
+                                <rdf:li rdf:resource="http://www.mlit.go.jp/report/press/kanbo08_hh_001357.html" />
+                                <rdf:li rdf:resource="http://www.mlit.go.jp/report/press/sogo07_hh_000813.html" />
+                                <rdf:li rdf:resource="http://www.mlit.go.jp/report/press/sogo05_hh_000421.html" />
+                                <rdf:li rdf:resource="http://www.mlit.go.jp/report/press/joho04_hh_001386.html" />
+                                <rdf:li rdf:resource="http://www.mlit.go.jp/report/press/mizukokudo13_hh_000751.html" />
+                                <rdf:li rdf:resource="http://www.mlit.go.jp/report/press/jidosha04_hh_000358.html" />
+                                <rdf:li rdf:resource="http://www.mlit.go.jp/report/press/kaiji05_hh_000342.html" />
+                        </rdf:Seq>
+                </items>
+        </channel>
+        <item rdf:about="http://www.mlit.go.jp/report/press/mizukokudo03_hh_001360.html">
+                <title>「第２回　気候変動関連データの活用と適応に関する実践パネル」を開催します～気候変動関連データの利活用事例や課題について議論します～</title>
+                <link>http://www.mlit.go.jp/report/press/mizukokudo03_hh_001360.html</link>
+                <dc:creator>国土交通省</dc:creator>
+                <dc:date>2026-08-19T05:00:00+09:00</dc:date>
+        </item>
+        <item rdf:about="http://www.mlit.go.jp/report/press/mizukokudo13_hh_000754.html">
+                <title>「鉛製給水管の布設替えに関する手引き」改定に向けた検討を行います～鉛製給水管の早期解消に向けた取組推進のために～</title>
+                <link>http://www.mlit.go.jp/report/press/mizukokudo13_hh_000754.html</link>
+                <dc:creator>国土交通省</dc:creator>
+                <dc:date>2026-08-19T05:00:00+09:00</dc:date>
+        </item>
+        <item rdf:about="http://www.mlit.go.jp/report/press/house06_hh_000254.html">
+                <title>小学校の防災学習から家庭や地域に広げる住まいの耐震化！～「巨大地震のサバイバル 住まいの耐震編」と先生用ガイドを小学校に配布～</title>
+                <link>http://www.mlit.go.jp/report/press/house06_hh_000254.html</link>
+                <dc:creator>国土交通省</dc:creator>
+                <dc:date>2026-08-19T05:00:00+09:00</dc:date>
+        </item>
+        <item rdf:about="http://www.mlit.go.jp/report/press/kaiji08_hh_000122.html">
+                <title>世界各国と協調して外国船舶への立入検査（PSC：ポート・ステート・コントロール）の集中検査キャンペーンを実施します！</title>
+                <link>http://www.mlit.go.jp/report/press/kaiji08_hh_000122.html</link>
+                <dc:creator>国土交通省</dc:creator>
+                <dc:date>2026-08-19T05:00:00+09:00</dc:date>
+        </item>
+        <item rdf:about="http://www.mlit.go.jp/report/press/kaiji07_hh_000402.html">
+                <title>内航船革新的運航効率化・非化石エネルギー転換推進事業の３次公募開始～内航海運における省エネルギー化・非化石エネルギー転換を支援します～</title>
+                <link>http://www.mlit.go.jp/report/press/kaiji07_hh_000402.html</link>
+                <dc:creator>国土交通省</dc:creator>
+                <dc:date>2026-08-19T05:00:00+09:00</dc:date>
+        </item>
+        <item rdf:about="http://www.mlit.go.jp/report/press/mizukokudo13_hh_000752.html">
+                <title>下水道管路のマネジメントに関する技術的事項の議論を行います～第７回下水道管路マネジメントのための技術基準等検討会を開催～</title>
+                <link>http://www.mlit.go.jp/report/press/mizukokudo13_hh_000752.html</link>
+                <dc:creator>国土交通省</dc:creator>
+                <dc:date>2026-08-18T05:00:00+09:00</dc:date>
+        </item>
+        <item rdf:about="http://www.mlit.go.jp/report/press/house05_hh_001143.html">
+                <title>令和８年熊本地震における建築物構造被害の原因分析を行う委員会（第１回）を開催します</title>
+                <link>http://www.mlit.go.jp/report/press/house05_hh_001143.html</link>
+                <dc:creator>国土交通省</dc:creator>
+                <dc:date>2026-08-18T05:00:00+09:00</dc:date>
+        </item>
+        <item rdf:about="http://www.mlit.go.jp/report/press/jidosha08_hh_005812.html">
+                <title>オートバイの「希望ナンバー制」の申込開始日を決定！～本年10月19日（月）より申込受付を開始します～</title>
+                <link>http://www.mlit.go.jp/report/press/jidosha08_hh_005812.html</link>
+                <dc:creator>国土交通省</dc:creator>
+                <dc:date>2026-08-18T05:00:00+09:00</dc:date>
+        </item>
+        <item rdf:about="http://www.mlit.go.jp/report/press/jidosha08_hh_005818.html">
+                <title>リコールの届出について（三菱　ふそうスーパーグレート）</title>
+                <link>http://www.mlit.go.jp/report/press/jidosha08_hh_005818.html</link>
+                <dc:creator>国土交通省</dc:creator>
+                <dc:date>2026-08-18T05:00:00+09:00</dc:date>
+        </item>
+        <item rdf:about="http://www.mlit.go.jp/report/press/jidosha08_hh_005814.html">
+                <title>リコールの届出について（ランドローバー　DEFENDER 110　他）</title>
+                <link>http://www.mlit.go.jp/report/press/jidosha08_hh_005814.html</link>
+                <dc:creator>国土交通省</dc:creator>
+                <dc:date>2026-08-18T05:00:00+09:00</dc:date>
+        </item>
+        <item rdf:about="http://www.mlit.go.jp/report/press/kouku02_hh_000292.html">
+                <title>第１回 気球の安全性確保に関するガイドライン検討会を開催します</title>
+                <link>http://www.mlit.go.jp/report/press/kouku02_hh_000292.html</link>
+                <dc:creator>国土交通省</dc:creator>
+                <dc:date>2026-08-18T05:00:00+09:00</dc:date>
+        </item>
+        <item rdf:about="http://www.mlit.go.jp/report/press/kanbo08_hh_001357.html">
+                <title>研究開発を実施する民間事業者を公募します～AIモニタリングシステムの研究開発体制を構築～</title>
+                <link>http://www.mlit.go.jp/report/press/kanbo08_hh_001357.html</link>
+                <dc:creator>国土交通省</dc:creator>
+                <dc:date>2026-08-18T05:00:00+09:00</dc:date>
+        </item>
+        <item rdf:about="http://www.mlit.go.jp/report/press/sogo07_hh_000813.html">
+                <title>佐々木副大臣によるウズベキスタン出張の結果概要</title>
+                <link>http://www.mlit.go.jp/report/press/sogo07_hh_000813.html</link>
+                <dc:creator>国土交通省</dc:creator>
+                <dc:date>2026-08-18T05:00:00+09:00</dc:date>
+        </item>
+        <item rdf:about="http://www.mlit.go.jp/report/press/sogo05_hh_000421.html">
+                <title>金子大臣のフィリピン・マレーシア出張の結果概要</title>
+                <link>http://www.mlit.go.jp/report/press/sogo05_hh_000421.html</link>
+                <dc:creator>国土交通省</dc:creator>
+                <dc:date>2026-08-17T05:00:00+09:00</dc:date>
+        </item>
+        <item rdf:about="http://www.mlit.go.jp/report/press/joho04_hh_001386.html">
+                <title>建設総合統計（令和8年6月分）</title>
+                <link>http://www.mlit.go.jp/report/press/joho04_hh_001386.html</link>
+                <dc:creator>国土交通省</dc:creator>
+                <dc:date>2026-08-17T05:00:00+09:00</dc:date>
+        </item>
+        <item rdf:about="http://www.mlit.go.jp/report/press/mizukokudo13_hh_000751.html">
+                <title>「水道広域化検討の手引き」改定に向けた検討を行います ～水道の基盤強化に向けた広域連携の推進のために～</title>
+                <link>http://www.mlit.go.jp/report/press/mizukokudo13_hh_000751.html</link>
+                <dc:creator>国土交通省</dc:creator>
+                <dc:date>2026-08-17T05:00:00+09:00</dc:date>
+        </item>
+        <item rdf:about="http://www.mlit.go.jp/report/press/jidosha04_hh_000358.html">
+                <title>輸送効率化を通じた更なる省エネ化に必要なシステムや車両に対する導入補助の３次公募を開始します！～令和８年度「トラック輸送省エネ化推進事業」～</title>
+                <link>http://www.mlit.go.jp/report/press/jidosha04_hh_000358.html</link>
+                <dc:creator>国土交通省</dc:creator>
+                <dc:date>2026-08-17T05:00:00+09:00</dc:date>
+        </item>
+        <item rdf:about="http://www.mlit.go.jp/report/press/kaiji05_hh_000342.html">
+                <title>次世代船舶の世界トップシェア獲得に向け、更なる設備投資を促進～ゼロエミッション船等の建造促進事業（令和７年度補正予算）において、４件の事業を採択しました～</title>
+                <link>http://www.mlit.go.jp/report/press/kaiji05_hh_000342.html</link>
+                <dc:creator>国土交通省</dc:creator>
+                <dc:date>2026-08-17T05:00:00+09:00</dc:date>
+        </item>
+</rdf:RDF>
