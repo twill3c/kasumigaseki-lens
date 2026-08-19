@@ -46,10 +46,14 @@ def test_t201_contents():
     assert "見出しとリンクのみ" in html
     # lang 指定
     assert 'lang="ja"' in html
-    # フッタの操作説明・設計図リンク
+    # フッタは hodo-hangenki 準拠の 5 リンク構成
+    assert 'href="https://github.com/twill3c/kasumigaseki-lens/blob/main/LICENSE"' in html
+    assert "MIT License" in html and "© 2026 坂田哲朗" in html
+    assert 'href="https://github.com/twill3c/kasumigaseki-lens"' in html
     assert 'href="https://claude.ai/code/artifact/33922a13-af7b-44a2-8a2c-82473d122438"' in html
     assert 'href="https://claude.ai/code/artifact/a4ead9df-d42b-41d8-99ec-cb5bc3bddbaf"' in html
-    assert "操作説明" in html and "設計図" in html
+    assert "kasumigaseki-lens の歩き方" in html and "kasumigaseki-lens 設計図" in html
+    assert 'href="https://app-menu-amber.vercel.app"' in html and "App Menu" in html
 
 
 def test_t202_links_and_escaping():
