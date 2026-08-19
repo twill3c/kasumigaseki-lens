@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-08-19T21:59:09Z",
+ "generated_at": "2026-08-19T22:56:55Z",
  "companies": [
   {
    "id": "kantei",
    "name": "首相官邸",
    "source_url": "https://www.kantei.go.jp/jp/news/index.html",
-   "fetched_at": "2026-08-19T21:59:09Z",
+   "fetched_at": "2026-08-19T22:56:55Z",
    "ok": true,
    "items": [
     {
@@ -39,7 +39,7 @@
    "id": "cao",
    "name": "内閣府",
    "source_url": "https://www.cao.go.jp/press/houdou.html",
-   "fetched_at": "2026-08-19T21:59:09Z",
+   "fetched_at": "2026-08-19T22:56:55Z",
    "ok": true,
    "items": [
     {
@@ -73,7 +73,7 @@
    "id": "digital",
    "name": "デジタル庁",
    "source_url": "https://www.digital.go.jp/news",
-   "fetched_at": "2026-08-19T21:59:09Z",
+   "fetched_at": "2026-08-19T22:56:55Z",
    "ok": true,
    "items": [
     {
@@ -107,7 +107,7 @@
    "id": "fsa",
    "name": "金融庁",
    "source_url": "https://www.fsa.go.jp/news/index.html",
-   "fetched_at": "2026-08-19T21:59:09Z",
+   "fetched_at": "2026-08-19T22:56:55Z",
    "ok": true,
    "items": [
     {
@@ -141,7 +141,7 @@
    "id": "soumu",
    "name": "総務省",
    "source_url": "https://www.soumu.go.jp/menu_news/s-news/index.html",
-   "fetched_at": "2026-08-19T21:59:09Z",
+   "fetched_at": "2026-08-19T22:56:55Z",
    "ok": true,
    "items": [
     {
@@ -175,7 +175,7 @@
    "id": "moj",
    "name": "法務省",
    "source_url": "https://www.moj.go.jp/press_index.html",
-   "fetched_at": "2026-08-19T21:59:09Z",
+   "fetched_at": "2026-08-19T22:56:55Z",
    "ok": true,
    "items": [
     {
@@ -210,7 +210,7 @@
    "name": "外務省",
    "source_url": "https://www.mofa.go.jp/mofaj/press/release/index.html",
    "fetched_at": "2026-08-19T21:59:09Z",
-   "ok": true,
+   "ok": false,
    "items": [
     {
      "title": "駐日ボツワナ共和国大使信任状捧呈",
@@ -243,7 +243,7 @@
    "id": "mof",
    "name": "財務省",
    "source_url": "https://www.mof.go.jp/news/index.html",
-   "fetched_at": "2026-08-19T21:59:09Z",
+   "fetched_at": "2026-08-19T22:56:55Z",
    "ok": true,
    "items": [
     {
@@ -277,7 +277,7 @@
    "id": "mext",
    "name": "文部科学省",
    "source_url": "https://www.mext.go.jp/b_menu/news/index.html",
-   "fetched_at": "2026-08-19T21:59:09Z",
+   "fetched_at": "2026-08-19T22:56:55Z",
    "ok": true,
    "items": [
     {
@@ -311,7 +311,7 @@
    "id": "mhlw",
    "name": "厚生労働省",
    "source_url": "https://www.mhlw.go.jp/stf/houdou/index.html",
-   "fetched_at": "2026-08-19T21:59:09Z",
+   "fetched_at": "2026-08-19T22:56:55Z",
    "ok": true,
    "items": [
     {
@@ -345,7 +345,7 @@
    "id": "maff",
    "name": "農林水産省",
    "source_url": "https://www.maff.go.jp/j/press/index.html",
-   "fetched_at": "2026-08-19T21:59:09Z",
+   "fetched_at": "2026-08-19T22:56:55Z",
    "ok": true,
    "items": [
     {
@@ -379,33 +379,33 @@
    "id": "meti",
    "name": "経済産業省",
    "source_url": "https://www.meti.go.jp/press/index.html",
-   "fetched_at": "2026-08-19T21:59:09Z",
+   "fetched_at": "2026-08-19T22:56:55Z",
    "ok": true,
    "items": [
     {
-     "title": "令和8年度物流パートナーシップ優良事業者を募集します",
-     "url": "https://www.meti.go.jp/press/2026/06/20260619003/20260619003.html",
-     "date": "2026-06-19"
+     "title": "「健康経営銘柄2027」・「健康経営優良法人2027」の申請受付を開始しました",
+     "url": "https://www.meti.go.jp/press/2026/08/20260817001.html",
+     "date": "2026-08-17"
     },
     {
-     "title": "中華人民共和国産並びに台湾、澎湖諸島、金門及び馬祖から成る独立の関税地域産ニッケル系ステンレス冷延鋼帯及び冷延鋼板に対する不当廉売関税の課税に関する調査において、不当廉売がされた貨物の輸入の事実及び当該輸入の本邦の産業に与える実質的な損害等の事実を推定することについての決定（仮の決定）をしました",
-     "url": "https://www.meti.go.jp/press/2026/06/20260619001/20260619001.html",
-     "date": "2026-06-19"
+     "title": "令和8年8月13日からの大雨に伴う災害に関して被災中小企業・小規模事業者支援措置を行います",
+     "url": "https://www.meti.go.jp/press/2026/08/20260814001.html",
+     "date": "2026-08-14"
     },
     {
-     "title": "中華人民共和国産並びに台湾、澎湖諸島、金門及び馬祖から成る独立の関税地域産ニッケル系ステンレス冷延鋼帯及び冷延鋼板に対する不当廉売関税の課税に関する調査の期間を延長します",
-     "url": "https://www.meti.go.jp/press/2026/06/20260619002/20260619002.html",
-     "date": "2026-06-19"
+     "title": "水素閣僚会議（第8回）及び水素・アンモニア国際官民シンポジウムを開催します",
+     "url": "https://www.meti.go.jp/press/2026/08/20260813001.html",
+     "date": "2026-08-13"
     },
     {
-     "title": "「「企業買収における行動指針」の解釈について（案）」、「「企業買収における行動指針」のポイント（案）」及び「「企業買収における行動指針」Q&A（案）」に係るパブリックコメントの受付を開始しました",
-     "url": "https://www.meti.go.jp/press/2026/06/20260618004/20260618004.html",
-     "date": "2026-06-18"
+     "title": "再生可能エネルギー特別措置法に基づき、納付金を納付しない電気事業者を公表します",
+     "url": "https://www.meti.go.jp/press/2026/08/20260812001.html",
+     "date": "2026-08-12"
     },
     {
-     "title": "「リチウムイオン電池総合対策ポータルサイト」を公開します",
-     "url": "https://www.meti.go.jp/press/2026/06/20260618003/20260618003.html",
-     "date": "2026-06-18"
+     "title": "懲戒処分の公表について",
+     "url": "https://www.meti.go.jp/press/2026/08/20260810001.html",
+     "date": "2026-08-10"
     }
    ]
   },
@@ -413,7 +413,7 @@
    "id": "mlit",
    "name": "国土交通省",
    "source_url": "https://www.mlit.go.jp/report/press/index.html",
-   "fetched_at": "2026-08-19T21:59:09Z",
+   "fetched_at": "2026-08-19T22:56:55Z",
    "ok": true,
    "items": [
     {
@@ -447,7 +447,7 @@
    "id": "env",
    "name": "環境省",
    "source_url": "https://www.env.go.jp/press/index.html",
-   "fetched_at": "2026-08-19T21:59:09Z",
+   "fetched_at": "2026-08-19T22:56:55Z",
    "ok": true,
    "items": [
     {
@@ -481,7 +481,7 @@
    "id": "mod",
    "name": "防衛省",
    "source_url": "https://www.mod.go.jp/j/press/news/index.html",
-   "fetched_at": "2026-08-19T21:59:09Z",
+   "fetched_at": "2026-08-19T22:56:55Z",
    "ok": true,
    "items": [
     {
