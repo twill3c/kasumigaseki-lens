@@ -46,6 +46,10 @@ def test_t201_contents():
     assert "見出しとリンクのみ" in html
     # lang 指定
     assert 'lang="ja"' in html
+    # フッタの操作説明・設計図リンク
+    assert 'href="https://claude.ai/code/artifact/33922a13-af7b-44a2-8a2c-82473d122438"' in html
+    assert 'href="https://claude.ai/code/artifact/a4ead9df-d42b-41d8-99ec-cb5bc3bddbaf"' in html
+    assert "操作説明" in html and "設計図" in html
 
 
 def test_t202_links_and_escaping():
