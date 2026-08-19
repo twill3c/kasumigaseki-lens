@@ -1,0 +1,30 @@
+name: probe-meti
+
+# 一時プローブ: METI press/index.html が Actions ランナーの IP から
+# 取得できるか(AWS WAF チャレンジの有無)を確認する。確認後に削除する。
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch METI press index
+        run: |
+          UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
+          curl -sS -D headers.txt -o meti_index.html \
+            -H "User-Agent: $UA" -H "Accept-Language: ja" \
+            https://www.meti.go.jp/press/index.html || true
+          echo "--- headers ---"; cat headers.txt
+          echo "--- size ---"; wc -c meti_index.html
+          echo "--- aug dates ---"; grep -o "2026年8月[0-9]*日" meti_index.html | head -20 || true
+      - uses: actions/upload-artifact@v4
+        with:
+          name: meti-index
+          path: |
+            meti_index.html
+            headers.txt
