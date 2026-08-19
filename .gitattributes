@@ -1,0 +1,4 @@
+# CI(LF)生成物を Windows checkout で CRLF 化させない(hodo-hangenki の教訓)
+data/** -text
+tests/fixtures/** -text
+out/** -text
