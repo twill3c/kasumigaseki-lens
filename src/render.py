@@ -20,6 +20,12 @@ def _date_label(date: str) -> str:
     return date if date else "—"
 
 
+def latest_date(co: dict) -> str:
+    """カード内の最新日付(日付不明のみなら空)。期間フィルタの判定に使う。"""
+    dates = [i["date"] for i in co["items"] if i["date"]]
+    return max(dates) if dates else ""
+
+
 def _company_section(co: dict) -> str:
     rows = []
     for it in co["items"]:
@@ -37,7 +43,8 @@ def _company_section(co: dict) -> str:
             f"{escape(_jst(co['fetched_at']))} JST 時点)</p>\n"
         )
     return (
-        f'  <section class="company" id="{escape(co["id"])}">\n'
+        f'  <section class="company" id="{escape(co["id"])}"'
+        f' data-latest="{latest_date(co)}">\n'
         f'    <h2><a href="{escape(co["source_url"], quote=True)}"'
         f' target="_blank" rel="noopener noreferrer">{escape(co["name"])}</a></h2>\n'
         f"{note}"
@@ -89,6 +96,16 @@ main {{ display: grid; grid-template-columns: repeat(auto-fill, minmax(21rem, 1f
 .headline:hover {{ text-decoration: underline; }}
 .stale {{ color: var(--stale); font-size: .78rem; margin-bottom: .4rem; }}
 .empty {{ color: var(--sub); font-size: .85rem; }}
+.controls {{ display: flex; flex-wrap: wrap; gap: .5rem; align-items: center;
+  margin: 0 0 1rem; }}
+.chip {{ background: var(--card); border: 1px solid var(--line); color: var(--sub);
+  border-radius: 999px; padding: .3rem .8rem; font-size: .8rem; cursor: pointer;
+  user-select: none; white-space: nowrap; }}
+.chip:hover {{ color: var(--ink); }}
+.chip.on {{ background: var(--accent); border-color: var(--accent); color: var(--bg);
+  font-weight: 600; }}
+.hidden {{ display: none; }}
+.noresult {{ color: var(--sub); font-size: .85rem; padding: 1rem 0; }}
 .notice {{ margin-top: 2.2rem; color: var(--sub); font-size: .78rem;
   border-top: 1px solid var(--line); padding-top: 1rem; }}
 footer {{ position: fixed; left: 0; right: 0; bottom: 0; z-index: 10;
@@ -104,8 +121,13 @@ footer a {{ color: var(--sub); }}
   <h1>霞が関レンズ<span class="en">KASUMIGASEKI LENS</span></h1>
   <p class="updated">中央省庁等 {n} 機関の最新報道発表(各 5 件) — 最終更新 {generated} JST(6 時間ごとに自動更新)</p>
 </header>
+<div class="controls">
+  <span class="chip" id="f1m">直近1ヶ月の発信がある組織</span>
+  <span class="chip" id="f1w">直近1週間の発信がある組織</span>
+</div>
 <main>
 {sections}
+<p class="noresult hidden" id="noresult">該当する組織がありません</p>
 </main>
 <div class="notice">
   <p>本サイトは各機関が公式に公開する報道発表の見出しとリンクのみを収集・表示しています(本文は保存していません)。
@@ -118,6 +140,35 @@ footer a {{ color: var(--sub); }}
   ・ <a href="https://claude.ai/code/artifact/a4ead9df-d42b-41d8-99ec-cb5bc3bddbaf" target="_blank" rel="noopener">kasumigaseki-lens 設計図</a>
   ・ <a href="https://app-menu-amber.vercel.app" target="_blank" rel="noopener">App Menu</a></p>
 </footer>
+<script>
+// 期間の基準は閲覧時点(ビルド時に焼き込まない)
+const cutoff = days => new Date(Date.now() - days*864e5).toISOString().slice(0,10);
+let only1m = false, only1w = false;
+function render() {{
+  const c1m = cutoff(30), c1w = cutoff(7);
+  let shown = 0;
+  for (const sec of document.querySelectorAll(".company")) {{
+    const latest = sec.dataset.latest;
+    let ok = true;
+    if (only1m) ok = latest >= c1m;
+    if (ok && only1w) ok = latest >= c1w;
+    sec.classList.toggle("hidden", !ok);
+    if (ok) shown++;
+  }}
+  document.getElementById("noresult").classList.toggle("hidden", shown > 0);
+}}
+document.getElementById("f1m").onclick = e => {{
+  only1m = !only1m;
+  if (only1m) {{ only1w = false; document.getElementById("f1w").classList.remove("on"); }}
+  e.target.classList.toggle("on", only1m); render();
+}};
+document.getElementById("f1w").onclick = e => {{
+  only1w = !only1w;
+  if (only1w) {{ only1m = false; document.getElementById("f1m").classList.remove("on"); }}
+  e.target.classList.toggle("on", only1w); render();
+}};
+render();
+</script>
 </body>
 </html>
 """

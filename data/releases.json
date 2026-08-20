@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-08-20T19:07:53Z",
+ "generated_at": "2026-08-20T22:18:42Z",
  "companies": [
   {
    "id": "kantei",
    "name": "首相官邸",
    "source_url": "https://www.kantei.go.jp/jp/news/index.html",
-   "fetched_at": "2026-08-20T19:07:53Z",
+   "fetched_at": "2026-08-20T22:18:42Z",
    "ok": true,
    "items": [
     {
@@ -39,7 +39,7 @@
    "id": "cao",
    "name": "内閣府",
    "source_url": "https://www.cao.go.jp/press/houdou.html",
-   "fetched_at": "2026-08-20T19:07:53Z",
+   "fetched_at": "2026-08-20T22:18:42Z",
    "ok": true,
    "items": [
     {
@@ -73,7 +73,7 @@
    "id": "digital",
    "name": "デジタル庁",
    "source_url": "https://www.digital.go.jp/news",
-   "fetched_at": "2026-08-20T19:07:53Z",
+   "fetched_at": "2026-08-20T22:18:42Z",
    "ok": true,
    "items": [
     {
@@ -107,7 +107,7 @@
    "id": "fsa",
    "name": "金融庁",
    "source_url": "https://www.fsa.go.jp/news/index.html",
-   "fetched_at": "2026-08-20T19:07:53Z",
+   "fetched_at": "2026-08-20T22:18:42Z",
    "ok": true,
    "items": [
     {
@@ -141,7 +141,7 @@
    "id": "soumu",
    "name": "総務省",
    "source_url": "https://www.soumu.go.jp/menu_news/s-news/index.html",
-   "fetched_at": "2026-08-20T19:07:53Z",
+   "fetched_at": "2026-08-20T22:18:42Z",
    "ok": true,
    "items": [
     {
@@ -175,7 +175,7 @@
    "id": "moj",
    "name": "法務省",
    "source_url": "https://www.moj.go.jp/press_index.html",
-   "fetched_at": "2026-08-20T19:07:53Z",
+   "fetched_at": "2026-08-20T22:18:42Z",
    "ok": true,
    "items": [
     {
@@ -209,9 +209,24 @@
    "id": "mofa",
    "name": "外務省",
    "source_url": "https://www.mofa.go.jp/mofaj/press/release/index.html",
-   "fetched_at": "2026-08-19T21:59:09Z",
-   "ok": false,
+   "fetched_at": "2026-08-20T22:18:42Z",
+   "ok": true,
    "items": [
+    {
+     "title": "第4回「東京国際法セミナー」の開催",
+     "url": "https://www.mofa.go.jp/mofaj/press/release/pressit_000001_04067.html",
+     "date": "2026-08-20"
+    },
+    {
+     "title": "アフリカユースプログラム（アフリカ高校生の訪日招へい（第2弾）及び日本の大学生のアフリカ派遣）",
+     "url": "https://www.mofa.go.jp/mofaj/press/release/pressit_000001_04066.html",
+     "date": "2026-08-20"
+    },
+    {
+     "title": "大久保・ガザ再建支援担当大使とシャアス・ガザ行政国民委員会（NCAG）委員長のオンライン協議",
+     "url": "https://www.mofa.go.jp/mofaj/press/release/pressit_000001_04065.html",
+     "date": "2026-08-19"
+    },
     {
      "title": "駐日ボツワナ共和国大使信任状捧呈",
      "url": "https://www.mofa.go.jp/mofaj/press/release/pressit_000001_04063.html",
@@ -221,21 +236,6 @@
      "title": "駐日フィジー共和国大使信任状捧呈",
      "url": "https://www.mofa.go.jp/mofaj/press/release/pressit_000001_04062.html",
      "date": "2026-08-19"
-    },
-    {
-     "title": "ハイチ共和国に対する無償資金協力「社会サービスへのアクセス改善計画（OAS連携）」に関する書簡の署名・交換",
-     "url": "https://www.mofa.go.jp/mofaj/press/release/pressit_000001_04061.html",
-     "date": "2026-08-19"
-    },
-    {
-     "title": "島田外務大臣政務官のウクライナ日本語関係者グループ招へい事業レセプション出席",
-     "url": "https://www.mofa.go.jp/mofaj/press/release/pressit_000001_04060.html",
-     "date": "2026-08-18"
-    },
-    {
-     "title": "駐日インドネシア共和国大使信任状捧呈",
-     "url": "https://www.mofa.go.jp/mofaj/press/release/pressit_000001_04059.html",
-     "date": "2026-08-18"
     }
    ]
   },
@@ -243,7 +243,7 @@
    "id": "mof",
    "name": "財務省",
    "source_url": "https://www.mof.go.jp/news/index.html",
-   "fetched_at": "2026-08-20T19:07:53Z",
+   "fetched_at": "2026-08-20T22:18:42Z",
    "ok": true,
    "items": [
     {
@@ -277,7 +277,7 @@
    "id": "mext",
    "name": "文部科学省",
    "source_url": "https://www.mext.go.jp/b_menu/news/index.html",
-   "fetched_at": "2026-08-20T19:07:53Z",
+   "fetched_at": "2026-08-20T22:18:42Z",
    "ok": true,
    "items": [
     {
@@ -311,7 +311,7 @@
    "id": "mhlw",
    "name": "厚生労働省",
    "source_url": "https://www.mhlw.go.jp/stf/houdou/index.html",
-   "fetched_at": "2026-08-20T19:07:53Z",
+   "fetched_at": "2026-08-20T22:18:42Z",
    "ok": true,
    "items": [
     {
@@ -345,7 +345,7 @@
    "id": "maff",
    "name": "農林水産省",
    "source_url": "https://www.maff.go.jp/j/press/index.html",
-   "fetched_at": "2026-08-20T19:07:53Z",
+   "fetched_at": "2026-08-20T22:18:42Z",
    "ok": true,
    "items": [
     {
@@ -379,7 +379,7 @@
    "id": "meti",
    "name": "経済産業省",
    "source_url": "https://www.meti.go.jp/press/index.html",
-   "fetched_at": "2026-08-20T19:07:53Z",
+   "fetched_at": "2026-08-20T22:18:42Z",
    "ok": true,
    "items": [
     {
@@ -413,7 +413,7 @@
    "id": "mlit",
    "name": "国土交通省",
    "source_url": "https://www.mlit.go.jp/report/press/index.html",
-   "fetched_at": "2026-08-20T19:07:53Z",
+   "fetched_at": "2026-08-20T22:18:42Z",
    "ok": true,
    "items": [
     {
@@ -447,7 +447,7 @@
    "id": "env",
    "name": "環境省",
    "source_url": "https://www.env.go.jp/press/index.html",
-   "fetched_at": "2026-08-20T19:07:53Z",
+   "fetched_at": "2026-08-20T22:18:42Z",
    "ok": true,
    "items": [
     {
@@ -481,7 +481,7 @@
    "id": "mod",
    "name": "防衛省",
    "source_url": "https://www.mod.go.jp/j/press/news/index.html",
-   "fetched_at": "2026-08-20T19:07:53Z",
+   "fetched_at": "2026-08-20T22:18:42Z",
    "ok": true,
    "items": [
     {

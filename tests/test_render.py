@@ -77,3 +77,38 @@ def test_t204_degraded_display():
     assert "取得失敗" in html
     # 前回分なし(items 空)でもページは壊れない
     assert "機関5" in html
+
+
+# ---- 期間フィルタ(直近1ヶ月 / 1週間) ----
+
+def _filter_sample():
+    return {
+        "generated_at": "2026-08-21T03:00:00Z",
+        "companies": [
+            {"id": "a", "name": "A省", "source_url": "https://a.example/news",
+             "fetched_at": "2026-08-21T03:00:00Z", "ok": True,
+             "items": [{"title": "報道発表", "url": "https://a.example/1", "date": "2026-08-20"},
+                       {"title": "旧", "url": "https://a.example/0", "date": "2026-01-01"}]},
+            {"id": "b", "name": "B庁", "source_url": "https://b.example/news",
+             "fetched_at": "2026-08-21T03:00:00Z", "ok": True,
+             "items": [{"title": "日付なし", "url": "https://b.example/1", "date": ""}]},
+        ],
+    }
+
+
+def test_latest_date_helper():
+    from src.render import latest_date
+    d = _filter_sample()
+    assert latest_date(d["companies"][0]) == "2026-08-20"
+    assert latest_date(d["companies"][1]) == ""
+
+
+def test_filter_chips_and_card_metadata():
+    html = render_html(_filter_sample())
+    assert 'id="f1m"' in html and 'id="f1w"' in html
+    assert "直近1ヶ月の発信がある組織" in html
+    assert "直近1週間の発信がある組織" in html
+    assert 'data-latest="2026-08-20"' in html
+    assert 'data-latest=""' in html
+    assert "const cutoff = days =>" in html
+    assert "該当する組織がありません" in html
