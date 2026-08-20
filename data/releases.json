@@ -1,37 +1,37 @@
 {
- "generated_at": "2026-08-20T07:13:40Z",
+ "generated_at": "2026-08-20T13:24:07Z",
  "companies": [
   {
    "id": "kantei",
    "name": "首相官邸",
    "source_url": "https://www.kantei.go.jp/jp/news/index.html",
-   "fetched_at": "2026-08-20T07:13:40Z",
+   "fetched_at": "2026-08-20T13:24:07Z",
    "ok": true,
    "items": [
     {
-     "title": "高市総理はエルドアン・トルコ共和国大統領との電話会談及び国際刑事裁判所（ＩＣＣ）に対する米国の制裁についての会見を行いました",
-     "url": "https://www.kantei.go.jp/jp/105/statement/2026/0819kaiken.html",
-     "date": "2026-08-20"
+     "title": "北朝鮮による弾道ミサイル発射事案に係る関連情報について",
+     "url": "https://www.kantei.go.jp/index-jnews.rdf",
+     "date": "2026-08-21"
     },
     {
-     "title": "高市総理はトルコ共和国のレジェップ・タイップ・エルドアン大統領と電話会談を行いました",
-     "url": "https://www.kantei.go.jp/jp/105/actions/202608/19tel_kaidan.html",
-     "date": "2026-08-20"
+     "title": "高市総理は英国のアンディ・バーナム首相と電話会談を行いました",
+     "url": "https://www.kantei.go.jp/jp/105/actions/202608/20tel_kaidan.html",
+     "date": "2026-08-21"
     },
     {
-     "title": "高市総理は第１１回令和８年熊本地震非常災害対策本部会議・第１回令和８年８月千葉豪雨に関する関係閣僚会議に出席しました",
-     "url": "https://www.kantei.go.jp/jp/105/actions/202608/18hijoukaigi_chibagouu.html",
-     "date": "2026-08-19"
+     "title": "高市総理はバーナム英国首相との電話会談についての会見を行いました",
+     "url": "https://www.kantei.go.jp/jp/105/statement/2026/0820kaiken.html",
+     "date": "2026-08-21"
     },
     {
-     "title": "高市総理は沖縄豆記者団による表敬を受けました",
-     "url": "https://www.kantei.go.jp/jp/105/actions/202608/18hyoukei.html",
-     "date": "2026-08-18"
+     "title": "高市総理は北朝鮮からの弾道ミサイルの可能性があるものの発射に関する指示を行いました",
+     "url": "https://www.kantei.go.jp/jp/105/discourse/20260820shiji.html",
+     "date": "2026-08-21"
     },
     {
-     "title": "高市総理は九州経済４団体による「令和８年熊本地震」災害の復旧・復興に関する緊急要望申入れを受けました",
-     "url": "https://www.kantei.go.jp/jp/105/actions/202608/18moushiire.html",
-     "date": "2026-08-18"
+     "title": "プーチン・ロシア大統領による択捉島訪問について（冒頭発言なし）",
+     "url": "https://www.kantei.go.jp/jp/tyoukanpress/202608/20_p.html",
+     "date": "2026-08-21"
     }
    ]
   },
@@ -39,7 +39,7 @@
    "id": "cao",
    "name": "内閣府",
    "source_url": "https://www.cao.go.jp/press/houdou.html",
-   "fetched_at": "2026-08-20T07:13:40Z",
+   "fetched_at": "2026-08-20T13:24:07Z",
    "ok": true,
    "items": [
     {
@@ -73,9 +73,19 @@
    "id": "digital",
    "name": "デジタル庁",
    "source_url": "https://www.digital.go.jp/news",
-   "fetched_at": "2026-08-20T07:13:40Z",
+   "fetched_at": "2026-08-20T13:24:07Z",
    "ok": true,
    "items": [
+    {
+     "title": "令和8年熊本地震に関する対応状況について（8月20日）",
+     "url": "https://www.digital.go.jp/news/9d9d57f1-7af7-4592-ae6f-6d0f855f6025",
+     "date": "2026-08-20"
+    },
+    {
+     "title": "令和8年熊本地震罹災証明書（り災証明書）のオンライン申請について（2026年8月20日更新）",
+     "url": "https://www.digital.go.jp/news/f83a8d24-4c79-4c47-b768-6a2435c3d350",
+     "date": "2026-08-20"
+    },
     {
      "title": "法制事務デジタル化・法令等データ利活用促進について調査・実証／技術検証における令和7年度資料を掲載しました",
      "url": "https://www.digital.go.jp/policies/legal-practice",
@@ -90,16 +100,6 @@
      "title": "マイナンバーカード・インフォ（民間事業者向け情報）Vol.150、151を掲載しました",
      "url": "https://www.digital.go.jp/policies/mynumber/private-business/info",
      "date": "2026-08-20"
-    },
-    {
-     "title": "マイナンバーカード・インフォ（自治体向け情報）Vol.130、131を掲載しました",
-     "url": "https://www.digital.go.jp/policies/mynumber/local-government/info",
-     "date": "2026-08-20"
-    },
-    {
-     "title": "第5回各府省庁DX推進連絡会議・第22回デジタル社会推進会議幹事会 合同会議の会議資料に係る資料3を掲載しました",
-     "url": "https://www.digital.go.jp/councils/social-promotion-executive/ae866c14-3ed0-4b12-bdf8-db16c4fdc858",
-     "date": "2026-08-20"
     }
    ]
   },
@@ -107,7 +107,7 @@
    "id": "fsa",
    "name": "金融庁",
    "source_url": "https://www.fsa.go.jp/news/index.html",
-   "fetched_at": "2026-08-20T07:13:40Z",
+   "fetched_at": "2026-08-20T13:24:07Z",
    "ok": true,
    "items": [
     {
@@ -141,9 +141,14 @@
    "id": "soumu",
    "name": "総務省",
    "source_url": "https://www.soumu.go.jp/menu_news/s-news/index.html",
-   "fetched_at": "2026-08-20T07:13:40Z",
+   "fetched_at": "2026-08-20T13:24:07Z",
    "ok": true,
    "items": [
+    {
+     "title": "情報通信審議会 郵政政策部会 郵便事業政策委員会（第1回）開催案内",
+     "url": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/02ryutsu14_04000217.html",
+     "date": "2026-08-20"
+    },
     {
      "title": "「郵便事業の安定的・持続的な運営を確保するための方策及び郵便局が地域を支援する役割を果たすためのサービス提供の在り方」 の情報通信審議会への諮問",
      "url": "https://www.soumu.go.jp/menu_news/s-news/01ryutsu14_02000171.html",
@@ -163,11 +168,6 @@
      "title": "情報通信審議会　郵政政策部会（第41回）配布資料・議事概要・議事録",
      "url": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/02tsushin10_04000731.html",
      "date": "2026-08-20"
-    },
-    {
-     "title": "令和8年熊本地震に関する被害状況等について（第50報）",
-     "url": "https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu01_000735.html",
-     "date": "2026-08-20"
     }
    ]
   },
@@ -175,7 +175,7 @@
    "id": "moj",
    "name": "法務省",
    "source_url": "https://www.moj.go.jp/press_index.html",
-   "fetched_at": "2026-08-20T07:13:40Z",
+   "fetched_at": "2026-08-20T13:24:07Z",
    "ok": true,
    "items": [
     {
@@ -243,7 +243,7 @@
    "id": "mof",
    "name": "財務省",
    "source_url": "https://www.mof.go.jp/news/index.html",
-   "fetched_at": "2026-08-20T07:13:40Z",
+   "fetched_at": "2026-08-20T13:24:07Z",
    "ok": true,
    "items": [
     {
@@ -277,7 +277,7 @@
    "id": "mext",
    "name": "文部科学省",
    "source_url": "https://www.mext.go.jp/b_menu/news/index.html",
-   "fetched_at": "2026-08-20T07:13:40Z",
+   "fetched_at": "2026-08-20T13:24:07Z",
    "ok": true,
    "items": [
     {
@@ -311,7 +311,7 @@
    "id": "mhlw",
    "name": "厚生労働省",
    "source_url": "https://www.mhlw.go.jp/stf/houdou/index.html",
-   "fetched_at": "2026-08-20T07:13:40Z",
+   "fetched_at": "2026-08-20T13:24:07Z",
    "ok": true,
    "items": [
     {
@@ -345,7 +345,7 @@
    "id": "maff",
    "name": "農林水産省",
    "source_url": "https://www.maff.go.jp/j/press/index.html",
-   "fetched_at": "2026-08-20T07:13:40Z",
+   "fetched_at": "2026-08-20T13:24:07Z",
    "ok": true,
    "items": [
     {
@@ -379,9 +379,14 @@
    "id": "meti",
    "name": "経済産業省",
    "source_url": "https://www.meti.go.jp/press/index.html",
-   "fetched_at": "2026-08-20T07:13:40Z",
+   "fetched_at": "2026-08-20T13:24:07Z",
    "ok": true,
    "items": [
+    {
+     "title": "「エンタメ・クリエイティブ産業戦略2026」を取りまとめました",
+     "url": "https://www.meti.go.jp/press/2026/08/20260820001.html",
+     "date": "2026-08-20"
+    },
     {
      "title": "「健康経営銘柄2027」・「健康経営優良法人2027」の申請受付を開始しました",
      "url": "https://www.meti.go.jp/press/2026/08/20260817001.html",
@@ -401,11 +406,6 @@
      "title": "再生可能エネルギー特別措置法に基づき、納付金を納付しない電気事業者を公表します",
      "url": "https://www.meti.go.jp/press/2026/08/20260812001.html",
      "date": "2026-08-12"
-    },
-    {
-     "title": "懲戒処分の公表について",
-     "url": "https://www.meti.go.jp/press/2026/08/20260810001.html",
-     "date": "2026-08-10"
     }
    ]
   },
@@ -413,7 +413,7 @@
    "id": "mlit",
    "name": "国土交通省",
    "source_url": "https://www.mlit.go.jp/report/press/index.html",
-   "fetched_at": "2026-08-20T07:13:40Z",
+   "fetched_at": "2026-08-20T13:24:07Z",
    "ok": true,
    "items": [
     {
@@ -447,7 +447,7 @@
    "id": "env",
    "name": "環境省",
    "source_url": "https://www.env.go.jp/press/index.html",
-   "fetched_at": "2026-08-20T07:13:40Z",
+   "fetched_at": "2026-08-20T13:24:07Z",
    "ok": true,
    "items": [
     {
@@ -481,9 +481,24 @@
    "id": "mod",
    "name": "防衛省",
    "source_url": "https://www.mod.go.jp/j/press/news/index.html",
-   "fetched_at": "2026-08-20T07:13:40Z",
+   "fetched_at": "2026-08-20T13:24:07Z",
    "ok": true,
    "items": [
+    {
+     "title": "北朝鮮のミサイル等関連情報（ミサイル落下推定情報）",
+     "url": "https://www.mod.go.jp/j/press/news/2026/08/20c.html",
+     "date": "2026-08-20"
+    },
+    {
+     "title": "北朝鮮のミサイル等関連情報（ミサイル落下推定情報）",
+     "url": "https://www.mod.go.jp/j/press/news/2026/08/20b.html",
+     "date": "2026-08-20"
+    },
+    {
+     "title": "北朝鮮のミサイル等関連情報（速報）",
+     "url": "https://www.mod.go.jp/j/press/news/2026/08/20a.html",
+     "date": "2026-08-20"
+    },
     {
      "title": "令和８年度体験飛行及び自衛隊音楽まつりの実施について",
      "url": "https://www.mod.go.jp/j/press/news/2026/08/19a.html",
@@ -493,21 +508,6 @@
      "title": "若林防衛大臣政務官の部隊視察の予定について",
      "url": "https://www.mod.go.jp/j/press/news/2026/08/17b.html",
      "date": "2026-08-17"
-    },
-    {
-     "title": "政府専用機の運航について",
-     "url": "https://www.mod.go.jp/j/press/news/2026/08/17a.html",
-     "date": "2026-08-17"
-    },
-    {
-     "title": "小泉防衛大臣の海外出張予定について",
-     "url": "https://www.mod.go.jp/j/press/news/2026/08/14a.html",
-     "date": "2026-08-14"
-    },
-    {
-     "title": "北朝鮮のミサイル等関連情報（続報）",
-     "url": "https://www.mod.go.jp/j/press/news/2026/08/12d.html",
-     "date": "2026-08-12"
     }
    ]
   }
