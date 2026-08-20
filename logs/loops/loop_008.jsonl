@@ -7,3 +7,5 @@
 {"v": "1.2", "ts": "2026-08-21T07:19:04+09:00", "project": "kasumigaseki-lens", "loop_id": "loop_008", "event": "stage_end", "data": {"stage": 5, "stage_name": "検証", "result": "pass"}}
 {"v": "1.2", "ts": "2026-08-21T07:19:04+09:00", "project": "kasumigaseki-lens", "loop_id": "loop_008", "event": "stage_end", "data": {"stage": 6, "stage_name": "文書化", "result": "pass"}}
 {"v": "1.2", "ts": "2026-08-21T07:19:05+09:00", "project": "kasumigaseki-lens", "loop_id": "loop_008", "event": "stage_end", "data": {"stage": 7, "stage_name": "完了", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-21T07:19:05+09:00", "project": "kasumigaseki-lens", "loop_id": "loop_008", "event": "commit", "data": {"kind": "feat", "sha": "c3d103e", "message": "期間フィルタ追加"}}
+{"v": "1.2", "ts": "2026-08-21T07:19:05+09:00", "project": "kasumigaseki-lens", "loop_id": "loop_008", "event": "loop_end", "data": {"outcome": "success", "failure_count": 0, "summary": "期間フィルタ(直近1ヶ月/1週間)を追加。閲覧時点基準"}}
