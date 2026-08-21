@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-08-20T22:18:42Z",
+ "generated_at": "2026-08-21T02:03:06Z",
  "companies": [
   {
    "id": "kantei",
    "name": "首相官邸",
    "source_url": "https://www.kantei.go.jp/jp/news/index.html",
-   "fetched_at": "2026-08-20T22:18:42Z",
+   "fetched_at": "2026-08-21T02:03:06Z",
    "ok": true,
    "items": [
     {
@@ -39,7 +39,7 @@
    "id": "cao",
    "name": "内閣府",
    "source_url": "https://www.cao.go.jp/press/houdou.html",
-   "fetched_at": "2026-08-20T22:18:42Z",
+   "fetched_at": "2026-08-21T02:03:06Z",
    "ok": true,
    "items": [
     {
@@ -73,7 +73,7 @@
    "id": "digital",
    "name": "デジタル庁",
    "source_url": "https://www.digital.go.jp/news",
-   "fetched_at": "2026-08-20T22:18:42Z",
+   "fetched_at": "2026-08-21T02:03:06Z",
    "ok": true,
    "items": [
     {
@@ -107,7 +107,7 @@
    "id": "fsa",
    "name": "金融庁",
    "source_url": "https://www.fsa.go.jp/news/index.html",
-   "fetched_at": "2026-08-20T22:18:42Z",
+   "fetched_at": "2026-08-21T02:03:06Z",
    "ok": true,
    "items": [
     {
@@ -141,9 +141,19 @@
    "id": "soumu",
    "name": "総務省",
    "source_url": "https://www.soumu.go.jp/menu_news/s-news/index.html",
-   "fetched_at": "2026-08-20T22:18:42Z",
+   "fetched_at": "2026-08-21T02:03:06Z",
    "ok": true,
    "items": [
+    {
+     "title": "令和8年熊本地震に関する被害状況等について（第51報）",
+     "url": "https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu01_000736.html",
+     "date": "2026-08-21"
+    },
+    {
+     "title": "2025年基準 消費者物価指数 全国 2026年(令和8年)7月分",
+     "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei08_01000349.html",
+     "date": "2026-08-21"
+    },
     {
      "title": "情報通信審議会 郵政政策部会 郵便事業政策委員会（第1回）開催案内",
      "url": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/02ryutsu14_04000217.html",
@@ -158,16 +168,6 @@
      "title": "みんなの公共サイト運用ガイドライン改定に関する研究会（第1回）の開催について",
      "url": "https://www.soumu.go.jp/main_sosiki/kenkyu/info-accessibility-portal/02ryutsu06_04000260.html",
      "date": "2026-08-20"
-    },
-    {
-     "title": "情報通信審議会 情報通信技術分科会 IPネットワーク設備委員会（第95回）配布資料",
-     "url": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/ipnet/02kiban05_04000795.html",
-     "date": "2026-08-20"
-    },
-    {
-     "title": "情報通信審議会　郵政政策部会（第41回）配布資料・議事概要・議事録",
-     "url": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/02tsushin10_04000731.html",
-     "date": "2026-08-20"
     }
    ]
   },
@@ -175,7 +175,7 @@
    "id": "moj",
    "name": "法務省",
    "source_url": "https://www.moj.go.jp/press_index.html",
-   "fetched_at": "2026-08-20T22:18:42Z",
+   "fetched_at": "2026-08-21T02:03:06Z",
    "ok": true,
    "items": [
     {
@@ -210,7 +210,7 @@
    "name": "外務省",
    "source_url": "https://www.mofa.go.jp/mofaj/press/release/index.html",
    "fetched_at": "2026-08-20T22:18:42Z",
-   "ok": true,
+   "ok": false,
    "items": [
     {
      "title": "第4回「東京国際法セミナー」の開催",
@@ -243,33 +243,33 @@
    "id": "mof",
    "name": "財務省",
    "source_url": "https://www.mof.go.jp/news/index.html",
-   "fetched_at": "2026-08-20T22:18:42Z",
+   "fetched_at": "2026-08-21T02:03:06Z",
    "ok": true,
    "items": [
     {
-     "title": "20年利付国債（第197回）の第II非価格競争入札結果（令和8年8月20日入札）",
-     "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260820a.htm",
-     "date": "2026-08-20"
+     "title": "2年利付国債（9月債）の発行予定額等（令和8年8月21日公表）",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20260821.htm",
+     "date": "2026-08-21"
     },
     {
-     "title": "国庫歳入歳出状況（令和8年度　令和8年6月分）",
-     "url": "https://www.mof.go.jp/insideLink/20260817135557.html",
-     "date": "2026-08-20"
+     "title": "国庫短期証券（第1403回）の発行予定額等",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20260821.htm",
+     "date": "2026-08-21"
     },
     {
-     "title": "財政融資資金現在高（令和8年7月末）",
-     "url": "https://www.mof.go.jp/policy/filp/reference/flf_balance/zaiyuu/zaiyuu0807.html",
-     "date": "2026-08-20"
+     "title": "国庫短期証券（第1402回）の入札発行",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20260821.htm",
+     "date": "2026-08-21"
     },
     {
-     "title": "産業投資現在高（令和8年7月末）",
-     "url": "https://www.mof.go.jp/policy/filp/reference/flf_balance/santou/santou0807.html",
-     "date": "2026-08-20"
+     "title": "政府調達情報",
+     "url": "https://www.mof.go.jp/application-contact/procurement/seihuchoutatsu/index.htm",
+     "date": "2026-08-21"
     },
     {
-     "title": "交付税及び譲与税配付金特別会計の一時借入金の入札結果（令和8年8月20日入札）",
-     "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-result260820.htm",
-     "date": "2026-08-20"
+     "title": "入札、落札結果情報（物品・役務）",
+     "url": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm",
+     "date": "2026-08-21"
     }
    ]
   },
@@ -277,9 +277,19 @@
    "id": "mext",
    "name": "文部科学省",
    "source_url": "https://www.mext.go.jp/b_menu/news/index.html",
-   "fetched_at": "2026-08-20T22:18:42Z",
+   "fetched_at": "2026-08-21T02:03:06Z",
    "ok": true,
    "items": [
+    {
+     "title": "中央教育審議会（第144回）　配付資料",
+     "url": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo0/gijiroku/mext_0821.html",
+     "date": "2026-08-21"
+    },
+    {
+     "title": "産業競争力・研究力中核大学群に関するワーキンググループ（第1回）　議事録",
+     "url": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu31/001/gijiroku/1422208_00012.htm",
+     "date": "2026-08-21"
+    },
     {
      "title": "宇宙開発利用部会（第108回）の開催について",
      "url": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu2/059/kaisai/1423010_00014.html",
@@ -294,16 +304,6 @@
      "title": "「学校給食衛生管理基準」の在り方に関する有識者会議（第3回）の開催について",
      "url": "https://www.mext.go.jp/b_menu/shingi/chousa/shotou/205/kaisai/mext_00003.html",
      "date": "2026-08-20"
-    },
-    {
-     "title": "高等学校DX加速化推進事業(DXハイスクール)",
-     "url": "https://www.mext.go.jp/a_menu/shotou/shinkou/shinko/mext_02974.html",
-     "date": "2026-08-20"
-    },
-    {
-     "title": "次世代医療実現のための基盤形成に関する作業部会（第5回）配付資料",
-     "url": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu2/113/siryo/mext_00008.html",
-     "date": "2026-08-20"
     }
    ]
   },
@@ -311,9 +311,14 @@
    "id": "mhlw",
    "name": "厚生労働省",
    "source_url": "https://www.mhlw.go.jp/stf/houdou/index.html",
-   "fetched_at": "2026-08-20T22:18:42Z",
+   "fetched_at": "2026-08-21T02:03:06Z",
    "ok": true,
    "items": [
+    {
+     "title": "世界メンタルヘルスデー JAPAN 2026 特設サイト",
+     "url": "https://www.mhlw.go.jp/kokoro/mental_health_day/index.html",
+     "date": "2026-08-21"
+    },
     {
      "title": "令和８年熊本地震に伴う雇用調整助成金の特例を実施します",
      "url": "https://www.mhlw.go.jp/stf/newpage_75665.html",
@@ -333,11 +338,6 @@
      "title": "柔道整復療養費に係る明細書を有償交付する施術所について",
      "url": "https://www.mhlw.go.jp/bunya/iryouhoken/jyuudou/ryouyouhi_yusyokouhu_sejutsusho.html",
      "date": "2026-08-20"
-    },
-    {
-     "title": "WEBマガジン「厚生労働」（連載[ハラスメント対策]ほか更新）",
-     "url": "https://www.mhlw.go.jp/web_magazine/",
-     "date": "2026-08-20"
     }
    ]
   },
@@ -345,9 +345,14 @@
    "id": "maff",
    "name": "農林水産省",
    "source_url": "https://www.maff.go.jp/j/press/index.html",
-   "fetched_at": "2026-08-20T22:18:42Z",
+   "fetched_at": "2026-08-21T02:03:06Z",
    "ok": true,
    "items": [
+    {
+     "title": "鈴木農林水産大臣の国内出張について",
+     "url": "https://www.jfa.maff.go.jp/j/press/sigen/260821.html",
+     "date": "2026-08-21"
+    },
     {
      "title": "鈴木農林水産大臣の国内出張について",
      "url": "https://www.maff.go.jp/j/press/nousan/kaki/260820_2.html",
@@ -367,11 +372,6 @@
      "title": "米に関するマンスリーレポート（令和8年8月号）の公表について",
      "url": "https://www.maff.go.jp/j/press/nousan/kikaku/260819_1.html",
      "date": "2026-08-19"
-    },
-    {
-     "title": "「サザエさん一家の“もりのわ”話 吹き出しコンテスト」の受賞作品が決まりました",
-     "url": "https://www.rinya.maff.go.jp/j/press/sin_riyou/morigyo/260819.html",
-     "date": "2026-08-19"
     }
    ]
   },
@@ -379,7 +379,7 @@
    "id": "meti",
    "name": "経済産業省",
    "source_url": "https://www.meti.go.jp/press/index.html",
-   "fetched_at": "2026-08-20T22:18:42Z",
+   "fetched_at": "2026-08-21T02:03:06Z",
    "ok": true,
    "items": [
     {
@@ -413,7 +413,7 @@
    "id": "mlit",
    "name": "国土交通省",
    "source_url": "https://www.mlit.go.jp/report/press/index.html",
-   "fetched_at": "2026-08-20T22:18:42Z",
+   "fetched_at": "2026-08-21T02:03:06Z",
    "ok": true,
    "items": [
     {
@@ -447,7 +447,7 @@
    "id": "env",
    "name": "環境省",
    "source_url": "https://www.env.go.jp/press/index.html",
-   "fetched_at": "2026-08-20T22:18:42Z",
+   "fetched_at": "2026-08-21T02:03:06Z",
    "ok": true,
    "items": [
     {
@@ -481,7 +481,7 @@
    "id": "mod",
    "name": "防衛省",
    "source_url": "https://www.mod.go.jp/j/press/news/index.html",
-   "fetched_at": "2026-08-20T22:18:42Z",
+   "fetched_at": "2026-08-21T02:03:06Z",
    "ok": true,
    "items": [
     {
