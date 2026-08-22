@@ -1,13 +1,18 @@
 {
- "generated_at": "2026-08-22T07:06:08Z",
+ "generated_at": "2026-08-22T13:06:10Z",
  "companies": [
   {
    "id": "kantei",
    "name": "首相官邸",
    "source_url": "https://www.kantei.go.jp/jp/news/index.html",
-   "fetched_at": "2026-08-22T07:06:08Z",
+   "fetched_at": "2026-08-22T13:06:10Z",
    "ok": true,
    "items": [
+    {
+     "title": "木原官房長官は令和８年熊本地震による被災状況視察のため熊本県を訪問しました",
+     "url": "https://www.kantei.go.jp/jp/pages/20260822choukan_sisatsu.html",
+     "date": "2026-08-22"
+    },
     {
      "title": "高市総理は第１２回令和８年熊本地震非常災害対策本部会議・第２回令和８年８月千葉豪雨に関する関係閣僚会議に出席しました",
      "url": "https://www.kantei.go.jp/jp/105/actions/202608/21hijoukaigi_chibagouu.html",
@@ -27,11 +32,6 @@
      "title": "高市総理はバーナム英国首相との電話会談についての会見を行いました",
      "url": "https://www.kantei.go.jp/jp/105/statement/2026/0820kaiken.html",
      "date": "2026-08-21"
-    },
-    {
-     "title": "高市総理は北朝鮮からの弾道ミサイルの可能性があるものの発射に関する指示を行いました",
-     "url": "https://www.kantei.go.jp/jp/105/discourse/20260820shiji.html",
-     "date": "2026-08-21"
     }
    ]
   },
@@ -39,7 +39,7 @@
    "id": "cao",
    "name": "内閣府",
    "source_url": "https://www.cao.go.jp/press/houdou.html",
-   "fetched_at": "2026-08-22T07:06:08Z",
+   "fetched_at": "2026-08-22T13:06:10Z",
    "ok": true,
    "items": [
     {
@@ -73,7 +73,7 @@
    "id": "digital",
    "name": "デジタル庁",
    "source_url": "https://www.digital.go.jp/news",
-   "fetched_at": "2026-08-22T07:06:08Z",
+   "fetched_at": "2026-08-22T13:06:10Z",
    "ok": true,
    "items": [
     {
@@ -107,7 +107,7 @@
    "id": "fsa",
    "name": "金融庁",
    "source_url": "https://www.fsa.go.jp/news/index.html",
-   "fetched_at": "2026-08-22T07:06:08Z",
+   "fetched_at": "2026-08-22T13:06:10Z",
    "ok": true,
    "items": [
     {
@@ -141,7 +141,7 @@
    "id": "soumu",
    "name": "総務省",
    "source_url": "https://www.soumu.go.jp/menu_news/s-news/index.html",
-   "fetched_at": "2026-08-22T07:06:08Z",
+   "fetched_at": "2026-08-22T13:06:10Z",
    "ok": true,
    "items": [
     {
@@ -175,7 +175,7 @@
    "id": "moj",
    "name": "法務省",
    "source_url": "https://www.moj.go.jp/press_index.html",
-   "fetched_at": "2026-08-22T07:06:08Z",
+   "fetched_at": "2026-08-22T13:06:10Z",
    "ok": true,
    "items": [
     {
@@ -243,7 +243,7 @@
    "id": "mof",
    "name": "財務省",
    "source_url": "https://www.mof.go.jp/news/index.html",
-   "fetched_at": "2026-08-22T07:06:08Z",
+   "fetched_at": "2026-08-22T13:06:10Z",
    "ok": true,
    "items": [
     {
@@ -277,7 +277,7 @@
    "id": "mext",
    "name": "文部科学省",
    "source_url": "https://www.mext.go.jp/b_menu/news/index.html",
-   "fetched_at": "2026-08-22T07:06:08Z",
+   "fetched_at": "2026-08-22T13:06:10Z",
    "ok": true,
    "items": [
     {
@@ -311,7 +311,7 @@
    "id": "mhlw",
    "name": "厚生労働省",
    "source_url": "https://www.mhlw.go.jp/stf/houdou/index.html",
-   "fetched_at": "2026-08-22T07:06:08Z",
+   "fetched_at": "2026-08-22T13:06:10Z",
    "ok": true,
    "items": [
     {
@@ -345,7 +345,7 @@
    "id": "maff",
    "name": "農林水産省",
    "source_url": "https://www.maff.go.jp/j/press/index.html",
-   "fetched_at": "2026-08-22T07:06:08Z",
+   "fetched_at": "2026-08-22T13:06:10Z",
    "ok": true,
    "items": [
     {
@@ -379,7 +379,7 @@
    "id": "meti",
    "name": "経済産業省",
    "source_url": "https://www.meti.go.jp/press/index.html",
-   "fetched_at": "2026-08-22T07:06:08Z",
+   "fetched_at": "2026-08-22T13:06:10Z",
    "ok": true,
    "items": [
     {
@@ -413,7 +413,7 @@
    "id": "mlit",
    "name": "国土交通省",
    "source_url": "https://www.mlit.go.jp/report/press/index.html",
-   "fetched_at": "2026-08-22T07:06:08Z",
+   "fetched_at": "2026-08-22T13:06:10Z",
    "ok": true,
    "items": [
     {
@@ -447,7 +447,7 @@
    "id": "env",
    "name": "環境省",
    "source_url": "https://www.env.go.jp/press/index.html",
-   "fetched_at": "2026-08-22T07:06:08Z",
+   "fetched_at": "2026-08-22T13:06:10Z",
    "ok": true,
    "items": [
     {
@@ -481,7 +481,7 @@
    "id": "mod",
    "name": "防衛省",
    "source_url": "https://www.mod.go.jp/j/press/news/index.html",
-   "fetched_at": "2026-08-22T07:06:08Z",
+   "fetched_at": "2026-08-22T13:06:10Z",
    "ok": true,
    "items": [
     {
