@@ -1,13 +1,18 @@
 {
- "generated_at": "2026-08-24T07:33:40Z",
+ "generated_at": "2026-08-24T13:27:49Z",
  "companies": [
   {
    "id": "kantei",
    "name": "首相官邸",
    "source_url": "https://www.kantei.go.jp/jp/news/index.html",
-   "fetched_at": "2026-08-24T07:33:40Z",
+   "fetched_at": "2026-08-24T13:27:49Z",
    "ok": true,
    "items": [
+    {
+     "title": "木原内閣官房長官は第３回ＣＢＲＮＥテロ対策会議を開催しました",
+     "url": "https://www.kantei.go.jp/jp/pages/20260824choukan_cbrne.html",
+     "date": "2026-08-24"
+    },
     {
      "title": "木原官房長官は令和８年熊本地震による被災状況視察のため熊本県を訪問しました",
      "url": "https://www.kantei.go.jp/jp/pages/20260822choukan_sisatsu.html",
@@ -27,11 +32,6 @@
      "title": "高市総理は英国のアンディ・バーナム首相と電話会談を行いました",
      "url": "https://www.kantei.go.jp/jp/105/actions/202608/20tel_kaidan.html",
      "date": "2026-08-21"
-    },
-    {
-     "title": "高市総理はバーナム英国首相との電話会談についての会見を行いました",
-     "url": "https://www.kantei.go.jp/jp/105/statement/2026/0820kaiken.html",
-     "date": "2026-08-21"
     }
    ]
   },
@@ -39,7 +39,7 @@
    "id": "cao",
    "name": "内閣府",
    "source_url": "https://www.cao.go.jp/press/houdou.html",
-   "fetched_at": "2026-08-24T07:33:40Z",
+   "fetched_at": "2026-08-24T13:27:49Z",
    "ok": true,
    "items": [
     {
@@ -73,7 +73,7 @@
    "id": "digital",
    "name": "デジタル庁",
    "source_url": "https://www.digital.go.jp/news",
-   "fetched_at": "2026-08-24T07:33:40Z",
+   "fetched_at": "2026-08-24T13:27:49Z",
    "ok": true,
    "items": [
     {
@@ -107,9 +107,19 @@
    "id": "fsa",
    "name": "金融庁",
    "source_url": "https://www.fsa.go.jp/news/index.html",
-   "fetched_at": "2026-08-24T07:33:40Z",
+   "fetched_at": "2026-08-24T13:27:49Z",
    "ok": true,
    "items": [
+    {
+     "title": "「中小・地域金融機関向けの総合的な監督指針」等の一部改正（案）に対するパブリックコメントの結果等（自己資本比率規制（第１の柱・第３の柱）に関する告示）について公表しました。",
+     "url": "https://www.fsa.go.jp/news/r8/ginkou/20260824.html",
+     "date": "2026-08-24"
+    },
+    {
+     "title": "第57回金融審議会総会・第45回金融分科会合同会合の開催について公表しました。",
+     "url": "https://www.fsa.go.jp/news/r8/singi/20260831.html",
+     "date": "2026-08-24"
+    },
     {
      "title": "その他,金融機関における貸付条件の変更等の状況についてを更新しました。",
      "url": "https://www.fsa.go.jp/ordinary/tariff202504/kashitsuke/202506.html",
@@ -124,16 +134,6 @@
      "title": "「事務ガイドライン（第三分冊：金融会社関係）」等の一部改正について公表しました。",
      "url": "https://www.fsa.go.jp/news/r8/sonota/20260821/20260821.html",
      "date": "2026-08-21"
-    },
-    {
-     "title": "その他,令和８年熊本地震関連情報に関する特設ページを更新しました。",
-     "url": "https://www.fsa.go.jp/ordinary/earthquake202607/press.html",
-     "date": "2026-08-19"
-    },
-    {
-     "title": "「第２回　気候変動関連データの活用と適応に関する実践パネル」の開催について公表しました。",
-     "url": "https://www.fsa.go.jp/news/r8/sonota/20260819.html",
-     "date": "2026-08-19"
     }
    ]
   },
@@ -141,7 +141,7 @@
    "id": "soumu",
    "name": "総務省",
    "source_url": "https://www.soumu.go.jp/menu_news/s-news/index.html",
-   "fetched_at": "2026-08-24T07:33:40Z",
+   "fetched_at": "2026-08-24T13:27:49Z",
    "ok": true,
    "items": [
     {
@@ -175,7 +175,7 @@
    "id": "moj",
    "name": "法務省",
    "source_url": "https://www.moj.go.jp/press_index.html",
-   "fetched_at": "2026-08-24T07:33:40Z",
+   "fetched_at": "2026-08-24T13:27:49Z",
    "ok": true,
    "items": [
     {
@@ -243,7 +243,7 @@
    "id": "mof",
    "name": "財務省",
    "source_url": "https://www.mof.go.jp/news/index.html",
-   "fetched_at": "2026-08-24T07:33:40Z",
+   "fetched_at": "2026-08-24T13:27:49Z",
    "ok": true,
    "items": [
     {
@@ -277,7 +277,7 @@
    "id": "mext",
    "name": "文部科学省",
    "source_url": "https://www.mext.go.jp/b_menu/news/index.html",
-   "fetched_at": "2026-08-24T07:33:40Z",
+   "fetched_at": "2026-08-24T13:27:49Z",
    "ok": true,
    "items": [
     {
@@ -311,7 +311,7 @@
    "id": "mhlw",
    "name": "厚生労働省",
    "source_url": "https://www.mhlw.go.jp/stf/houdou/index.html",
-   "fetched_at": "2026-08-24T07:33:40Z",
+   "fetched_at": "2026-08-24T13:27:49Z",
    "ok": true,
    "items": [
     {
@@ -325,18 +325,18 @@
      "date": "2026-08-24"
     },
     {
+     "title": "第13回厚生科学審議会食品衛生監視部会　議事録",
+     "url": "https://www.mhlw.go.jp/stf/shingi/2024giji_00018.html",
+     "date": "2026-08-24"
+    },
+    {
+     "title": "映画「ママがもうこの世界にいなくても　私の命の日記」とのタイアップ中止について",
+     "url": "https://www.mhlw.go.jp/stf/houdou/tie-up_00001.html",
+     "date": "2026-08-24"
+    },
+    {
      "title": "第69回 医療上の必要性の高い未承認薬・適応外薬検討会議（オンライン会議）を開催します",
      "url": "https://www.mhlw.go.jp/stf/newpage_75717.html",
-     "date": "2026-08-24"
-    },
-    {
-     "title": "第47回厚生科学審議会　臨床研究部会　開催案内",
-     "url": "https://www.mhlw.go.jp/stf/newpage_75571.html",
-     "date": "2026-08-24"
-    },
-    {
-     "title": "第41回キャリアコンサルタント登録制度等に関する検討会　更新講習（技能講習）作業部会の開催について",
-     "url": "https://www.mhlw.go.jp/stf/newpage_75341.html",
      "date": "2026-08-24"
     }
    ]
@@ -345,9 +345,14 @@
    "id": "maff",
    "name": "農林水産省",
    "source_url": "https://www.maff.go.jp/j/press/index.html",
-   "fetched_at": "2026-08-24T07:33:40Z",
+   "fetched_at": "2026-08-24T13:27:49Z",
    "ok": true,
    "items": [
+    {
+     "title": "【結果報告】砂漠化対処条約第17回締約国会議（UNCCD COP17）における農林水産省主催サイドイベントの開催",
+     "url": "https://www.maff.go.jp/j/press/y_kokusai/kikou/260824.html",
+     "date": "2026-08-24"
+    },
     {
      "title": "令和7年度末の汚水処理人口普及状況について",
      "url": "https://www.maff.go.jp/j/press/nousin/seibi/260824.html",
@@ -367,11 +372,6 @@
      "title": "令和8年度世界かんがい施設遺産の認定について",
      "url": "https://www.maff.go.jp/j/press/nousin/sekkei/260821.html",
      "date": "2026-08-21"
-    },
-    {
-     "title": "令和8年度我が国周辺水域の水産資源に関する評価結果が公表されました（トラフグ）",
-     "url": "https://www.jfa.maff.go.jp/j/press/sigen/260821_1.html",
-     "date": "2026-08-21"
     }
    ]
   },
@@ -379,9 +379,14 @@
    "id": "meti",
    "name": "経済産業省",
    "source_url": "https://www.meti.go.jp/press/index.html",
-   "fetched_at": "2026-08-24T07:33:40Z",
+   "fetched_at": "2026-08-24T13:27:49Z",
    "ok": true,
    "items": [
+    {
+     "title": "「新たな地域燃料流通に関する研究会 中間とりまとめ」を公表します",
+     "url": "https://www.meti.go.jp/press/2026/08/20260824003.html",
+     "date": "2026-08-24"
+    },
     {
      "title": "中国電力ネットワーク株式会社から託送供給等約款の変更届出を受理しました",
      "url": "https://www.meti.go.jp/press/2026/08/20260824001.html",
@@ -401,11 +406,6 @@
      "title": "「健康経営銘柄2027」・「健康経営優良法人2027」の申請受付を開始しました",
      "url": "https://www.meti.go.jp/press/2026/08/20260817001.html",
      "date": "2026-08-17"
-    },
-    {
-     "title": "令和8年8月13日からの大雨に伴う災害に関して被災中小企業・小規模事業者支援措置を行います",
-     "url": "https://www.meti.go.jp/press/2026/08/20260814001.html",
-     "date": "2026-08-14"
     }
    ]
   },
@@ -413,7 +413,7 @@
    "id": "mlit",
    "name": "国土交通省",
    "source_url": "https://www.mlit.go.jp/report/press/index.html",
-   "fetched_at": "2026-08-24T07:33:40Z",
+   "fetched_at": "2026-08-24T13:27:49Z",
    "ok": true,
    "items": [
     {
@@ -447,7 +447,7 @@
    "id": "env",
    "name": "環境省",
    "source_url": "https://www.env.go.jp/press/index.html",
-   "fetched_at": "2026-08-24T07:33:40Z",
+   "fetched_at": "2026-08-24T13:27:49Z",
    "ok": true,
    "items": [
     {
@@ -481,33 +481,33 @@
    "id": "mod",
    "name": "防衛省",
    "source_url": "https://www.mod.go.jp/j/press/news/index.html",
-   "fetched_at": "2026-08-24T07:33:40Z",
+   "fetched_at": "2026-08-24T13:27:49Z",
    "ok": true,
    "items": [
+    {
+     "title": "宮﨑防衛副大臣の海外出張予定について",
+     "url": "https://www.mod.go.jp/j/press/news/2026/08/24a.html",
+     "date": "2026-08-24"
+    },
+    {
+     "title": "防衛人事審議会公正審査分科会の持ち回り開催について",
+     "url": "https://www.mod.go.jp/j/press/news/2026/08/24c.html",
+     "date": "2026-08-24"
+    },
+    {
+     "title": "吉田防衛大臣政務官の部隊視察の予定について",
+     "url": "https://www.mod.go.jp/j/press/news/2026/08/24b.html",
+     "date": "2026-08-24"
+    },
+    {
+     "title": "吉田防衛大臣政務官の部隊視察取り止めについて",
+     "url": "https://www.mod.go.jp/j/press/news/2026/08/21d.html",
+     "date": "2026-08-24"
+    },
     {
      "title": "小泉防衛大臣の令和８年熊本地震に係る災害派遣部隊の視察等の予定について",
      "url": "https://www.mod.go.jp/j/press/news/2026/08/21b.html",
      "date": "2026-08-21"
-    },
-    {
-     "title": "吉田防衛大臣政務官の部隊視察の予定について",
-     "url": "https://www.mod.go.jp/j/press/news/2026/08/21c.html",
-     "date": "2026-08-21"
-    },
-    {
-     "title": "第１３回処遇・給与部会の開催について",
-     "url": "https://www.mod.go.jp/j/press/news/2026/08/21a.html",
-     "date": "2026-08-21"
-    },
-    {
-     "title": "北朝鮮のミサイル等関連情報（続報）",
-     "url": "https://www.mod.go.jp/j/press/news/2026/08/20d.html",
-     "date": "2026-08-21"
-    },
-    {
-     "title": "北朝鮮のミサイル等関連情報（ミサイル落下推定情報）",
-     "url": "https://www.mod.go.jp/j/press/news/2026/08/20c.html",
-     "date": "2026-08-20"
     }
    ]
   }
