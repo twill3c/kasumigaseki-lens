@@ -1,13 +1,23 @@
 {
- "generated_at": "2026-08-25T13:24:51Z",
+ "generated_at": "2026-08-25T19:05:34Z",
  "companies": [
   {
    "id": "kantei",
    "name": "首相官邸",
    "source_url": "https://www.kantei.go.jp/jp/news/index.html",
-   "fetched_at": "2026-08-25T13:24:51Z",
+   "fetched_at": "2026-08-25T19:05:34Z",
    "ok": true,
    "items": [
+    {
+     "title": "高市総理は「中東情勢を踏まえた緊急的激変緩和措置」及び「物価高対策」等についての会見を行いました",
+     "url": "https://www.kantei.go.jp/jp/105/statement/2026/0825kaiken.html",
+     "date": "2026-08-26"
+    },
+    {
+     "title": "高市総理は「中東情勢を踏まえた緊急的激変緩和措置」及び「物価高対策」等についての会見を行いました",
+     "url": "https://www.kantei.go.jp/jp/105/actions/202608/25kaiken.html",
+     "date": "2026-08-26"
+    },
     {
      "title": "高市総理は日本維新の会・令和８年熊本地震に関する災害対策本部による緊急提言申入れを受けました",
      "url": "https://www.kantei.go.jp/jp/105/actions/202608/25moushiire.html",
@@ -22,16 +32,6 @@
      "title": "福島県内除去土壌等の県外最終処分の実現に向けた再生利用等推進会議",
      "url": "https://www.kantei.go.jp/jp/pages/20260825choukan_kaigi.html",
      "date": "2026-08-25"
-    },
-    {
-     "title": "高市総理はウクライナに関する有志連合首脳会合にオンラインで出席しました",
-     "url": "https://www.kantei.go.jp/jp/105/actions/202608/24kaigou.html",
-     "date": "2026-08-25"
-    },
-    {
-     "title": "木原内閣官房長官は第３回ＣＢＲＮＥテロ対策会議を開催しました",
-     "url": "https://www.kantei.go.jp/jp/pages/20260824choukan_cbrne.html",
-     "date": "2026-08-24"
     }
    ]
   },
@@ -39,7 +39,7 @@
    "id": "cao",
    "name": "内閣府",
    "source_url": "https://www.cao.go.jp/press/houdou.html",
-   "fetched_at": "2026-08-25T13:24:51Z",
+   "fetched_at": "2026-08-25T19:05:34Z",
    "ok": true,
    "items": [
     {
@@ -73,7 +73,7 @@
    "id": "digital",
    "name": "デジタル庁",
    "source_url": "https://www.digital.go.jp/news",
-   "fetched_at": "2026-08-25T13:24:51Z",
+   "fetched_at": "2026-08-25T19:05:34Z",
    "ok": true,
    "items": [
     {
@@ -107,7 +107,7 @@
    "id": "fsa",
    "name": "金融庁",
    "source_url": "https://www.fsa.go.jp/news/index.html",
-   "fetched_at": "2026-08-25T13:24:51Z",
+   "fetched_at": "2026-08-25T19:05:34Z",
    "ok": true,
    "items": [
     {
@@ -141,7 +141,7 @@
    "id": "soumu",
    "name": "総務省",
    "source_url": "https://www.soumu.go.jp/menu_news/s-news/index.html",
-   "fetched_at": "2026-08-25T13:24:51Z",
+   "fetched_at": "2026-08-25T19:05:34Z",
    "ok": true,
    "items": [
     {
@@ -175,7 +175,7 @@
    "id": "moj",
    "name": "法務省",
    "source_url": "https://www.moj.go.jp/press_index.html",
-   "fetched_at": "2026-08-25T13:24:51Z",
+   "fetched_at": "2026-08-25T19:05:34Z",
    "ok": true,
    "items": [
     {
@@ -243,7 +243,7 @@
    "id": "mof",
    "name": "財務省",
    "source_url": "https://www.mof.go.jp/news/index.html",
-   "fetched_at": "2026-08-25T13:24:51Z",
+   "fetched_at": "2026-08-25T19:05:34Z",
    "ok": true,
    "items": [
     {
@@ -277,7 +277,7 @@
    "id": "mext",
    "name": "文部科学省",
    "source_url": "https://www.mext.go.jp/b_menu/news/index.html",
-   "fetched_at": "2026-08-25T13:24:51Z",
+   "fetched_at": "2026-08-25T19:05:34Z",
    "ok": true,
    "items": [
     {
@@ -311,7 +311,7 @@
    "id": "mhlw",
    "name": "厚生労働省",
    "source_url": "https://www.mhlw.go.jp/stf/houdou/index.html",
-   "fetched_at": "2026-08-25T13:24:51Z",
+   "fetched_at": "2026-08-25T19:05:34Z",
    "ok": true,
    "items": [
     {
@@ -345,7 +345,7 @@
    "id": "maff",
    "name": "農林水産省",
    "source_url": "https://www.maff.go.jp/j/press/index.html",
-   "fetched_at": "2026-08-25T13:24:51Z",
+   "fetched_at": "2026-08-25T19:05:34Z",
    "ok": true,
    "items": [
     {
@@ -379,7 +379,7 @@
    "id": "meti",
    "name": "経済産業省",
    "source_url": "https://www.meti.go.jp/press/index.html",
-   "fetched_at": "2026-08-25T13:24:51Z",
+   "fetched_at": "2026-08-25T19:05:34Z",
    "ok": true,
    "items": [
     {
@@ -413,7 +413,7 @@
    "id": "mlit",
    "name": "国土交通省",
    "source_url": "https://www.mlit.go.jp/report/press/index.html",
-   "fetched_at": "2026-08-25T13:24:51Z",
+   "fetched_at": "2026-08-25T19:05:34Z",
    "ok": true,
    "items": [
     {
@@ -447,7 +447,7 @@
    "id": "env",
    "name": "環境省",
    "source_url": "https://www.env.go.jp/press/index.html",
-   "fetched_at": "2026-08-25T13:24:51Z",
+   "fetched_at": "2026-08-25T19:05:34Z",
    "ok": true,
    "items": [
     {
@@ -481,7 +481,7 @@
    "id": "mod",
    "name": "防衛省",
    "source_url": "https://www.mod.go.jp/j/press/news/index.html",
-   "fetched_at": "2026-08-25T13:24:51Z",
+   "fetched_at": "2026-08-25T19:05:34Z",
    "ok": true,
    "items": [
     {
