@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-08-24T19:07:22Z",
+ "generated_at": "2026-08-25T01:57:12Z",
  "companies": [
   {
    "id": "kantei",
    "name": "首相官邸",
    "source_url": "https://www.kantei.go.jp/jp/news/index.html",
-   "fetched_at": "2026-08-24T19:07:22Z",
+   "fetched_at": "2026-08-25T01:57:12Z",
    "ok": true,
    "items": [
     {
@@ -39,7 +39,7 @@
    "id": "cao",
    "name": "内閣府",
    "source_url": "https://www.cao.go.jp/press/houdou.html",
-   "fetched_at": "2026-08-24T19:07:22Z",
+   "fetched_at": "2026-08-25T01:57:12Z",
    "ok": true,
    "items": [
     {
@@ -73,9 +73,14 @@
    "id": "digital",
    "name": "デジタル庁",
    "source_url": "https://www.digital.go.jp/news",
-   "fetched_at": "2026-08-24T19:07:22Z",
+   "fetched_at": "2026-08-25T01:57:12Z",
    "ok": true,
    "items": [
+    {
+     "title": "令和8年熊本地震罹災証明書（り災証明書）のオンライン申請について（2026年8月20日更新）",
+     "url": "https://www.digital.go.jp/news/f83a8d24-4c79-4c47-b768-6a2435c3d350",
+     "date": "2026-08-25"
+    },
     {
      "title": "アナログ規制見直しの取組における令和8年特別国会提出予定法案に係るデジタル原則適合性確認等プロセスの実施の結果を公表しました",
      "url": "https://www.digital.go.jp/policies/digital-extraordinary-administrative-research-committee",
@@ -95,11 +100,6 @@
      "title": "令和8年度 病院情報システム等の刷新に向けた協議会の構成員が決定しました",
      "url": "https://www.digital.go.jp/news/afd1b34c-7689-4a61-b3ed-b4e98029c3c1",
      "date": "2026-08-21"
-    },
-    {
-     "title": "広報資料に『年金振込口座を「公金受取口座」として登録できる特例制度（行政機関等経由登録の特例制度）』周知広報動画（ダウンロード用）を掲載しました",
-     "url": "https://www.digital.go.jp/policies/mynumber_resources",
-     "date": "2026-08-21"
     }
    ]
   },
@@ -107,7 +107,7 @@
    "id": "fsa",
    "name": "金融庁",
    "source_url": "https://www.fsa.go.jp/news/index.html",
-   "fetched_at": "2026-08-24T19:07:22Z",
+   "fetched_at": "2026-08-25T01:57:12Z",
    "ok": true,
    "items": [
     {
@@ -141,9 +141,14 @@
    "id": "soumu",
    "name": "総務省",
    "source_url": "https://www.soumu.go.jp/menu_news/s-news/index.html",
-   "fetched_at": "2026-08-24T19:07:22Z",
+   "fetched_at": "2026-08-25T01:57:12Z",
    "ok": true,
    "items": [
+    {
+     "title": "自治財政局地方債課 非常勤職員採用情報",
+     "url": "https://www.soumu.go.jp/menu_syokai/saiyou/detail/02zaisei02_04001423.html",
+     "date": "2026-08-25"
+    },
     {
      "title": "情報通信審議会　情報通信技術分科会　電波利用環境委員会　CISPR A作業班（第26回）配付資料",
      "url": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/denpa_kankyou/cispr_a/02kiban16_04000962.html",
@@ -163,11 +168,6 @@
      "title": "情報通信審議会　情報通信技術分科会　電波利用環境委員会　CISPR F作業班（第31回）配付資料",
      "url": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/denpa_kankyou/cispr_f/02kiban16_04000959.html",
      "date": "2026-08-24"
-    },
-    {
-     "title": "情報通信審議会　情報通信技術分科会　電波利用環境委員会　CISPR H作業班（第21回）配付資料",
-     "url": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/denpa_kankyou/cispr_h/02kiban16_04000957.html",
-     "date": "2026-08-24"
     }
    ]
   },
@@ -175,7 +175,7 @@
    "id": "moj",
    "name": "法務省",
    "source_url": "https://www.moj.go.jp/press_index.html",
-   "fetched_at": "2026-08-24T19:07:22Z",
+   "fetched_at": "2026-08-25T01:57:12Z",
    "ok": true,
    "items": [
     {
@@ -243,9 +243,24 @@
    "id": "mof",
    "name": "財務省",
    "source_url": "https://www.mof.go.jp/news/index.html",
-   "fetched_at": "2026-08-24T19:07:22Z",
+   "fetched_at": "2026-08-25T01:57:12Z",
    "ok": true,
    "items": [
+    {
+     "title": "10年利付国債（9月債）の発行予定額等（令和8年8月25日公表）",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20260825.htm",
+     "date": "2026-08-25"
+    },
+    {
+     "title": "入札、落札結果情報（物品・役務）",
+     "url": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm",
+     "date": "2026-08-25"
+    },
+    {
+     "title": "国債金利情報(令和8年8月24日)",
+     "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+     "date": "2026-08-25"
+    },
     {
      "title": "片山財務大臣とゴールドファイン米州開発銀行（IDB）総裁との面会及び「日本－中南米・カリブ（LAC）地域ビジネスフォーラム2026」の開催（令和8年8月24日）",
      "url": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20260824.html",
@@ -255,21 +270,6 @@
      "title": "10年クライメート・トランジション利付国債（第5回）の入札結果（令和8年8月24日入札）",
      "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260824.htm",
      "date": "2026-08-24"
-    },
-    {
-     "title": "製造たばこの小売定価の認可",
-     "url": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html",
-     "date": "2026-08-24"
-    },
-    {
-     "title": "人口半減ショック地域の新戦略～賢く縮み乗り越える～（「ファイナンス寄稿」）",
-     "url": "https://www.mof.go.jp/insideLink/20260821144529.html",
-     "date": "2026-08-24"
-    },
-    {
-     "title": "10年クライメート・トランジション利付国債（第5回）の入札発行（令和8年8月24日入札）",
-     "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20260824.htm",
-     "date": "2026-08-24"
     }
    ]
   },
@@ -277,9 +277,19 @@
    "id": "mext",
    "name": "文部科学省",
    "source_url": "https://www.mext.go.jp/b_menu/news/index.html",
-   "fetched_at": "2026-08-24T19:07:22Z",
+   "fetched_at": "2026-08-25T01:57:12Z",
    "ok": true,
    "items": [
+    {
+     "title": "中央教育審議会大学分科会質向上・質保証システム部会(第11回）の配布資料を掲載しました",
+     "url": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo4/055/giji_list/1422801_00026.html",
+     "date": "2026-08-25"
+    },
+    {
+     "title": "「地域教員希望枠を活用した教員養成大学・学部の機能強化事業」選定大学の事業概要",
+     "url": "https://www.mext.go.jp/a_menu/shotou/kyoin/mext_00021.html",
+     "date": "2026-08-25"
+    },
     {
      "title": "ヒトES細胞研究・生殖細胞作成研究・ヒト胚モデル作成研究",
      "url": "https://www.mext.go.jp/a_menu/lifescience/bioethics/hito_es.html",
@@ -294,16 +304,6 @@
      "title": "令和8年8月19日東京新聞5面「社説　情報教育の拡大　現場の疲弊招かぬよう」及び同内容の配信記事における事実誤認を含んだ報道内容ついて",
      "url": "https://www.mext.go.jp/b_menu/oshirase/kenkai/mext_00003.html",
      "date": "2026-08-24"
-    },
-    {
-     "title": "中央教育審議会初等中等教育分科会教育課程部会教育課程企画特別部会（第17回）を開催します",
-     "url": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/kaisai/mext_00149.html",
-     "date": "2026-08-24"
-    },
-    {
-     "title": "第5期教育振興基本計画が中央教育審議会総会に諮問されました。",
-     "url": "https://www.mext.go.jp/a_menu/keikaku/index.htm",
-     "date": "2026-08-24"
     }
    ]
   },
@@ -311,13 +311,18 @@
    "id": "mhlw",
    "name": "厚生労働省",
    "source_url": "https://www.mhlw.go.jp/stf/houdou/index.html",
-   "fetched_at": "2026-08-24T19:07:22Z",
+   "fetched_at": "2026-08-25T01:57:12Z",
    "ok": true,
    "items": [
     {
      "title": "第397回労働政策審議会職業安定分科会労働力需給制度部会　資料",
      "url": "https://www.mhlw.go.jp/stf/newpage_75128.html",
      "date": "2026-08-27"
+    },
+    {
+     "title": "第60回社会保障審議会生活保護基準部会　  資料",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75756.html",
+     "date": "2026-08-25"
     },
     {
      "title": "第62回厚生科学審議会疾病対策部会造血幹細胞移植委員会 (Web会議) を開催します",
@@ -333,11 +338,6 @@
      "title": "映画「ママがもうこの世界にいなくても　私の命の日記」とのタイアップ中止について",
      "url": "https://www.mhlw.go.jp/stf/houdou/tie-up_00001.html",
      "date": "2026-08-24"
-    },
-    {
-     "title": "第69回 医療上の必要性の高い未承認薬・適応外薬検討会議（オンライン会議）を開催します",
-     "url": "https://www.mhlw.go.jp/stf/newpage_75717.html",
-     "date": "2026-08-24"
     }
    ]
   },
@@ -345,7 +345,7 @@
    "id": "maff",
    "name": "農林水産省",
    "source_url": "https://www.maff.go.jp/j/press/index.html",
-   "fetched_at": "2026-08-24T19:07:22Z",
+   "fetched_at": "2026-08-25T01:57:12Z",
    "ok": true,
    "items": [
     {
@@ -379,7 +379,7 @@
    "id": "meti",
    "name": "経済産業省",
    "source_url": "https://www.meti.go.jp/press/index.html",
-   "fetched_at": "2026-08-24T19:07:22Z",
+   "fetched_at": "2026-08-25T01:57:12Z",
    "ok": true,
    "items": [
     {
@@ -413,7 +413,7 @@
    "id": "mlit",
    "name": "国土交通省",
    "source_url": "https://www.mlit.go.jp/report/press/index.html",
-   "fetched_at": "2026-08-24T19:07:22Z",
+   "fetched_at": "2026-08-25T01:57:12Z",
    "ok": true,
    "items": [
     {
@@ -447,7 +447,7 @@
    "id": "env",
    "name": "環境省",
    "source_url": "https://www.env.go.jp/press/index.html",
-   "fetched_at": "2026-08-24T19:07:22Z",
+   "fetched_at": "2026-08-25T01:57:12Z",
    "ok": true,
    "items": [
     {
@@ -481,7 +481,7 @@
    "id": "mod",
    "name": "防衛省",
    "source_url": "https://www.mod.go.jp/j/press/news/index.html",
-   "fetched_at": "2026-08-24T19:07:22Z",
+   "fetched_at": "2026-08-25T01:57:12Z",
    "ok": true,
    "items": [
     {
