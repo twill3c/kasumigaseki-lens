@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-08-25T19:05:34Z",
+ "generated_at": "2026-08-26T02:05:08Z",
  "companies": [
   {
    "id": "kantei",
    "name": "首相官邸",
    "source_url": "https://www.kantei.go.jp/jp/news/index.html",
-   "fetched_at": "2026-08-25T19:05:34Z",
+   "fetched_at": "2026-08-26T02:05:08Z",
    "ok": true,
    "items": [
     {
@@ -39,7 +39,7 @@
    "id": "cao",
    "name": "内閣府",
    "source_url": "https://www.cao.go.jp/press/houdou.html",
-   "fetched_at": "2026-08-25T19:05:34Z",
+   "fetched_at": "2026-08-26T02:05:08Z",
    "ok": true,
    "items": [
     {
@@ -73,7 +73,7 @@
    "id": "digital",
    "name": "デジタル庁",
    "source_url": "https://www.digital.go.jp/news",
-   "fetched_at": "2026-08-25T19:05:34Z",
+   "fetched_at": "2026-08-26T02:05:08Z",
    "ok": true,
    "items": [
     {
@@ -107,7 +107,7 @@
    "id": "fsa",
    "name": "金融庁",
    "source_url": "https://www.fsa.go.jp/news/index.html",
-   "fetched_at": "2026-08-25T19:05:34Z",
+   "fetched_at": "2026-08-26T02:05:08Z",
    "ok": true,
    "items": [
     {
@@ -141,7 +141,7 @@
    "id": "soumu",
    "name": "総務省",
    "source_url": "https://www.soumu.go.jp/menu_news/s-news/index.html",
-   "fetched_at": "2026-08-25T19:05:34Z",
+   "fetched_at": "2026-08-26T02:05:08Z",
    "ok": true,
    "items": [
     {
@@ -175,7 +175,7 @@
    "id": "moj",
    "name": "法務省",
    "source_url": "https://www.moj.go.jp/press_index.html",
-   "fetched_at": "2026-08-25T19:05:34Z",
+   "fetched_at": "2026-08-26T02:05:08Z",
    "ok": true,
    "items": [
     {
@@ -243,9 +243,24 @@
    "id": "mof",
    "name": "財務省",
    "source_url": "https://www.mof.go.jp/news/index.html",
-   "fetched_at": "2026-08-25T19:05:34Z",
+   "fetched_at": "2026-08-26T02:05:08Z",
    "ok": true,
    "items": [
+    {
+     "title": "関税・外国為替等審議会 関税分科会 特殊関税部会(令和8年7月30日)議事録",
+     "url": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-of_customs/proceedings_tokusyu/proceedings/kanb20260730.html",
+     "date": "2026-08-26"
+    },
+    {
+     "title": "流動性供給(第460回)入札",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20260826.htm",
+     "date": "2026-08-26"
+    },
+    {
+     "title": "国債金利情報(令和8年8月25日)",
+     "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+     "date": "2026-08-26"
+    },
     {
      "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年8月25日(火曜日))",
      "url": "https://www.mof.go.jp/public_relations/conference/my20260825.html",
@@ -255,21 +270,6 @@
      "title": "交付税及び譲与税配付金特別会計の一時借入金の入札結果（令和8年8月25日入札）",
      "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-result260825.htm",
      "date": "2026-08-25"
-    },
-    {
-     "title": "10年利付国債（9月債）の発行予定額等（令和8年8月25日公表）",
-     "url": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20260825.htm",
-     "date": "2026-08-25"
-    },
-    {
-     "title": "入札、落札結果情報（物品・役務）",
-     "url": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm",
-     "date": "2026-08-25"
-    },
-    {
-     "title": "国債金利情報(令和8年8月24日)",
-     "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
-     "date": "2026-08-25"
     }
    ]
   },
@@ -277,13 +277,18 @@
    "id": "mext",
    "name": "文部科学省",
    "source_url": "https://www.mext.go.jp/b_menu/news/index.html",
-   "fetched_at": "2026-08-25T19:05:34Z",
+   "fetched_at": "2026-08-26T02:05:08Z",
    "ok": true,
    "items": [
     {
-     "title": "第1回輸送体制の変更を踏まえた今後の南極地域観測事業に関する特別委員会",
-     "url": "https://www.mext.go.jp/a_menu/shinkou/nankyoku/detail/1422598_00021.htm",
-     "date": "2026-09-01"
+     "title": "中央教育審議会大学分科会（第191回）議事録",
+     "url": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo4/gijiroku/1422632_00049.html",
+     "date": "2026-08-26"
+    },
+    {
+     "title": "宇宙開発利用部会（第108回）の配付資料を掲載しました",
+     "url": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu2/059/shiryo/1422108_00014.html",
+     "date": "2026-08-26"
     },
     {
      "title": "松本洋平文部科学大臣記者会見録（令和8年8月25日）",
@@ -299,11 +304,6 @@
      "title": "通信教育の適正な実施・運営の確保のための基本的な指針等に関する検討会議（第1回）の開催について",
      "url": "https://www.mext.go.jp/b_menu/shingi/chousa/shotou/211/kaisai/mext_00004.html",
      "date": "2026-08-25"
-    },
-    {
-     "title": "第157回日本ユネスコ国内委員会（総会）の開催について",
-     "url": "https://www.mext.go.jp/unesco/001/2019/1420208_00054.htm",
-     "date": "2026-08-25"
     }
    ]
   },
@@ -311,9 +311,14 @@
    "id": "mhlw",
    "name": "厚生労働省",
    "source_url": "https://www.mhlw.go.jp/stf/houdou/index.html",
-   "fetched_at": "2026-08-25T19:05:34Z",
+   "fetched_at": "2026-08-26T02:05:08Z",
    "ok": true,
    "items": [
+    {
+     "title": "自分らしく生きるための「人生会議」ポータルサイト",
+     "url": "https://www.mhlw.go.jp/acp-jinseikaigi/",
+     "date": "2026-08-26"
+    },
     {
      "title": "第91回労働政策審議会雇用環境・均等分科会（ペーパーレス会議）を開催します（開催案内）",
      "url": "https://www.mhlw.go.jp/stf/newpage_75767.html",
@@ -333,11 +338,6 @@
      "title": "第397回労働政策審議会職業安定分科会労働力需給制度部会　資料",
      "url": "https://www.mhlw.go.jp/stf/newpage_75128.html",
      "date": "2026-08-25"
-    },
-    {
-     "title": "労働政策審議会 (雇用環境・均等分科会）",
-     "url": "https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126989.html",
-     "date": "2026-08-25"
     }
    ]
   },
@@ -345,7 +345,7 @@
    "id": "maff",
    "name": "農林水産省",
    "source_url": "https://www.maff.go.jp/j/press/index.html",
-   "fetched_at": "2026-08-25T19:05:34Z",
+   "fetched_at": "2026-08-26T02:05:08Z",
    "ok": true,
    "items": [
     {
@@ -379,9 +379,14 @@
    "id": "meti",
    "name": "経済産業省",
    "source_url": "https://www.meti.go.jp/press/index.html",
-   "fetched_at": "2026-08-25T19:05:34Z",
+   "fetched_at": "2026-08-26T02:05:08Z",
    "ok": true,
    "items": [
+    {
+     "title": "業種別のノウハウが直感的にわかる「省力化ナビ」に5業種を追加しました",
+     "url": "https://www.meti.go.jp/press/2026/08/20260826001.html",
+     "date": "2026-08-26"
+    },
     {
      "title": "井野経済産業副大臣がコロンビア共和国のゴメス商工観光大臣と会談を行いました",
      "url": "https://www.meti.go.jp/press/2026/08/20260825002.html",
@@ -401,11 +406,6 @@
      "title": "令和8年熊本地震による災害が激甚災害として指定されたことに伴い、追加の被災中小企業・小規模事業者対策を講じます",
      "url": "https://www.meti.go.jp/press/2026/08/20260825005.html",
      "date": "2026-08-25"
-    },
-    {
-     "title": "井野経済産業副大臣がコスタリカ共和国のトレホス貿易大臣と会談しました",
-     "url": "https://www.meti.go.jp/press/2026/08/20260825004.html",
-     "date": "2026-08-25"
     }
    ]
   },
@@ -413,9 +413,14 @@
    "id": "mlit",
    "name": "国土交通省",
    "source_url": "https://www.mlit.go.jp/report/press/index.html",
-   "fetched_at": "2026-08-25T19:05:34Z",
+   "fetched_at": "2026-08-26T02:05:08Z",
    "ok": true,
    "items": [
+    {
+     "title": "「レベル５大雨特別警報が発表されたときにとるべき行動」及び「レベル５大雨特別警報が発表されたときの車運転の注意点」について",
+     "url": "https://www.mlit.go.jp/report/press/mizukokudo06_hh_000352.html",
+     "date": "2026-08-26"
+    },
     {
      "title": "８月の主要建設資材の需給動向は全ての調査対象資材において均衡〜主要建設資材需給・価格動向調査（ 令和８年８月１〜５日現在）の結果〜",
      "url": "https://www.mlit.go.jp/report/press/tochi_fudousan_kensetsugyo14_hh_000001_00375.html",
@@ -435,11 +440,6 @@
      "title": "「住宅市場動向調査」にご協力をお願いします！〜個人の住宅取得等の実態についての調査を実施します〜",
      "url": "https://www.mlit.go.jp/report/press/house02_hh_000249.html",
      "date": "2026-08-25"
-    },
-    {
-     "title": "ＣＮＰ認証（コンテナターミナル）〜名古屋港・大分港・境港・千葉港のコンテナターミナルを新たに認証します〜",
-     "url": "https://www.mlit.go.jp/report/press/port04_hh_000568.html",
-     "date": "2026-08-25"
     }
    ]
   },
@@ -447,7 +447,7 @@
    "id": "env",
    "name": "環境省",
    "source_url": "https://www.env.go.jp/press/index.html",
-   "fetched_at": "2026-08-25T19:05:34Z",
+   "fetched_at": "2026-08-26T02:05:08Z",
    "ok": true,
    "items": [
     {
@@ -481,7 +481,7 @@
    "id": "mod",
    "name": "防衛省",
    "source_url": "https://www.mod.go.jp/j/press/news/index.html",
-   "fetched_at": "2026-08-25T19:05:34Z",
+   "fetched_at": "2026-08-26T02:05:08Z",
    "ok": true,
    "items": [
     {
