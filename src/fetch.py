@@ -12,7 +12,7 @@ import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 
-from .fetchers import fetch_company
+from .fetchers import fetch_company_full
 from .pipeline import collect
 from .render import render_html
 from .sources import COMPANIES
@@ -36,7 +36,7 @@ def main() -> int:
         prev = json.loads(DATA.read_text(encoding="utf-8"))
     now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     data, code = collect(
-        COMPANIES, lambda co: fetch_company(co, http_get), prev, now
+        COMPANIES, lambda co: fetch_company_full(co, http_get), prev, now
     )
     DATA.parent.mkdir(parents=True, exist_ok=True)
     DATA.write_text(

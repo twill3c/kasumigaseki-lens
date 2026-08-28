@@ -1,4 +1,4 @@
-"""15 機関の取得経路の宣言的定義(F-06)。
+"""18 カード(15 機関 + 首相官邸の 3 系統)の取得経路の宣言的定義(F-06)。
 
 strategy:
 - feed: primary_url が RSS1.0/2.0/Atom フィード
@@ -18,6 +18,13 @@ ua:
 - 内閣府フィードのリンクは外局(esri.cao.go.jp / fsc.go.jp 等)に跨る
 - デジタル庁・財務省・防衛省のフィードは「新着情報」(報道発表以外を含む)。
   防衛省のみ /j/press/ 配下にフィルタ
+
+追加調査(2026-08-29 — 首相官邸の系統別カード F-07):
+- 官邸の新着 RDF は総理の一日・会見・談話・官房長官会見を混ぜて流すため、
+  各系統が 5 件枠から押し出される。系統別に 3 枚を追加(計 18 カード)
+- 系統一覧の URL は代番号入り(/jp/105/actions/…)。総理交代で変わるので
+  トップページ(https://www.kantei.go.jp/index.html)から解決する二段取得にした
+- 官房長官会見(/jp/tyoukanpress/)だけは代番号を含まない固定パス
 """
 
 PROJECT_UA = "kasumigaseki-lens/1.0 (+https://github.com/twill3c/kasumigaseki-lens)"
@@ -29,10 +36,42 @@ BROWSER_UA = (
 COMPANIES = [
     {
         "id": "kantei",
-        "name": "首相官邸",
+        "name": "首相官邸 新着情報",
         "source_url": "https://www.kantei.go.jp/jp/news/index.html",
         "primary_url": "https://www.kantei.go.jp/index-jnews.rdf",
         "strategy": "feed",
+        "allowed_domains": ["kantei.go.jp"],
+    },
+    {
+        # 官邸のセクション URL は代番号を含む(/jp/105/…)ため総理交代で変わる。
+        # トップページ(hub)から現行代番号を解決する二段取得にする(moj と同型)。
+        "id": "kantei_actions",
+        "name": "首相官邸 総理の一日",
+        "source_url": "https://www.kantei.go.jp/jp/105/actions/index.html",
+        "primary_url": "https://www.kantei.go.jp/index.html",
+        "strategy": "html",
+        "kantei_sections": ["actions"],
+        "allowed_domains": ["kantei.go.jp"],
+    },
+    {
+        # 会見(statement)と指示・談話(discourse)は別ページだが 1 枚に束ねる。
+        # どちらか一方が 0 件になったら束ね全体を失敗扱いにする(部分欠落の
+        # 沈黙を避ける — 経産省フィード凍結の教訓)。
+        "id": "kantei_statement",
+        "name": "首相官邸 総理の会見・談話",
+        "source_url": "https://www.kantei.go.jp/jp/105/statement/index.html",
+        "primary_url": "https://www.kantei.go.jp/index.html",
+        "strategy": "html",
+        "kantei_sections": ["statement", "discourse"],
+        "allowed_domains": ["kantei.go.jp"],
+    },
+    {
+        # 官房長官会見は代番号を含まない固定パス → hub 解決は不要
+        "id": "kantei_tyoukanpress",
+        "name": "首相官邸 官房長官記者会見",
+        "source_url": "https://www.kantei.go.jp/jp/tyoukanpress/index.html",
+        "primary_url": "https://www.kantei.go.jp/jp/tyoukanpress/index.html",
+        "strategy": "html",
         "allowed_domains": ["kantei.go.jp"],
     },
     {

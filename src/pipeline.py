@@ -2,8 +2,11 @@
 
 collect(companies, fetcher, prev, now) -> (data, exit_code)
 
-- fetcher(company) -> list[items]。例外 or 0 件は「失敗」: ok=False とし、
-  prev に同 id があればその items / fetched_at を引き継ぐ(グレースフル劣化 F-05)
+- fetcher(company) -> list[items] または {"items": [...], "source_url": str}。
+  例外 or 0 件は「失敗」: ok=False とし、prev に同 id があればその items /
+  fetched_at を引き継ぐ(グレースフル劣化 F-05)
+- 取得成功時に source_url が返れば宣言値を上書きする(官邸の代番号のように
+  一覧ページ URL 自体が動く機関のため)
 - 成功時は items を最新 5 件に切り詰め fetched_at=now
 - exit_code: 全社失敗のみ 1(G-04)
 """
@@ -31,13 +34,21 @@ def collect(companies, fetcher, prev, now):
             "ok": False,
             "items": [],
         }
+        resolved_url = ""
         try:
-            items = fetcher(co)
+            result = fetcher(co)
+            if isinstance(result, dict):  # fetch_company_full 形式
+                items = result.get("items") or []
+                resolved_url = result.get("source_url") or ""
+            else:
+                items = result
         except Exception:
             items = []
         if items:
             record["ok"] = True
             record["items"] = list(items)[:MAX_ITEMS]
+            if resolved_url:
+                record["source_url"] = resolved_url
             ok_count += 1
         else:
             old = _prev_company(prev, co["id"])

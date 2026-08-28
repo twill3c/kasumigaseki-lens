@@ -3,7 +3,9 @@
 tests/fixtures/{id}.(xml|html) に各機関の primary 応答を保存する。
 法務省(moj)は一覧ハブ → 最新年ページの二段構成のため、年ページを
 tests/fixtures/pages/moj/0.html に保存し、URL → ファイルの対応を
-tests/fixtures/pages/moj/map.json に書く。
+tests/fixtures/pages/moj/map.json に書く。首相官邸の系統別カード
+(kantei_actions / kantei_statement)も同様に、トップページ(hub)→
+セクション一覧ページの二段構成を pages/{id}/{n}.html に保存する。
 
 実行: python tools/refetch_fixtures.py
 更新は専用コミット(test: update fixtures)で行うこと(TEST_SPEC 実行規約)。
@@ -19,6 +21,7 @@ import urllib.request
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+from src.fetchers import resolve_kantei_section  # noqa: E402
 from src.sources import BROWSER_UA, COMPANIES, PROJECT_UA  # noqa: E402
 from src.urlutil import absolutize  # noqa: E402
 
@@ -58,6 +61,24 @@ def main() -> None:
                 encoding="utf-8",
             )
             print(f"  page {year_url} → 0.html ({len(body)} bytes)")
+        if co.get("kantei_sections"):
+            hub = raw.decode("utf-8", "ignore")
+            pages = FIX / "pages" / co["id"]
+            pages.mkdir(parents=True, exist_ok=True)
+            mapping = {}
+            for i, section in enumerate(co["kantei_sections"]):
+                url = resolve_kantei_section(hub, co["primary_url"], section)
+                if not url:
+                    raise SystemExit(f"{co['id']}: {section} の代番号を hub から解決できない")
+                time.sleep(1)
+                body = get(url, ua)
+                (pages / f"{i}.html").write_bytes(body)
+                mapping[url] = f"{i}.html"
+                print(f"  page {url} → {i}.html ({len(body)} bytes)")
+            (pages / "map.json").write_text(
+                json.dumps(mapping, ensure_ascii=False, indent=1),
+                encoding="utf-8",
+            )
         time.sleep(1)
 
 
