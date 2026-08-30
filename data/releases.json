@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-08-30T05:34:07Z",
+ "generated_at": "2026-08-30T12:02:49Z",
  "companies": [
   {
    "id": "kantei",
    "name": "首相官邸 新着情報",
    "source_url": "https://www.kantei.go.jp/jp/news/index.html",
-   "fetched_at": "2026-08-30T05:34:07Z",
+   "fetched_at": "2026-08-30T12:02:49Z",
    "ok": true,
    "items": [
     {
@@ -39,7 +39,7 @@
    "id": "kantei_actions",
    "name": "首相官邸 総理の一日",
    "source_url": "https://www.kantei.go.jp/jp/105/actions/index.html",
-   "fetched_at": "2026-08-30T05:34:07Z",
+   "fetched_at": "2026-08-30T12:02:49Z",
    "ok": true,
    "items": [
     {
@@ -73,7 +73,7 @@
    "id": "kantei_statement",
    "name": "首相官邸 総理の会見・談話",
    "source_url": "https://www.kantei.go.jp/jp/105/statement/index.html",
-   "fetched_at": "2026-08-30T05:34:07Z",
+   "fetched_at": "2026-08-30T12:02:49Z",
    "ok": true,
    "items": [
     {
@@ -107,7 +107,7 @@
    "id": "kantei_tyoukanpress",
    "name": "首相官邸 官房長官記者会見",
    "source_url": "https://www.kantei.go.jp/jp/tyoukanpress/index.html",
-   "fetched_at": "2026-08-30T05:34:07Z",
+   "fetched_at": "2026-08-30T12:02:49Z",
    "ok": true,
    "items": [
     {
@@ -141,7 +141,7 @@
    "id": "cao",
    "name": "内閣府",
    "source_url": "https://www.cao.go.jp/press/houdou.html",
-   "fetched_at": "2026-08-30T05:34:07Z",
+   "fetched_at": "2026-08-30T12:02:49Z",
    "ok": true,
    "items": [
     {
@@ -175,7 +175,7 @@
    "id": "digital",
    "name": "デジタル庁",
    "source_url": "https://www.digital.go.jp/news",
-   "fetched_at": "2026-08-30T05:34:07Z",
+   "fetched_at": "2026-08-30T12:02:49Z",
    "ok": true,
    "items": [
     {
@@ -209,7 +209,7 @@
    "id": "fsa",
    "name": "金融庁",
    "source_url": "https://www.fsa.go.jp/news/index.html",
-   "fetched_at": "2026-08-30T05:34:07Z",
+   "fetched_at": "2026-08-30T12:02:49Z",
    "ok": true,
    "items": [
     {
@@ -243,7 +243,7 @@
    "id": "soumu",
    "name": "総務省",
    "source_url": "https://www.soumu.go.jp/menu_news/s-news/index.html",
-   "fetched_at": "2026-08-30T05:34:07Z",
+   "fetched_at": "2026-08-30T12:02:49Z",
    "ok": true,
    "items": [
     {
@@ -277,7 +277,7 @@
    "id": "moj",
    "name": "法務省",
    "source_url": "https://www.moj.go.jp/press_index.html",
-   "fetched_at": "2026-08-30T05:34:07Z",
+   "fetched_at": "2026-08-30T12:02:49Z",
    "ok": true,
    "items": [
     {
@@ -345,7 +345,7 @@
    "id": "mof",
    "name": "財務省",
    "source_url": "https://www.mof.go.jp/news/index.html",
-   "fetched_at": "2026-08-30T05:34:07Z",
+   "fetched_at": "2026-08-30T12:02:49Z",
    "ok": true,
    "items": [
     {
@@ -379,7 +379,7 @@
    "id": "mext",
    "name": "文部科学省",
    "source_url": "https://www.mext.go.jp/b_menu/news/index.html",
-   "fetched_at": "2026-08-30T05:34:07Z",
+   "fetched_at": "2026-08-30T12:02:49Z",
    "ok": true,
    "items": [
     {
@@ -413,7 +413,7 @@
    "id": "mhlw",
    "name": "厚生労働省",
    "source_url": "https://www.mhlw.go.jp/stf/houdou/index.html",
-   "fetched_at": "2026-08-30T05:34:07Z",
+   "fetched_at": "2026-08-30T12:02:49Z",
    "ok": true,
    "items": [
     {
@@ -447,7 +447,7 @@
    "id": "maff",
    "name": "農林水産省",
    "source_url": "https://www.maff.go.jp/j/press/index.html",
-   "fetched_at": "2026-08-30T05:34:07Z",
+   "fetched_at": "2026-08-30T12:02:49Z",
    "ok": true,
    "items": [
     {
@@ -481,7 +481,7 @@
    "id": "meti",
    "name": "経済産業省",
    "source_url": "https://www.meti.go.jp/press/index.html",
-   "fetched_at": "2026-08-30T05:34:07Z",
+   "fetched_at": "2026-08-30T12:02:49Z",
    "ok": true,
    "items": [
     {
@@ -515,7 +515,7 @@
    "id": "mlit",
    "name": "国土交通省",
    "source_url": "https://www.mlit.go.jp/report/press/index.html",
-   "fetched_at": "2026-08-30T05:34:07Z",
+   "fetched_at": "2026-08-30T12:02:49Z",
    "ok": true,
    "items": [
     {
@@ -549,7 +549,7 @@
    "id": "env",
    "name": "環境省",
    "source_url": "https://www.env.go.jp/press/index.html",
-   "fetched_at": "2026-08-30T05:34:07Z",
+   "fetched_at": "2026-08-30T12:02:49Z",
    "ok": true,
    "items": [
     {
@@ -583,7 +583,7 @@
    "id": "mod",
    "name": "防衛省",
    "source_url": "https://www.mod.go.jp/j/press/news/index.html",
-   "fetched_at": "2026-08-30T05:34:07Z",
+   "fetched_at": "2026-08-30T12:02:49Z",
    "ok": true,
    "items": [
     {
