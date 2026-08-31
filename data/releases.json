@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-08-30T21:16:06Z",
+ "generated_at": "2026-08-31T05:49:19Z",
  "companies": [
   {
    "id": "kantei",
    "name": "首相官邸 新着情報",
    "source_url": "https://www.kantei.go.jp/jp/news/index.html",
-   "fetched_at": "2026-08-30T21:16:06Z",
+   "fetched_at": "2026-08-31T05:49:19Z",
    "ok": true,
    "items": [
     {
@@ -39,7 +39,7 @@
    "id": "kantei_actions",
    "name": "首相官邸 総理の一日",
    "source_url": "https://www.kantei.go.jp/jp/105/actions/index.html",
-   "fetched_at": "2026-08-30T21:16:06Z",
+   "fetched_at": "2026-08-31T05:49:19Z",
    "ok": true,
    "items": [
     {
@@ -73,7 +73,7 @@
    "id": "kantei_statement",
    "name": "首相官邸 総理の会見・談話",
    "source_url": "https://www.kantei.go.jp/jp/105/statement/index.html",
-   "fetched_at": "2026-08-30T21:16:06Z",
+   "fetched_at": "2026-08-31T05:49:19Z",
    "ok": true,
    "items": [
     {
@@ -107,9 +107,14 @@
    "id": "kantei_tyoukanpress",
    "name": "首相官邸 官房長官記者会見",
    "source_url": "https://www.kantei.go.jp/jp/tyoukanpress/index.html",
-   "fetched_at": "2026-08-30T21:16:06Z",
+   "fetched_at": "2026-08-31T05:49:19Z",
    "ok": true,
    "items": [
+    {
+     "title": "午前 冒頭発言なし",
+     "url": "https://www.kantei.go.jp/jp/tyoukanpress/202608/31_a.html",
+     "date": "2026-08-31"
+    },
     {
      "title": "午前 閣議の概要について",
      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202608/28_a.html",
@@ -129,11 +134,6 @@
      "title": "午前 閣議の概要について 内閣府の人事について",
      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202608/25_a.html",
      "date": "2026-08-25"
-    },
-    {
-     "title": "午前 冒頭発言なし",
-     "url": "https://www.kantei.go.jp/jp/tyoukanpress/202608/24_a.html",
-     "date": "2026-08-24"
     }
    ]
   },
@@ -141,7 +141,7 @@
    "id": "cao",
    "name": "内閣府",
    "source_url": "https://www.cao.go.jp/press/houdou.html",
-   "fetched_at": "2026-08-30T21:16:06Z",
+   "fetched_at": "2026-08-31T05:49:19Z",
    "ok": true,
    "items": [
     {
@@ -175,7 +175,7 @@
    "id": "digital",
    "name": "デジタル庁",
    "source_url": "https://www.digital.go.jp/news",
-   "fetched_at": "2026-08-30T21:16:06Z",
+   "fetched_at": "2026-08-31T05:49:19Z",
    "ok": true,
    "items": [
     {
@@ -209,9 +209,24 @@
    "id": "fsa",
    "name": "金融庁",
    "source_url": "https://www.fsa.go.jp/news/index.html",
-   "fetched_at": "2026-08-30T21:16:06Z",
+   "fetched_at": "2026-08-31T05:49:19Z",
    "ok": true,
    "items": [
+    {
+     "title": "その他,令和９年度歳出概算要求書について公表しました。",
+     "url": "https://www.fsa.go.jp/common/budget/yosan/9youkyuu-2.html",
+     "date": "2026-08-31"
+    },
+    {
+     "title": "金融庁の令和９年度税制改正要望について公表しました。",
+     "url": "https://www.fsa.go.jp/news/r8/sonota/20260831.html",
+     "date": "2026-08-31"
+    },
+    {
+     "title": "その他,令和９年度予算、機構・定員要求について公表しました。",
+     "url": "https://www.fsa.go.jp/common/budget/yosan/9youkyuu.html",
+     "date": "2026-08-31"
+    },
     {
      "title": "第57回金融審議会総会・第45回金融分科会合同会合 議事次第について公表しました。",
      "url": "https://www.fsa.go.jp/singi/singi_kinyu/soukai/siryou/20260831.html",
@@ -221,21 +236,6 @@
      "title": "金融審議会「ディスクロージャーワーキング・グループ」（第６回）の開催について公表しました。",
      "url": "https://www.fsa.go.jp/news/r8/singi/20260904.html",
      "date": "2026-08-28"
-    },
-    {
-     "title": "令和７年保険業法改正に係る内閣府令及び「保険会社向けの総合的な監督指針」等の一部改正（案）に対するパブリックコメントの結果等について公表しました。",
-     "url": "https://www.fsa.go.jp/news/r8/hoken/20260828/20260828.html",
-     "date": "2026-08-28"
-    },
-    {
-     "title": "「多重債務者相談強化キャンペーン2026」における相談会の開催状況及び予定等について公表しました。",
-     "url": "https://www.fsa.go.jp/policy/kashikin/soudankai2026.html",
-     "date": "2026-08-28"
-    },
-    {
-     "title": "「第70回金融トラブル連絡調整協議会」議事録について公表しました。",
-     "url": "https://www.fsa.go.jp/singi/singi_trouble/gijiroku/20260619.html",
-     "date": "2026-08-28"
     }
    ]
   },
@@ -243,33 +243,33 @@
    "id": "soumu",
    "name": "総務省",
    "source_url": "https://www.soumu.go.jp/menu_news/s-news/index.html",
-   "fetched_at": "2026-08-30T21:16:06Z",
+   "fetched_at": "2026-08-31T05:49:19Z",
    "ok": true,
    "items": [
     {
-     "title": "令和9年度の地方財政の課題",
-     "url": "https://www.soumu.go.jp/menu_news/s-news/01zaisei02_02000419.html",
+     "title": "基幹放送用周波数使用計画の一部を変更する告示案等に係る意見募集の結果及び電波監理審議会からの答申",
+     "url": "https://www.soumu.go.jp/menu_news/s-news/01ryutsu08_02000335.html",
      "date": "2026-08-31"
     },
     {
-     "title": "令和9年度総務省所管予算概算要求の概要等",
-     "url": "https://www.soumu.go.jp/menu_news/s-news/01kanbo04_02000270.html",
+     "title": "令和8年熊本地震に係る 普通交付税（11月定例交付分）の繰上げ交付",
+     "url": "https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu02_000671.html",
      "date": "2026-08-31"
     },
     {
-     "title": "AXを通じた強い経済と持続可能な地域社会の実現（総務省重点施策2027）",
-     "url": "https://www.soumu.go.jp/menu_news/s-news/01kanbo05_02000203.html",
+     "title": "情報流通プラットフォーム対処法第20条第1項に基づく大規模特定電気通信役務提供者の指定",
+     "url": "https://www.soumu.go.jp/menu_news/s-news/01ryutsu02_02000488.html",
      "date": "2026-08-31"
     },
     {
-     "title": "令和8年度一般会計予備費の使用に伴う地方負担への対応等",
-     "url": "https://www.soumu.go.jp/menu_news/s-news/01zaisei02_02000420.html",
-     "date": "2026-08-28"
+     "title": "令和8年度「電磁波の健康影響に関する講演会」の開催",
+     "url": "https://www.soumu.go.jp/menu_news/s-news/01kiban16_02000390.html",
+     "date": "2026-08-31"
     },
     {
-     "title": "地方自治法施行令の一部を改正する政令（案）に対する意見募集の結果",
-     "url": "https://www.soumu.go.jp/menu_news/s-news/01gyosei01_02000375.html",
-     "date": "2026-08-28"
+     "title": "令和7年度電波の利用状況調査に係る電波の有効利用の程度の評価結果（各種無線システム及び公共業務用無線局）及び意見募集の結果の公表",
+     "url": "https://www.soumu.go.jp/menu_news/s-news/01kiban01_02000106.html",
+     "date": "2026-08-31"
     }
    ]
   },
@@ -277,13 +277,23 @@
    "id": "moj",
    "name": "法務省",
    "source_url": "https://www.moj.go.jp/press_index.html",
-   "fetched_at": "2026-08-30T21:16:06Z",
+   "fetched_at": "2026-08-31T05:49:19Z",
    "ok": true,
    "items": [
+    {
+     "title": "令和９年度概算要求について（速報）",
+     "url": "https://www.moj.go.jp/kaikei/bunsho/kaikei02_00165.html",
+     "date": "2026-08-31"
+    },
     {
      "title": "令和８年度「全国一斉『こどもの人権相談』強化週間」の実施について",
      "url": "https://www.moj.go.jp/JINKEN/jinken03_00282.html",
      "date": "2026-08-25"
+    },
+    {
+     "title": "Netflixの「『ラヴ上等』シーズン２」とのタイアップについて",
+     "url": "https://www.moj.go.jp/hogo1/soumu/hogo01_00066.html",
+     "date": "2026-08-21"
     },
     {
      "title": "SNS等におけるなりすまし詐欺広告に関する対策強化のための7府省庁合同要請の実施について",
@@ -294,16 +304,6 @@
      "title": "肖像、声等の無断利用による民事責任の在り方に関する検討会 取りまとめ報告書の公表について",
      "url": "https://www.moj.go.jp/MINJI/minji05_00778.html",
      "date": "2026-08-07"
-    },
-    {
-     "title": "「令和八年熊本地震による災害についての総合法律支援法第三十条第一項第四号の規定による指定等に関する政令」について",
-     "url": "https://www.moj.go.jp/housei/sougouhouritsushien/housei04_00092.html",
-     "date": "2026-08-07"
-    },
-    {
-     "title": "令和８年司法試験予備試験短答式試験の結果等について",
-     "url": "https://www.moj.go.jp/jinji/shihoushiken/jinji07_00322.html",
-     "date": "2026-08-06"
     }
    ]
   },
@@ -345,9 +345,24 @@
    "id": "mof",
    "name": "財務省",
    "source_url": "https://www.mof.go.jp/news/index.html",
-   "fetched_at": "2026-08-30T21:16:06Z",
+   "fetched_at": "2026-08-31T05:49:19Z",
    "ok": true,
    "items": [
+    {
+     "title": "国債の償還予定額（令和8年9月分）",
+     "url": "https://www.mof.go.jp/insideLink/20260828134246.html",
+     "date": "2026-08-31"
+    },
+    {
+     "title": "国債金利情報(令和8年8月28日)",
+     "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+     "date": "2026-08-31"
+    },
+    {
+     "title": "新型窓口販売方式による2年利付国債（第488回）の発行条件等",
+     "url": "https://www.mof.go.jp/jgbs/individual/kojinmuke/houdouhappyou/shinmado20260831.htm",
+     "date": "2026-08-31"
+    },
     {
      "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年8月28日(金曜日))",
      "url": "https://www.mof.go.jp/public_relations/conference/my20260828.html",
@@ -357,21 +372,6 @@
      "title": "外国為替平衡操作の実施状況(令和8年7月30日～令和8年8月26日)",
      "url": "https://www.mof.go.jp/policy/international_policy/reference/feio/data/monthly/20260828.html",
      "date": "2026-08-28"
-    },
-    {
-     "title": "関税・外国為替等審議会第14回総会（令和8年6月10日）議事録",
-     "url": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/soukai/proceedings/proceedings/20260821114114.html",
-     "date": "2026-08-28"
-    },
-    {
-     "title": "関税・外国為替等審議会 第69回外国為替等分科会議事録",
-     "url": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-foreign_exchange/proceedings/proceedings/20260821112328.html",
-     "date": "2026-08-28"
-    },
-    {
-     "title": "独立行政法人関係諸資料",
-     "url": "https://www.mof.go.jp/about_mof/constitution/agency/doppo/index.htm",
-     "date": "2026-08-28"
     }
    ]
   },
@@ -379,33 +379,33 @@
    "id": "mext",
    "name": "文部科学省",
    "source_url": "https://www.mext.go.jp/b_menu/news/index.html",
-   "fetched_at": "2026-08-30T21:16:06Z",
+   "fetched_at": "2026-08-31T05:49:19Z",
    "ok": true,
    "items": [
     {
-     "title": "松本洋平文部科学大臣記者会見録（令和8年8月28日）",
-     "url": "https://www.mext.go.jp/b_menu/daijin/detail/mext_00724.html",
-     "date": "2026-08-28"
+     "title": "教育委員会の現状に関する調査（令和6年度間）",
+     "url": "https://www.mext.go.jp/a_menu/chihou/1411790_00005.htm",
+     "date": "2026-08-31"
     },
     {
-     "title": "「学校と保護者・地域住民等とのより良い関係構築のためのガイドライン」を作成しました。",
-     "url": "https://www.mext.go.jp/a_menu/shotou/hatarakikata/mext_00013.html",
-     "date": "2026-08-28"
+     "title": "通信教育の適正な実施・運営の確保のための基本的な指針等に関する検討会議(第1回)配付資料を追加しました",
+     "url": "https://www.mext.go.jp/b_menu/shingi/chousa/shotou/211/siryo/mext_00005.html",
+     "date": "2026-08-31"
     },
     {
-     "title": "令和8年熊本地震についての通知・事務連絡・関連リンクを掲載しました",
+     "title": "令和8年熊本地震について被害情報（第19報）を掲載しました",
      "url": "https://www.mext.go.jp/a_menu/r8kumamotojisin/index.html",
-     "date": "2026-08-28"
+     "date": "2026-08-31"
     },
     {
-     "title": "「秩序ある共生社会の実現に向けた日本語教育支援総合パッケージ」を取りまとめました",
-     "url": "https://www.mext.go.jp/a_menu/shotou/clarinet/003/1320860_00001.html",
-     "date": "2026-08-28"
+     "title": "原子力損害賠償紛争審査会による福島県内被災地の視察を実施します",
+     "url": "https://www.mext.go.jp/b_menu/shingi/chousa/kaihatu/016/gaiyo/1419084_00009.html",
+     "date": "2026-08-31"
     },
     {
-     "title": "秩序ある共生社会の実現に向けた日本語教育の充実について（通知）(令和8年8月28日)",
-     "url": "https://www.mext.go.jp/b_menu/hakusho/2026/mext_000016.html",
-     "date": "2026-08-28"
+     "title": "国際地学オリンピックに参加した生徒が金メダル等を獲得しました。また、国際的な科学技術コンテストで特に優秀な成績をおさめた生徒に対する文部科学大臣表彰の受賞者を決定しました。",
+     "url": "https://www.mext.go.jp/b_menu/houdou/mext_01677.html",
+     "date": "2026-08-31"
     }
    ]
   },
@@ -413,33 +413,33 @@
    "id": "mhlw",
    "name": "厚生労働省",
    "source_url": "https://www.mhlw.go.jp/stf/houdou/index.html",
-   "fetched_at": "2026-08-30T21:16:06Z",
+   "fetched_at": "2026-08-31T05:49:19Z",
    "ok": true,
    "items": [
     {
-     "title": "調剤医療費（電算処理分）の動向　～令和7年度版～",
-     "url": "https://www.mhlw.go.jp/topics/medias/year/25/gaiyou.html",
-     "date": "2026-08-28"
+     "title": "労働災害発生状況",
+     "url": "https://www.mhlw.go.jp/bunya/roudoukijun/anzeneisei11/rousai-hassei/index.html",
+     "date": "2026-08-31"
     },
     {
-     "title": "歯科医療費（電算処理分）の動向　～令和7年度版～",
-     "url": "https://www.mhlw.go.jp/topics/medias/year/25/shika_iryou_doukou_r07.html",
-     "date": "2026-08-28"
+     "title": "国内最高齢者　ご逝去について",
+     "url": "https://www.mhlw.go.jp/houdou_kouhou/newpage_75844.html",
+     "date": "2026-08-31"
     },
     {
-     "title": "医療費の動向（年次版）　令和７年度",
-     "url": "https://www.mhlw.go.jp/topics/medias/year/25/index.html",
-     "date": "2026-08-28"
+     "title": "介護給付費等実態統計月報（令和８（2026）年５月審査分）",
+     "url": "https://www.mhlw.go.jp/toukei/saikin/hw/kaigo/kyufu/2026/05.html",
+     "date": "2026-08-31"
     },
     {
-     "title": "最近の調剤医療費（電算処理分）の動向　令和7年度3月号",
-     "url": "https://www.mhlw.go.jp/topics/medias/c-med/2026/03/",
-     "date": "2026-08-28"
+     "title": "令和７年雇用動向調査結果の概況",
+     "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/index.html",
+     "date": "2026-08-31"
     },
     {
-     "title": "最近の歯科医療費（電算処理分）の動向　令和7年度3月号",
-     "url": "https://www.mhlw.go.jp/topics/medias/shika_iryou/2026/03/",
-     "date": "2026-08-28"
+     "title": "医療施設動態調査（令和8(2026)年6月末概数）",
+     "url": "https://www.mhlw.go.jp/toukei/saikin/hw/iryosd/m26/is2606.html",
+     "date": "2026-08-31"
     }
    ]
   },
@@ -447,9 +447,24 @@
    "id": "maff",
    "name": "農林水産省",
    "source_url": "https://www.maff.go.jp/j/press/index.html",
-   "fetched_at": "2026-08-30T21:16:06Z",
+   "fetched_at": "2026-08-31T05:49:19Z",
    "ok": true,
    "items": [
+    {
+     "title": "令和9年度機構・定員要求について",
+     "url": "https://www.maff.go.jp/j/press/kanbo/hisyo/260831.html",
+     "date": "2026-08-31"
+    },
+    {
+     "title": "令和9年度税制改正要望について",
+     "url": "https://www.maff.go.jp/j/press/keiei/tyosei/260831.html",
+     "date": "2026-08-31"
+    },
+    {
+     "title": "令和9年度農林水産予算概算要求について",
+     "url": "https://www.maff.go.jp/j/press/kanbo/yosan/260831.html",
+     "date": "2026-08-31"
+    },
     {
      "title": "令和8年7月の米穀流通の動向（集荷、販売、民間在庫）",
      "url": "https://www.maff.go.jp/j/press/nousan/kikaku/260828.html",
@@ -459,21 +474,6 @@
      "title": "「令和7年地球温暖化影響調査レポート(確報)」の公表について",
      "url": "https://www.maff.go.jp/j/press/nousan/kankyo/260828.html",
      "date": "2026-08-28"
-    },
-    {
-     "title": "オーディエー株式会社における業務用加工食品（すりごま）の不適正表示に対する措置について",
-     "url": "https://www.maff.go.jp/j/press/syouan/kansa/260828.html",
-     "date": "2026-08-28"
-    },
-    {
-     "title": "第19回「みどりの食料システム戦略本部」の開催について",
-     "url": "https://www.maff.go.jp/j/press/kanbo/b_kankyo/260828.html",
-     "date": "2026-08-28"
-    },
-    {
-     "title": "第2回日タイ農業統計専門家による定期対話の結果概要について",
-     "url": "https://www.maff.go.jp/j/press/tokei/kikaku/260828.html",
-     "date": "2026-08-28"
     }
    ]
   },
@@ -481,9 +481,19 @@
    "id": "meti",
    "name": "経済産業省",
    "source_url": "https://www.meti.go.jp/press/index.html",
-   "fetched_at": "2026-08-30T21:16:06Z",
+   "fetched_at": "2026-08-31T05:49:19Z",
    "ok": true,
    "items": [
+    {
+     "title": "健康経営の中小企業への裾野拡大に向けて「中小企業支援者向け健康経営の推進支援ハンドブック」を作成しました",
+     "url": "https://www.meti.go.jp/press/2026/08/20260831003.html",
+     "date": "2026-08-31"
+    },
+    {
+     "title": "「令和8年度なでしこ銘柄」「令和8年度Nextなでしこ共働き・共育て支援企業」の募集を本日より開始します",
+     "url": "https://www.meti.go.jp/press/2026/08/20260831002.html",
+     "date": "2026-08-31"
+    },
     {
      "title": "小森経済産業大臣政務官がマレーシアに出張しました",
      "url": "https://www.meti.go.jp/press/2026/08/20260828002.html",
@@ -498,16 +508,6 @@
      "title": "令和8年8月27日からの大雨に伴う災害に関して被災中小企業・小規模事業者支援措置を行います",
      "url": "https://www.meti.go.jp/press/2026/08/20260828004.html",
      "date": "2026-08-28"
-    },
-    {
-     "title": "令和8年度「数理・データサイエンス・AI教育プログラム認定制度」の認定・選定結果をお知らせします",
-     "url": "https://www.meti.go.jp/press/2026/08/20260828003.html",
-     "date": "2026-08-28"
-    },
-    {
-     "title": "「大学発ベンチャー表彰2026」受賞者が決定しました",
-     "url": "https://www.meti.go.jp/press/2026/08/20260827003.html",
-     "date": "2026-08-27"
     }
    ]
   },
@@ -515,33 +515,33 @@
    "id": "mlit",
    "name": "国土交通省",
    "source_url": "https://www.mlit.go.jp/report/press/index.html",
-   "fetched_at": "2026-08-30T21:16:06Z",
+   "fetched_at": "2026-08-31T05:49:19Z",
    "ok": true,
    "items": [
     {
-     "title": "福井県にレベル５大雨特別警報発表",
-     "url": "https://www.mlit.go.jp/report/press/mizukokudo04_hh_000320.html",
-     "date": "2026-08-30"
+     "title": "19名を新たに国土交通省PPPサポーターとして認定！〜PPP/PFIに関する相談体制を強化します〜",
+     "url": "https://www.mlit.go.jp/report/press/sogo21_hh_000313.html",
+     "date": "2026-08-31"
     },
     {
-     "title": "測量業は22年連続減少、建設コンサルタント、地質調査業は横ばい〜令和7年度末の建設関連業登録業者の登録状況をとりまとめ〜",
-     "url": "https://www.mlit.go.jp/report/press/tochi_fudousan_kensetsugyo14_hh_000001_00376.html",
-     "date": "2026-08-28"
+     "title": "建築着工統計調査報告（令和８年７月分）",
+     "url": "https://www.mlit.go.jp/report/press/joho04_hh_001390.html",
+     "date": "2026-08-31"
     },
     {
-     "title": "「駅前広場計画指針」の改定に向けた検討を始めます〜第１回 駅前広場計画指針検討会を開催〜",
-     "url": "https://www.mlit.go.jp/report/press/toshi07_hh_000301.html",
-     "date": "2026-08-28"
+     "title": "令和8年度（2026年度）建設投資見通し",
+     "url": "https://www.mlit.go.jp/report/press/joho04_hh_001389.html",
+     "date": "2026-08-31"
     },
     {
-     "title": "令和８年熊本地震における水道施設の応急復旧完了のお知らせ",
-     "url": "https://www.mlit.go.jp/report/press/mizukokudo13_hh_000761.html",
-     "date": "2026-08-28"
+     "title": "鉄道輸送統計月報（概要）（令和8年（2026年）5月分）",
+     "url": "https://www.mlit.go.jp/report/press/joho05_hh_000917.html",
+     "date": "2026-08-31"
     },
     {
-     "title": "東海汽船株式会社に対する安全確保等の命令を発出しました〜海上運送法に基づく「安全統括管理者及び運航管理者の解任命令」及び「輸送の安全の確保に関する命令」並びに船員法に基づく「是正命令」〜",
-     "url": "https://www.mlit.go.jp/report/press/kaiji06_hh_000402.html",
-     "date": "2026-08-28"
+     "title": "令和８年７月の建設工事受注動態統計調査（大手５０社調査）結果",
+     "url": "https://www.mlit.go.jp/report/press/joho04_hh_001387.html",
+     "date": "2026-08-31"
     }
    ]
   },
@@ -549,9 +549,19 @@
    "id": "env",
    "name": "環境省",
    "source_url": "https://www.env.go.jp/press/index.html",
-   "fetched_at": "2026-08-30T21:16:06Z",
+   "fetched_at": "2026-08-31T05:49:19Z",
    "ok": true,
    "items": [
+    {
+     "title": "「令和８年度東北地方資源循環自治体フォーラム」の開催について",
+     "url": "https://www.env.go.jp/press/press_05518.html",
+     "date": "2026-08-31"
+    },
+    {
+     "title": "琵琶湖保全再生推進協議会幹事会（第10回）の開催について",
+     "url": "https://www.env.go.jp/press/press_05464.html",
+     "date": "2026-08-31"
+    },
     {
      "title": "第22回パリ協定６条４項監督機関会合に参加しました",
      "url": "https://www.env.go.jp/press/press_05478.html",
@@ -566,16 +576,6 @@
      "title": "令和８年度「データセンター等デジタル基盤の脱炭素化に向けた環境配慮技術の開発・実証事業」の公募採択について",
      "url": "https://www.env.go.jp/press/press_05461.html",
      "date": "2026-08-28"
-    },
-    {
-     "title": "2030生物多様性枠組実現日本会議（J-GBF）第５回総会の開催について",
-     "url": "https://www.env.go.jp/press/press_05447.html",
-     "date": "2026-08-28"
-    },
-    {
-     "title": "水島港におけるヒアリの確認について",
-     "url": "https://www.env.go.jp/press/press_05523.html",
-     "date": "2026-08-28"
     }
    ]
   },
@@ -583,7 +583,7 @@
    "id": "mod",
    "name": "防衛省",
    "source_url": "https://www.mod.go.jp/j/press/news/index.html",
-   "fetched_at": "2026-08-30T21:16:06Z",
+   "fetched_at": "2026-08-31T05:49:19Z",
    "ok": true,
    "items": [
     {
