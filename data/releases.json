@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-01T21:09:37Z",
+ "generated_at": "2026-09-02T04:48:04Z",
  "companies": [
   {
    "id": "kantei",
    "name": "首相官邸 新着情報",
    "source_url": "https://www.kantei.go.jp/jp/news/index.html",
-   "fetched_at": "2026-09-01T21:09:37Z",
+   "fetched_at": "2026-09-02T04:48:04Z",
    "ok": true,
    "items": [
     {
@@ -39,7 +39,7 @@
    "id": "kantei_actions",
    "name": "首相官邸 総理の一日",
    "source_url": "https://www.kantei.go.jp/jp/105/actions/index.html",
-   "fetched_at": "2026-09-01T21:09:37Z",
+   "fetched_at": "2026-09-02T04:48:04Z",
    "ok": true,
    "items": [
     {
@@ -73,7 +73,7 @@
    "id": "kantei_statement",
    "name": "首相官邸 総理の会見・談話",
    "source_url": "https://www.kantei.go.jp/jp/105/statement/index.html",
-   "fetched_at": "2026-09-01T21:09:37Z",
+   "fetched_at": "2026-09-02T04:48:04Z",
    "ok": true,
    "items": [
     {
@@ -107,9 +107,14 @@
    "id": "kantei_tyoukanpress",
    "name": "首相官邸 官房長官記者会見",
    "source_url": "https://www.kantei.go.jp/jp/tyoukanpress/index.html",
-   "fetched_at": "2026-09-01T21:09:37Z",
+   "fetched_at": "2026-09-02T04:48:04Z",
    "ok": true,
    "items": [
+    {
+     "title": "午前 冒頭発言なし",
+     "url": "https://www.kantei.go.jp/jp/tyoukanpress/202609/2_a.html",
+     "date": "2026-09-02"
+    },
     {
      "title": "午前 閣議の概要について 令和８年熊本地震非常災害復旧復興本部の設置について",
      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202609/1_a.html",
@@ -129,11 +134,6 @@
      "title": "午前 閣議の概要について",
      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202608/28_a.html",
      "date": "2026-08-28"
-    },
-    {
-     "title": "午前 冒頭発言なし",
-     "url": "https://www.kantei.go.jp/jp/tyoukanpress/202608/27_a.html",
-     "date": "2026-08-27"
     }
    ]
   },
@@ -141,7 +141,7 @@
    "id": "cao",
    "name": "内閣府",
    "source_url": "https://www.cao.go.jp/press/houdou.html",
-   "fetched_at": "2026-09-01T21:09:37Z",
+   "fetched_at": "2026-09-02T04:48:04Z",
    "ok": true,
    "items": [
     {
@@ -175,7 +175,7 @@
    "id": "digital",
    "name": "デジタル庁",
    "source_url": "https://www.digital.go.jp/news",
-   "fetched_at": "2026-09-01T21:09:37Z",
+   "fetched_at": "2026-09-02T04:48:04Z",
    "ok": true,
    "items": [
     {
@@ -209,7 +209,7 @@
    "id": "fsa",
    "name": "金融庁",
    "source_url": "https://www.fsa.go.jp/news/index.html",
-   "fetched_at": "2026-09-01T21:09:37Z",
+   "fetched_at": "2026-09-02T04:48:04Z",
    "ok": true,
    "items": [
     {
@@ -243,7 +243,7 @@
    "id": "soumu",
    "name": "総務省",
    "source_url": "https://www.soumu.go.jp/menu_news/s-news/index.html",
-   "fetched_at": "2026-09-01T21:09:37Z",
+   "fetched_at": "2026-09-02T04:48:04Z",
    "ok": true,
    "items": [
     {
@@ -277,7 +277,7 @@
    "id": "moj",
    "name": "法務省",
    "source_url": "https://www.moj.go.jp/press_index.html",
-   "fetched_at": "2026-09-01T21:09:37Z",
+   "fetched_at": "2026-09-02T04:48:04Z",
    "ok": true,
    "items": [
     {
@@ -345,33 +345,33 @@
    "id": "mof",
    "name": "財務省",
    "source_url": "https://www.mof.go.jp/news/index.html",
-   "fetched_at": "2026-09-01T21:09:37Z",
+   "fetched_at": "2026-09-02T04:48:04Z",
    "ok": true,
    "items": [
     {
-     "title": "日米財務大臣会談（令和8年8月31日（月））",
-     "url": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20260831223724.html",
-     "date": "2026-09-01"
+     "title": "G20財務大臣・中央銀行総裁会議議長声明（仮訳）",
+     "url": "https://www.mof.go.jp/policy/international_policy/convention/g20/202609ja.pdf",
+     "date": "2026-09-02"
     },
     {
-     "title": "片山大臣とIMFのゲオルギエバ専務理事との会談 （令和8年8月31日）",
-     "url": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20260831181145.html",
-     "date": "2026-09-01"
+     "title": "国庫短期証券（第1405回）の発行予定額等",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20260902.htm",
+     "date": "2026-09-02"
     },
     {
-     "title": "片山大臣と英国のヒーリー財務大臣との面会（令和8年8月31日（月））",
-     "url": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20260831221549.html",
-     "date": "2026-09-01"
+     "title": "公募（使用許可相手方選定）公告",
+     "url": "https://www.mof.go.jp/application-contact/procurement/koubokoukoku/index.htm",
+     "date": "2026-09-02"
     },
     {
-     "title": "令和8年度第1・四半期国庫の状況報告書（財務省調査）",
-     "url": "https://www.mof.go.jp/policy/exchequer/reference/exchequer_report/fy2026_1st_quarter/index.html",
-     "date": "2026-09-01"
+     "title": "入札、落札結果情報（物品・役務）",
+     "url": "https://www.mof.go.jp/application-contact/procurement/buppinn/index.htm",
+     "date": "2026-09-02"
     },
     {
-     "title": "令和8年度第1・四半期国庫の状況の概要",
-     "url": "https://www.mof.go.jp/policy/exchequer/reference/exchequer_report/fy2026_1st_quarter/r081gai.html",
-     "date": "2026-09-01"
+     "title": "国有財産に関する国会報告（令和7年度）",
+     "url": "https://www.mof.go.jp/policy/national_property/reference/houkoku/2025.html",
+     "date": "2026-09-02"
     }
    ]
   },
@@ -379,9 +379,24 @@
    "id": "mext",
    "name": "文部科学省",
    "source_url": "https://www.mext.go.jp/b_menu/news/index.html",
-   "fetched_at": "2026-09-01T21:09:37Z",
+   "fetched_at": "2026-09-02T04:48:04Z",
    "ok": true,
    "items": [
+    {
+     "title": "業務説明会・職員訪問",
+     "url": "https://www.mext.go.jp/b_menu/saiyou/sougoujimu/setumei/1421199_00009.htm",
+     "date": "2026-09-02"
+    },
+    {
+     "title": "令和8年度科学技術人材育成費補助事業「ダイバーシティ研究環境実現イニシアティブ」の選定機関の決定について",
+     "url": "https://www.mext.go.jp/a_menu/jinzai/lifeevent/1422074_00009.htm",
+     "date": "2026-09-02"
+    },
+    {
+     "title": "令和8年度教科用図書検定調査審議会総括部会（第2回）　配付資料",
+     "url": "https://www.mext.go.jp/b_menu/shingi/tosho/016-5/siryo/1414759_00001.htm",
+     "date": "2026-09-02"
+    },
     {
      "title": "松本洋平文部科学大臣記者会見録（令和8年9月1日）",
      "url": "https://www.mext.go.jp/b_menu/daijin/detail/mext_00725.html",
@@ -391,21 +406,6 @@
      "title": "令和9年度版学習資料「一家に1枚」テーマを決定しました",
      "url": "https://www.mext.go.jp/b_menu/boshu/detail/1421775_00004.html",
      "date": "2026-09-01"
-    },
-    {
-     "title": "ヒト受精胚等を用いる研究に関する専門委員会 （第15回）の配付資料を掲載しました",
-     "url": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu1/025/siryo/mext_00015.html",
-     "date": "2026-09-01"
-    },
-    {
-     "title": "令和8年7月中旬から8月上旬の西日本の記録的な高温に関する研究成果について",
-     "url": "https://www.mext.go.jp/b_menu/houdou/2026/mext_01681.html",
-     "date": "2026-09-01"
-    },
-    {
-     "title": "中央教育審議会初等中等教育分科会（第154回）　配付資料",
-     "url": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/siryo/1416449_00038.htm",
-     "date": "2026-09-01"
     }
    ]
   },
@@ -413,33 +413,33 @@
    "id": "mhlw",
    "name": "厚生労働省",
    "source_url": "https://www.mhlw.go.jp/stf/houdou/index.html",
-   "fetched_at": "2026-09-01T21:09:37Z",
+   "fetched_at": "2026-09-02T04:48:04Z",
    "ok": true,
    "items": [
     {
-     "title": "第214回社会保障審議会医療保険部会（ペーパーレス）の開催について",
-     "url": "https://www.mhlw.go.jp/stf/newpage_75881.html",
-     "date": "2026-09-01"
+     "title": "キャリアコンサルタント更新講習について、講習一覧を更新しました",
+     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koushin.html",
+     "date": "2026-09-02"
     },
     {
-     "title": "令和８年度 第１回戦没者の遺骨収集に関する有識者会議の開催について",
-     "url": "https://www.mhlw.go.jp/stf/newpage_75868.html",
-     "date": "2026-09-01"
+     "title": "キャリアコンサルタントとして活動している方へ（ホームページを更新しました）",
+     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/career_consultant02.html",
+     "date": "2026-09-02"
     },
     {
-     "title": "令和７年度第１回安全技術調査会資料",
-     "url": "https://www.mhlw.go.jp/stf/newpage_75615.html",
-     "date": "2026-09-01"
+     "title": "被保護者調査（令和８年６月分概数）",
+     "url": "https://www.mhlw.go.jp/toukei/saikin/hw/hihogosya/m2026/06.html",
+     "date": "2026-09-02"
     },
     {
-     "title": "第78回補装具評価検討会　開催案内",
-     "url": "https://www.mhlw.go.jp/stf/74hosougu_00004.html",
-     "date": "2026-09-01"
+     "title": "人事労務マガジン 定例第191号",
+     "url": "https://www.mhlw.go.jp/stf/newpage_75831.html",
+     "date": "2026-09-02"
     },
     {
-     "title": "第91回労働政策審議会雇用環境・均等分科会の資料を掲載しました。",
-     "url": "https://www.mhlw.go.jp/stf/newpage_75855.html",
-     "date": "2026-09-01"
+     "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
+     "url": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html",
+     "date": "2026-09-02"
     }
    ]
   },
@@ -447,7 +447,7 @@
    "id": "maff",
    "name": "農林水産省",
    "source_url": "https://www.maff.go.jp/j/press/index.html",
-   "fetched_at": "2026-09-01T21:09:37Z",
+   "fetched_at": "2026-09-02T04:48:04Z",
    "ok": true,
    "items": [
     {
@@ -481,9 +481,14 @@
    "id": "meti",
    "name": "経済産業省",
    "source_url": "https://www.meti.go.jp/press/index.html",
-   "fetched_at": "2026-09-01T21:09:37Z",
+   "fetched_at": "2026-09-02T04:48:04Z",
    "ok": true,
    "items": [
+    {
+     "title": "「エッセンシャルサービス効率化先進実証モデル集」を公表します",
+     "url": "https://www.meti.go.jp/press/2026/08/20260902001.html",
+     "date": "2026-09-02"
+    },
     {
      "title": "井野経済産業副大臣がベルギー王国のフランケン国防大臣兼対外貿易担当大臣による表敬を受けました",
      "url": "https://www.meti.go.jp/press/2026/09/20260901001.html",
@@ -503,11 +508,6 @@
      "title": "特定放射性廃棄物の最終処分に関する法律に基づく文献調査の茨城県常陸大宮市での実施について、申入れを行いました",
      "url": "https://www.meti.go.jp/press/2026/08/20260831004.html",
      "date": "2026-08-31"
-    },
-    {
-     "title": "令和8年8月27日からの大雨に伴う災害に関して被災中小企業・小規模事業者支援措置を行います【第2報】",
-     "url": "https://www.meti.go.jp/press/2026/08/20260831005.html",
-     "date": "2026-08-31"
     }
    ]
   },
@@ -515,9 +515,14 @@
    "id": "mlit",
    "name": "国土交通省",
    "source_url": "https://www.mlit.go.jp/report/press/index.html",
-   "fetched_at": "2026-09-01T21:09:37Z",
+   "fetched_at": "2026-09-02T04:48:04Z",
    "ok": true,
    "items": [
+    {
+     "title": "令和8年一級建築士試験「学科の試験」合格者を決定〜7,619 人の合格者、26.2％の合格率〜",
+     "url": "https://www.mlit.go.jp/report/press/house05_hh_001146.html",
+     "date": "2026-09-02"
+    },
     {
      "title": "「租税特別措置法施行令及び物資の流通の効率化に関する法律施行令の一部を改正する政令」を閣議決定",
      "url": "https://www.mlit.go.jp/report/press/sogo12_hh_000541.html",
@@ -537,11 +542,6 @@
      "title": "タクシー事業者に対する燃料価格激変緩和対策事業に係る予備費の使用について",
      "url": "https://www.mlit.go.jp/report/press/jidosha03_hh_000507.html",
      "date": "2026-09-01"
-    },
-    {
-     "title": "令和８年度「船員安全・労働環境取組大賞（SSS 大賞）」決定！",
-     "url": "https://www.mlit.go.jp/report/press/kaiji04_hh_000397.html",
-     "date": "2026-09-01"
     }
    ]
   },
@@ -549,7 +549,7 @@
    "id": "env",
    "name": "環境省",
    "source_url": "https://www.env.go.jp/press/index.html",
-   "fetched_at": "2026-09-01T21:09:37Z",
+   "fetched_at": "2026-09-02T04:48:04Z",
    "ok": true,
    "items": [
     {
@@ -583,7 +583,7 @@
    "id": "mod",
    "name": "防衛省",
    "source_url": "https://www.mod.go.jp/j/press/news/index.html",
-   "fetched_at": "2026-09-01T21:09:37Z",
+   "fetched_at": "2026-09-02T04:48:04Z",
    "ok": true,
    "items": [
     {
