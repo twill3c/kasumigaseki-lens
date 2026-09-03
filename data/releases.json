@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-02T21:09:46Z",
+ "generated_at": "2026-09-03T04:45:03Z",
  "companies": [
   {
    "id": "kantei",
    "name": "首相官邸 新着情報",
    "source_url": "https://www.kantei.go.jp/jp/news/index.html",
-   "fetched_at": "2026-09-02T21:09:46Z",
+   "fetched_at": "2026-09-03T04:45:03Z",
    "ok": true,
    "items": [
     {
@@ -39,7 +39,7 @@
    "id": "kantei_actions",
    "name": "首相官邸 総理の一日",
    "source_url": "https://www.kantei.go.jp/jp/105/actions/index.html",
-   "fetched_at": "2026-09-02T21:09:46Z",
+   "fetched_at": "2026-09-03T04:45:03Z",
    "ok": true,
    "items": [
     {
@@ -73,7 +73,7 @@
    "id": "kantei_statement",
    "name": "首相官邸 総理の会見・談話",
    "source_url": "https://www.kantei.go.jp/jp/105/statement/index.html",
-   "fetched_at": "2026-09-02T21:09:46Z",
+   "fetched_at": "2026-09-03T04:45:03Z",
    "ok": true,
    "items": [
     {
@@ -107,9 +107,14 @@
    "id": "kantei_tyoukanpress",
    "name": "首相官邸 官房長官記者会見",
    "source_url": "https://www.kantei.go.jp/jp/tyoukanpress/index.html",
-   "fetched_at": "2026-09-02T21:09:46Z",
+   "fetched_at": "2026-09-03T04:45:03Z",
    "ok": true,
    "items": [
+    {
+     "title": "午前 冒頭発言なし",
+     "url": "https://www.kantei.go.jp/jp/tyoukanpress/202609/3_a.html",
+     "date": "2026-09-03"
+    },
     {
      "title": "午前 冒頭発言なし",
      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202609/2_a.html",
@@ -129,11 +134,6 @@
      "title": "午後 冒頭発言なし",
      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202609/1_p.html",
      "date": "2026-09-01"
-    },
-    {
-     "title": "午前 冒頭発言なし",
-     "url": "https://www.kantei.go.jp/jp/tyoukanpress/202608/31_a.html",
-     "date": "2026-08-31"
     }
    ]
   },
@@ -141,7 +141,7 @@
    "id": "cao",
    "name": "内閣府",
    "source_url": "https://www.cao.go.jp/press/houdou.html",
-   "fetched_at": "2026-09-02T21:09:46Z",
+   "fetched_at": "2026-09-03T04:45:03Z",
    "ok": true,
    "items": [
     {
@@ -175,7 +175,7 @@
    "id": "digital",
    "name": "デジタル庁",
    "source_url": "https://www.digital.go.jp/news",
-   "fetched_at": "2026-09-02T21:09:46Z",
+   "fetched_at": "2026-09-03T04:45:03Z",
    "ok": true,
    "items": [
     {
@@ -209,7 +209,7 @@
    "id": "fsa",
    "name": "金融庁",
    "source_url": "https://www.fsa.go.jp/news/index.html",
-   "fetched_at": "2026-09-02T21:09:46Z",
+   "fetched_at": "2026-09-03T04:45:03Z",
    "ok": true,
    "items": [
     {
@@ -243,9 +243,24 @@
    "id": "soumu",
    "name": "総務省",
    "source_url": "https://www.soumu.go.jp/menu_news/s-news/index.html",
-   "fetched_at": "2026-09-02T21:09:46Z",
+   "fetched_at": "2026-09-03T04:45:03Z",
    "ok": true,
    "items": [
+    {
+     "title": "情報通信審議会 情報通信政策部会 放送政策委員会 主査ヒアリング（株式会社テレビ朝日 ）",
+     "url": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/housou_seisaku/02ryutsu07_04000588.html",
+     "date": "2026-09-03"
+    },
+    {
+     "title": "情報通信審議会　情報通信技術分科会　ITU 部会　放送業務委員会（第62回）配布資料",
+     "url": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/docs_Broadcast/02ryutsu08_04000615.html",
+     "date": "2026-09-03"
+    },
+    {
+     "title": "情報通信審議会 情報通信政策部会 放送政策委員会 主査ヒアリング（株式会社TBSテレビ ）",
+     "url": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/housou_seisaku/02ryutsu07_04000587.html",
+     "date": "2026-09-03"
+    },
     {
      "title": "情報通信審議会 情報通信政策部会 放送政策委員会 主査ヒアリング（株式会社フジテレビジョン）",
      "url": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/housou_seisaku/02ryutsu07_04000586.html",
@@ -255,21 +270,6 @@
      "title": "情報通信審議会　情報通信技術分科会　電波有効利用委員会　 携帯電話等周波数の有効利用に関する検討作業班（第5回）",
      "url": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/denpa_yukoriyo/keitai_yukoriyo/02kiban14_04001364.html",
      "date": "2026-09-02"
-    },
-    {
-     "title": "情報通信審議会 情報通信政策部会 放送政策委員会 主査ヒアリング（株式会社テレビ東京）",
-     "url": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/housou_seisaku/02ryutsu07_04000585.html",
-     "date": "2026-09-02"
-    },
-    {
-     "title": "電気通信紛争処理委員会（第264回）",
-     "url": "https://www.soumu.go.jp/main_sosiki/hunso/case/iinkai/02shingi02_04000286.html",
-     "date": "2026-09-02"
-    },
-    {
-     "title": "情報通信審議会　情報通信技術分科会　陸上無線通信委員会（第103回）",
-     "url": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/02kiban14_04001363.html",
-     "date": "2026-09-02"
     }
    ]
   },
@@ -277,7 +277,7 @@
    "id": "moj",
    "name": "法務省",
    "source_url": "https://www.moj.go.jp/press_index.html",
-   "fetched_at": "2026-09-02T21:09:46Z",
+   "fetched_at": "2026-09-03T04:45:03Z",
    "ok": true,
    "items": [
     {
@@ -345,33 +345,33 @@
    "id": "mof",
    "name": "財務省",
    "source_url": "https://www.mof.go.jp/news/index.html",
-   "fetched_at": "2026-09-02T21:09:46Z",
+   "fetched_at": "2026-09-03T04:45:03Z",
    "ok": true,
    "items": [
     {
-     "title": "片山大臣と世界銀行バンガ総裁との面会（令和8年9月1日）",
-     "url": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20260901144536.html",
-     "date": "2026-09-02"
+     "title": "交付税及び譲与税配付金特別会計の一時借入金の入札結果（令和8年9月3日入札）",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-result260903.htm",
+     "date": "2026-09-03"
     },
     {
-     "title": "片山大臣とポーランドのドマンスキ財務・経済大臣との面会（令和8年9月1日（火））",
-     "url": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20260831131326.html",
-     "date": "2026-09-02"
+     "title": "30年利付国債（第91回）の入札結果（令和8年9月3日入札）",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260903.htm",
+     "date": "2026-09-03"
     },
     {
-     "title": "片山大臣と米国連邦準備制度理事会のウォーシュ議長との面会（令和8年9月1日（火））",
-     "url": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20260901204404.html",
-     "date": "2026-09-02"
+     "title": "流動性供給(第461回)入札の発行予定額等",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20260903.htm",
+     "date": "2026-09-03"
     },
     {
-     "title": "財政資金対民間収支（令和8年9月見込）",
-     "url": "https://www.mof.go.jp/policy/exchequer/reference/receipts_payments/202609a.pdf",
-     "date": "2026-09-02"
+     "title": "エネルギー対策特別会計の借入金の入札予定（令和8年9月3日公表）",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/energy-offer260903.htm",
+     "date": "2026-09-03"
     },
     {
-     "title": "財政資金対民間収支（令和8年8月中実績）の概要",
-     "url": "https://www.mof.go.jp/policy/exchequer/reference/receipts_payments/202608gaiyo.htm",
-     "date": "2026-09-02"
+     "title": "30年利付国債（第91回）の入札発行（令和8年9月3日入札）",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20260903.htm",
+     "date": "2026-09-03"
     }
    ]
   },
@@ -379,9 +379,14 @@
    "id": "mext",
    "name": "文部科学省",
    "source_url": "https://www.mext.go.jp/b_menu/news/index.html",
-   "fetched_at": "2026-09-02T21:09:46Z",
+   "fetched_at": "2026-09-03T04:45:03Z",
    "ok": true,
    "items": [
+    {
+     "title": "文部科学省大臣官房文教施設企画・防災部施設企画課非常勤職員（時間雇用職員）採用のお知らせ（令和8年12月1日採用予定）",
+     "url": "https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1423086_00179.htm",
+     "date": "2026-09-03"
+    },
     {
      "title": "業務説明会・職員訪問",
      "url": "https://www.mext.go.jp/b_menu/saiyou/sougoujimu/setumei/1421199_00009.htm",
@@ -401,11 +406,6 @@
      "title": "令和8年度教科用図書検定調査審議会総括部会（第2回）　配付資料",
      "url": "https://www.mext.go.jp/b_menu/shingi/tosho/016-5/siryo/1414759_00001.htm",
      "date": "2026-09-02"
-    },
-    {
-     "title": "松本洋平文部科学大臣記者会見録（令和8年9月1日）",
-     "url": "https://www.mext.go.jp/b_menu/daijin/detail/mext_00725.html",
-     "date": "2026-09-01"
     }
    ]
   },
@@ -413,7 +413,7 @@
    "id": "mhlw",
    "name": "厚生労働省",
    "source_url": "https://www.mhlw.go.jp/stf/houdou/index.html",
-   "fetched_at": "2026-09-02T21:09:46Z",
+   "fetched_at": "2026-09-03T04:45:03Z",
    "ok": true,
    "items": [
     {
@@ -447,7 +447,7 @@
    "id": "maff",
    "name": "農林水産省",
    "source_url": "https://www.maff.go.jp/j/press/index.html",
-   "fetched_at": "2026-09-02T21:09:46Z",
+   "fetched_at": "2026-09-03T04:45:03Z",
    "ok": true,
    "items": [
     {
@@ -481,7 +481,7 @@
    "id": "meti",
    "name": "経済産業省",
    "source_url": "https://www.meti.go.jp/press/index.html",
-   "fetched_at": "2026-09-02T21:09:46Z",
+   "fetched_at": "2026-09-03T04:45:03Z",
    "ok": true,
    "items": [
     {
@@ -515,7 +515,7 @@
    "id": "mlit",
    "name": "国土交通省",
    "source_url": "https://www.mlit.go.jp/report/press/index.html",
-   "fetched_at": "2026-09-02T21:09:46Z",
+   "fetched_at": "2026-09-03T04:45:03Z",
    "ok": true,
    "items": [
     {
@@ -549,7 +549,7 @@
    "id": "env",
    "name": "環境省",
    "source_url": "https://www.env.go.jp/press/index.html",
-   "fetched_at": "2026-09-02T21:09:46Z",
+   "fetched_at": "2026-09-03T04:45:03Z",
    "ok": true,
    "items": [
     {
@@ -583,7 +583,7 @@
    "id": "mod",
    "name": "防衛省",
    "source_url": "https://www.mod.go.jp/j/press/news/index.html",
-   "fetched_at": "2026-09-02T21:09:46Z",
+   "fetched_at": "2026-09-03T04:45:03Z",
    "ok": true,
    "items": [
     {
