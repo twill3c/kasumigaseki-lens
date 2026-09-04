@@ -1,13 +1,18 @@
 {
- "generated_at": "2026-09-04T11:30:47Z",
+ "generated_at": "2026-09-04T16:29:39Z",
  "companies": [
   {
    "id": "kantei",
    "name": "首相官邸 新着情報",
    "source_url": "https://www.kantei.go.jp/jp/news/index.html",
-   "fetched_at": "2026-09-04T11:30:47Z",
+   "fetched_at": "2026-09-04T16:29:39Z",
    "ok": true,
    "items": [
+    {
+     "title": "高市総理大臣発ビラ・ノバ・サントメ・プリンシペ民主共和国大統領宛祝辞",
+     "url": "https://www.kantei.go.jp/jp/105/discourse/20260904message.html",
+     "date": "2026-09-05"
+    },
     {
      "title": "高市総理は海上保安政策プログラム第１１期期生による表敬を受けました",
      "url": "https://www.kantei.go.jp/jp/105/actions/202609/04hyoukei.html",
@@ -27,11 +32,6 @@
      "title": "高市総理は自由民主党災害対策特別委員会による令和８年８月千葉豪雨からの復旧・復興のための提言申入れを受けました",
      "url": "https://www.kantei.go.jp/jp/105/actions/202609/02moushiire.html",
      "date": "2026-09-03"
-    },
-    {
-     "title": "高市総理は令和８年度自衛隊指揮官幹部会同で訓示を行いました",
-     "url": "https://www.kantei.go.jp/jp/105/statement/2026/0902kunji.html",
-     "date": "2026-09-02"
     }
    ]
   },
@@ -39,7 +39,7 @@
    "id": "kantei_actions",
    "name": "首相官邸 総理の一日",
    "source_url": "https://www.kantei.go.jp/jp/105/actions/index.html",
-   "fetched_at": "2026-09-04T11:30:47Z",
+   "fetched_at": "2026-09-04T16:29:39Z",
    "ok": true,
    "items": [
     {
@@ -73,9 +73,14 @@
    "id": "kantei_statement",
    "name": "首相官邸 総理の会見・談話",
    "source_url": "https://www.kantei.go.jp/jp/105/statement/index.html",
-   "fetched_at": "2026-09-04T11:30:47Z",
+   "fetched_at": "2026-09-04T16:29:39Z",
    "ok": true,
    "items": [
+    {
+     "title": "高市総理大臣発ビラ・ノバ・サントメ・プリンシペ民主共和国大統領宛祝辞",
+     "url": "https://www.kantei.go.jp/jp/105/discourse/20260904message.html",
+     "date": "2026-09-04"
+    },
     {
      "title": "令和８年度自衛隊指揮官幹部会同 内閣総理大臣訓示",
      "url": "https://www.kantei.go.jp/jp/105/statement/2026/0902kunji.html",
@@ -95,11 +100,6 @@
      "title": "ノルウェー王国ハラルド５世国王陛下崩御に際しての高市内閣総理大臣による弔意メッセージの発出",
      "url": "https://www.kantei.go.jp/jp/105/discourse/20260828message.html",
      "date": "2026-08-28"
-    },
-    {
-     "title": "ネパールと中国の国境付近で発生した大規模な洪水及び土石流を受けた高市総理大臣発シャハ・ネパール首相への書簡の発出",
-     "url": "https://www.kantei.go.jp/jp/105/discourse/20260827message3.html",
-     "date": "2026-08-27"
     }
    ]
   },
@@ -107,7 +107,7 @@
    "id": "kantei_tyoukanpress",
    "name": "首相官邸 官房長官記者会見",
    "source_url": "https://www.kantei.go.jp/jp/tyoukanpress/index.html",
-   "fetched_at": "2026-09-04T11:30:47Z",
+   "fetched_at": "2026-09-04T16:29:39Z",
    "ok": true,
    "items": [
     {
@@ -141,7 +141,7 @@
    "id": "cao",
    "name": "内閣府",
    "source_url": "https://www.cao.go.jp/press/houdou.html",
-   "fetched_at": "2026-09-04T11:30:47Z",
+   "fetched_at": "2026-09-04T16:29:39Z",
    "ok": true,
    "items": [
     {
@@ -175,9 +175,14 @@
    "id": "digital",
    "name": "デジタル庁",
    "source_url": "https://www.digital.go.jp/news",
-   "fetched_at": "2026-09-04T11:30:47Z",
+   "fetched_at": "2026-09-04T16:29:39Z",
    "ok": true,
    "items": [
+    {
+     "title": "令和8年熊本地震に関する対応状況について（9月4日）",
+     "url": "https://www.digital.go.jp/news/14d4b2c8-4a92-44b6-a472-b2df25570de1",
+     "date": "2026-09-04"
+    },
     {
      "title": "エリアデータ連携基盤共同利用ガイドブック第3.0版（本編／Appendix）等を公開しました。",
      "url": "https://www.digital.go.jp/policies/digital_garden_city_nation/area-data-coordination-platform",
@@ -197,11 +202,6 @@
      "title": "行政手続における特定の個人を識別するための番号の利用等に関する法律第十九条第八号の規定により地方税関係情報又は地方団体の徴収金の納付し、若しくは納入すべき額に関する情報を照会する場合に本人の同意が必要となる事務を定める告示を更新しました",
      "url": "https://www.digital.go.jp/laws",
      "date": "2026-09-04"
-    },
-    {
-     "title": "都道府県を中心とした地方自治体システムの共同調達に関するダッシュボードを更新しました",
-     "url": "https://www.digital.go.jp/resources/govdashboard/prefecture_local_government_system_joint_prefecture",
-     "date": "2026-09-04"
     }
    ]
   },
@@ -209,7 +209,7 @@
    "id": "fsa",
    "name": "金融庁",
    "source_url": "https://www.fsa.go.jp/news/index.html",
-   "fetched_at": "2026-09-04T11:30:47Z",
+   "fetched_at": "2026-09-04T16:29:39Z",
    "ok": true,
    "items": [
     {
@@ -243,7 +243,7 @@
    "id": "soumu",
    "name": "総務省",
    "source_url": "https://www.soumu.go.jp/menu_news/s-news/index.html",
-   "fetched_at": "2026-09-04T11:30:47Z",
+   "fetched_at": "2026-09-04T16:29:39Z",
    "ok": true,
    "items": [
     {
@@ -277,7 +277,7 @@
    "id": "moj",
    "name": "法務省",
    "source_url": "https://www.moj.go.jp/press_index.html",
-   "fetched_at": "2026-09-04T11:30:47Z",
+   "fetched_at": "2026-09-04T16:29:39Z",
    "ok": true,
    "items": [
     {
@@ -345,9 +345,14 @@
    "id": "mof",
    "name": "財務省",
    "source_url": "https://www.mof.go.jp/news/index.html",
-   "fetched_at": "2026-09-04T11:30:47Z",
+   "fetched_at": "2026-09-04T16:29:39Z",
    "ok": true,
    "items": [
+    {
+     "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年9月4日(金曜日))",
+     "url": "https://www.mof.go.jp/public_relations/conference/my20260904.html",
+     "date": "2026-09-04"
+    },
     {
      "title": "個人向け国債の応募額（令和8年8月）",
      "url": "https://www.mof.go.jp/jgbs/individual/kojinmuke/houdouhappyou/p20260904.htm",
@@ -367,11 +372,6 @@
      "title": "人事異動(令和8年9月4日-所管法人役員の任命)",
      "url": "https://www.mof.go.jp/about_mof/introduction/personnel/transfers/2026.9.4.pdf",
      "date": "2026-09-04"
-    },
-    {
-     "title": "令和８年上半期の税関における知的財産侵害物品の差止状況",
-     "url": "https://www.mof.go.jp/policy/customs_tariff/trade/safe_society/chiteki/cy2026_1/index.html",
-     "date": "2026-09-04"
     }
    ]
   },
@@ -379,7 +379,7 @@
    "id": "mext",
    "name": "文部科学省",
    "source_url": "https://www.mext.go.jp/b_menu/news/index.html",
-   "fetched_at": "2026-09-04T11:30:47Z",
+   "fetched_at": "2026-09-04T16:29:39Z",
    "ok": true,
    "items": [
     {
@@ -413,7 +413,7 @@
    "id": "mhlw",
    "name": "厚生労働省",
    "source_url": "https://www.mhlw.go.jp/stf/houdou/index.html",
-   "fetched_at": "2026-09-04T11:30:47Z",
+   "fetched_at": "2026-09-04T16:29:39Z",
    "ok": true,
    "items": [
     {
@@ -447,7 +447,7 @@
    "id": "maff",
    "name": "農林水産省",
    "source_url": "https://www.maff.go.jp/j/press/index.html",
-   "fetched_at": "2026-09-04T11:30:47Z",
+   "fetched_at": "2026-09-04T16:29:39Z",
    "ok": true,
    "items": [
     {
@@ -481,7 +481,7 @@
    "id": "meti",
    "name": "経済産業省",
    "source_url": "https://www.meti.go.jp/press/index.html",
-   "fetched_at": "2026-09-04T11:30:47Z",
+   "fetched_at": "2026-09-04T16:29:39Z",
    "ok": true,
    "items": [
     {
@@ -515,7 +515,7 @@
    "id": "mlit",
    "name": "国土交通省",
    "source_url": "https://www.mlit.go.jp/report/press/index.html",
-   "fetched_at": "2026-09-04T11:30:47Z",
+   "fetched_at": "2026-09-04T16:29:39Z",
    "ok": true,
    "items": [
     {
@@ -549,7 +549,7 @@
    "id": "env",
    "name": "環境省",
    "source_url": "https://www.env.go.jp/press/index.html",
-   "fetched_at": "2026-09-04T11:30:47Z",
+   "fetched_at": "2026-09-04T16:29:39Z",
    "ok": true,
    "items": [
     {
@@ -583,7 +583,7 @@
    "id": "mod",
    "name": "防衛省",
    "source_url": "https://www.mod.go.jp/j/press/news/index.html",
-   "fetched_at": "2026-09-04T11:30:47Z",
+   "fetched_at": "2026-09-04T16:29:39Z",
    "ok": true,
    "items": [
     {
