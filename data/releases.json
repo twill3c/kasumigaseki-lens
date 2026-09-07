@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-06T20:32:53Z",
+ "generated_at": "2026-09-07T04:57:03Z",
  "companies": [
   {
    "id": "kantei",
    "name": "首相官邸 新着情報",
    "source_url": "https://www.kantei.go.jp/jp/news/index.html",
-   "fetched_at": "2026-09-06T20:32:53Z",
+   "fetched_at": "2026-09-07T04:57:03Z",
    "ok": true,
    "items": [
     {
@@ -39,7 +39,7 @@
    "id": "kantei_actions",
    "name": "首相官邸 総理の一日",
    "source_url": "https://www.kantei.go.jp/jp/105/actions/index.html",
-   "fetched_at": "2026-09-06T20:32:53Z",
+   "fetched_at": "2026-09-07T04:57:03Z",
    "ok": true,
    "items": [
     {
@@ -73,7 +73,7 @@
    "id": "kantei_statement",
    "name": "首相官邸 総理の会見・談話",
    "source_url": "https://www.kantei.go.jp/jp/105/statement/index.html",
-   "fetched_at": "2026-09-06T20:32:53Z",
+   "fetched_at": "2026-09-07T04:57:03Z",
    "ok": true,
    "items": [
     {
@@ -107,9 +107,14 @@
    "id": "kantei_tyoukanpress",
    "name": "首相官邸 官房長官記者会見",
    "source_url": "https://www.kantei.go.jp/jp/tyoukanpress/index.html",
-   "fetched_at": "2026-09-06T20:32:53Z",
+   "fetched_at": "2026-09-07T04:57:03Z",
    "ok": true,
    "items": [
+    {
+     "title": "午前 冒頭発言なし",
+     "url": "https://www.kantei.go.jp/jp/tyoukanpress/202609/7_a.html",
+     "date": "2026-09-07"
+    },
     {
      "title": "午前 閣議の概要について",
      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202609/4_a.html",
@@ -129,11 +134,6 @@
      "title": "午後 冒頭発言なし",
      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202609/3_p.html",
      "date": "2026-09-03"
-    },
-    {
-     "title": "午前 冒頭発言なし",
-     "url": "https://www.kantei.go.jp/jp/tyoukanpress/202609/2_a.html",
-     "date": "2026-09-02"
     }
    ]
   },
@@ -141,7 +141,7 @@
    "id": "cao",
    "name": "内閣府",
    "source_url": "https://www.cao.go.jp/press/houdou.html",
-   "fetched_at": "2026-09-06T20:32:53Z",
+   "fetched_at": "2026-09-07T04:57:03Z",
    "ok": true,
    "items": [
     {
@@ -175,7 +175,7 @@
    "id": "digital",
    "name": "デジタル庁",
    "source_url": "https://www.digital.go.jp/news",
-   "fetched_at": "2026-09-06T20:32:53Z",
+   "fetched_at": "2026-09-07T04:57:03Z",
    "ok": true,
    "items": [
     {
@@ -209,7 +209,7 @@
    "id": "fsa",
    "name": "金融庁",
    "source_url": "https://www.fsa.go.jp/news/index.html",
-   "fetched_at": "2026-09-06T20:32:53Z",
+   "fetched_at": "2026-09-07T04:57:03Z",
    "ok": true,
    "items": [
     {
@@ -243,9 +243,19 @@
    "id": "soumu",
    "name": "総務省",
    "source_url": "https://www.soumu.go.jp/menu_news/s-news/index.html",
-   "fetched_at": "2026-09-06T20:32:53Z",
+   "fetched_at": "2026-09-07T04:57:03Z",
    "ok": true,
    "items": [
+    {
+     "title": "令和8年度地方財政審議会（8月21日）議事要旨",
+     "url": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00964.html",
+     "date": "2026-09-07"
+    },
+    {
+     "title": "第13回衆議院議員選挙区画定審議会",
+     "url": "https://www.soumu.go.jp/main_sosiki/singi/senkyoku/02gyosei14_04000270.html",
+     "date": "2026-09-07"
+    },
     {
      "title": "令和8年度地方財政審議会（9月2日）議事要旨",
      "url": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00963.html",
@@ -260,16 +270,6 @@
      "title": "「ネットワーク環境の変化を踏まえた接続政策等の在り方」 第一次答申（案）に対する意見募集の結果",
      "url": "https://www.soumu.go.jp/menu_news/s-news/01kiban03_02001024.html",
      "date": "2026-09-04"
-    },
-    {
-     "title": "「消費者保護ルールの更なる適正化とDX時代への対応の在り方」に係る一次答申（案）に対する意見募集の結果",
-     "url": "https://www.soumu.go.jp/menu_news/s-news/01kiban08_03000457.html",
-     "date": "2026-09-04"
-    },
-    {
-     "title": "「ネットワーク環境の変化を踏まえた接続政策等の在り方」に関する情報通信審議会からの第一次答申",
-     "url": "https://www.soumu.go.jp/menu_news/s-news/01kiban03_02001023.html",
-     "date": "2026-09-04"
     }
    ]
   },
@@ -277,7 +277,7 @@
    "id": "moj",
    "name": "法務省",
    "source_url": "https://www.moj.go.jp/press_index.html",
-   "fetched_at": "2026-09-06T20:32:53Z",
+   "fetched_at": "2026-09-07T04:57:03Z",
    "ok": true,
    "items": [
     {
@@ -345,33 +345,33 @@
    "id": "mof",
    "name": "財務省",
    "source_url": "https://www.mof.go.jp/news/index.html",
-   "fetched_at": "2026-09-06T20:32:53Z",
+   "fetched_at": "2026-09-07T04:57:03Z",
    "ok": true,
    "items": [
     {
-     "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年9月4日(金曜日))",
-     "url": "https://www.mof.go.jp/public_relations/conference/my20260904.html",
-     "date": "2026-09-04"
+     "title": "製造たばこの小売定価の認可",
+     "url": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html",
+     "date": "2026-09-07"
     },
     {
-     "title": "個人向け国債の応募額（令和8年8月）",
-     "url": "https://www.mof.go.jp/jgbs/individual/kojinmuke/houdouhappyou/p20260904.htm",
-     "date": "2026-09-04"
+     "title": "令和９年度税制改正要望",
+     "url": "https://www.mof.go.jp/tax_policy/tax_reform/outline/fy2027/request/index.html",
+     "date": "2026-09-07"
     },
     {
-     "title": "令和７年度財務省所管補正予算の主な事業の執⾏状況",
-     "url": "https://www.mof.go.jp/about_mof/mof_budget/budget/fy2025/20260904.html",
-     "date": "2026-09-04"
+     "title": "国の災害用備蓄食品の有効活用の取組みについて",
+     "url": "https://www.mof.go.jp/application-contact/procurement/20211005180654.html",
+     "date": "2026-09-07"
     },
     {
-     "title": "令和６年度財務省所管補正予算の主な事業の執⾏状況",
-     "url": "https://www.mof.go.jp/about_mof/mof_budget/budget/fy2024/20260904.html",
-     "date": "2026-09-04"
+     "title": "国債金利情報(令和8年9月4日)",
+     "url": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+     "date": "2026-09-07"
     },
     {
-     "title": "人事異動(令和8年9月4日-所管法人役員の任命)",
-     "url": "https://www.mof.go.jp/about_mof/introduction/personnel/transfers/2026.9.4.pdf",
-     "date": "2026-09-04"
+     "title": "外貨準備等の状況（令和8年8月末現在）",
+     "url": "https://www.mof.go.jp/policy/international_policy/reference/official_reserve_assets/data/0808.html",
+     "date": "2026-09-07"
     }
    ]
   },
@@ -379,9 +379,14 @@
    "id": "mext",
    "name": "文部科学省",
    "source_url": "https://www.mext.go.jp/b_menu/news/index.html",
-   "fetched_at": "2026-09-06T20:32:53Z",
+   "fetched_at": "2026-09-07T04:57:03Z",
    "ok": true,
    "items": [
+    {
+     "title": "業務説明会・職員訪問",
+     "url": "https://www.mext.go.jp/b_menu/saiyou/sougoujimu/setumei/1421199_00009.htm",
+     "date": "2026-09-07"
+    },
     {
      "title": "松本洋平文部科学大臣記者会見録（令和8年9月4日）",
      "url": "https://www.mext.go.jp/b_menu/daijin/detail/mext_00726.html",
@@ -398,11 +403,6 @@
      "date": "2026-09-04"
     },
     {
-     "title": "業務説明会・職員訪問",
-     "url": "https://www.mext.go.jp/b_menu/saiyou/sougoujimu/setumei/1421199_00009.htm",
-     "date": "2026-09-03"
-    },
-    {
      "title": "中央教育審議会大学分科会（第192回）を開催します",
      "url": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo4/kaisai/1422340_00063.html",
      "date": "2026-09-03"
@@ -413,7 +413,7 @@
    "id": "mhlw",
    "name": "厚生労働省",
    "source_url": "https://www.mhlw.go.jp/stf/houdou/index.html",
-   "fetched_at": "2026-09-06T20:32:53Z",
+   "fetched_at": "2026-09-07T04:57:03Z",
    "ok": true,
    "items": [
     {
@@ -447,7 +447,7 @@
    "id": "maff",
    "name": "農林水産省",
    "source_url": "https://www.maff.go.jp/j/press/index.html",
-   "fetched_at": "2026-09-06T20:32:53Z",
+   "fetched_at": "2026-09-07T04:57:03Z",
    "ok": true,
    "items": [
     {
@@ -481,7 +481,7 @@
    "id": "meti",
    "name": "経済産業省",
    "source_url": "https://www.meti.go.jp/press/index.html",
-   "fetched_at": "2026-09-06T20:32:53Z",
+   "fetched_at": "2026-09-07T04:57:03Z",
    "ok": true,
    "items": [
     {
@@ -515,7 +515,7 @@
    "id": "mlit",
    "name": "国土交通省",
    "source_url": "https://www.mlit.go.jp/report/press/index.html",
-   "fetched_at": "2026-09-06T20:32:53Z",
+   "fetched_at": "2026-09-07T04:57:03Z",
    "ok": true,
    "items": [
     {
@@ -549,7 +549,7 @@
    "id": "env",
    "name": "環境省",
    "source_url": "https://www.env.go.jp/press/index.html",
-   "fetched_at": "2026-09-06T20:32:53Z",
+   "fetched_at": "2026-09-07T04:57:03Z",
    "ok": true,
    "items": [
     {
@@ -583,7 +583,7 @@
    "id": "mod",
    "name": "防衛省",
    "source_url": "https://www.mod.go.jp/j/press/news/index.html",
-   "fetched_at": "2026-09-06T20:32:53Z",
+   "fetched_at": "2026-09-07T04:57:03Z",
    "ok": true,
    "items": [
     {
