@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-14T13:04:43Z",
+ "generated_at": "2026-09-14T21:55:06Z",
  "companies": [
   {
    "id": "kantei",
    "name": "首相官邸 新着情報",
    "source_url": "https://www.kantei.go.jp/jp/news/index.html",
-   "fetched_at": "2026-09-14T13:04:43Z",
+   "fetched_at": "2026-09-14T21:55:06Z",
    "ok": true,
    "items": [
     {
@@ -39,9 +39,14 @@
    "id": "kantei_actions",
    "name": "首相官邸 総理の一日",
    "source_url": "https://www.kantei.go.jp/jp/105/actions/index.html",
-   "fetched_at": "2026-09-14T05:10:22Z",
-   "ok": false,
+   "fetched_at": "2026-09-14T21:55:06Z",
+   "ok": true,
    "items": [
+    {
+     "title": "ビロル国際エネルギー機関（ＩＥＡ）事務局長による表敬",
+     "url": "https://www.kantei.go.jp/jp/105/actions/202609/14hyoukei.html",
+     "date": "2026-09-14"
+    },
     {
      "title": "全国消防殉職者慰霊祭",
      "url": "https://www.kantei.go.jp/jp/105/actions/202609/10ireisai.html",
@@ -61,11 +66,6 @@
      "title": "自由民主党・「令和８年８月千葉豪雨」申入れ",
      "url": "https://www.kantei.go.jp/jp/105/actions/202609/02moushiire.html",
      "date": "2026-09-02"
-    },
-    {
-     "title": "令和８年度自衛隊指揮官幹部会同",
-     "url": "https://www.kantei.go.jp/jp/105/actions/202609/02jieitai_kaidou.html",
-     "date": "2026-09-02"
     }
    ]
   },
@@ -73,8 +73,8 @@
    "id": "kantei_statement",
    "name": "首相官邸 総理の会見・談話",
    "source_url": "https://www.kantei.go.jp/jp/105/statement/index.html",
-   "fetched_at": "2026-09-14T05:10:22Z",
-   "ok": false,
+   "fetched_at": "2026-09-14T21:55:06Z",
+   "ok": true,
    "items": [
     {
      "title": "高市総理大臣発ビラ・ノバ・サントメ・プリンシペ民主共和国大統領宛祝辞",
@@ -107,7 +107,7 @@
    "id": "kantei_tyoukanpress",
    "name": "首相官邸 官房長官記者会見",
    "source_url": "https://www.kantei.go.jp/jp/tyoukanpress/index.html",
-   "fetched_at": "2026-09-14T13:04:43Z",
+   "fetched_at": "2026-09-14T21:55:06Z",
    "ok": true,
    "items": [
     {
@@ -141,7 +141,7 @@
    "id": "cao",
    "name": "内閣府",
    "source_url": "https://www.cao.go.jp/press/houdou.html",
-   "fetched_at": "2026-09-14T13:04:43Z",
+   "fetched_at": "2026-09-14T21:55:06Z",
    "ok": true,
    "items": [
     {
@@ -175,7 +175,7 @@
    "id": "digital",
    "name": "デジタル庁",
    "source_url": "https://www.digital.go.jp/news",
-   "fetched_at": "2026-09-14T13:04:43Z",
+   "fetched_at": "2026-09-14T21:55:06Z",
    "ok": true,
    "items": [
     {
@@ -209,7 +209,7 @@
    "id": "fsa",
    "name": "金融庁",
    "source_url": "https://www.fsa.go.jp/news/index.html",
-   "fetched_at": "2026-09-14T13:04:43Z",
+   "fetched_at": "2026-09-14T21:55:06Z",
    "ok": true,
    "items": [
     {
@@ -243,9 +243,14 @@
    "id": "soumu",
    "name": "総務省",
    "source_url": "https://www.soumu.go.jp/menu_news/s-news/index.html",
-   "fetched_at": "2026-09-14T13:04:43Z",
+   "fetched_at": "2026-09-14T21:55:06Z",
    "ok": true,
    "items": [
+    {
+     "title": "令和8年9月15日付　総務省人事",
+     "url": "https://www.soumu.go.jp/menu_news/s-news/01kanbo01_02001180.html",
+     "date": "2026-09-15"
+    },
     {
      "title": "令和8年9月14日付　総務省人事",
      "url": "https://www.soumu.go.jp/menu_news/s-news/01kanbo01_02001179.html",
@@ -265,11 +270,6 @@
      "title": "日独ICT政策対話（第9回）の結果",
      "url": "https://www.soumu.go.jp/menu_news/s-news/01tsushin08_02000208.html",
      "date": "2026-09-14"
-    },
-    {
-     "title": "情報通信法学研究会AI分科会(令和8年度第1回)",
-     "url": "https://www.soumu.go.jp/main_sosiki/kenkyu/hougakuken/R08_AI_01_shiryou.html",
-     "date": "2026-09-14"
     }
    ]
   },
@@ -277,7 +277,7 @@
    "id": "moj",
    "name": "法務省",
    "source_url": "https://www.moj.go.jp/press_index.html",
-   "fetched_at": "2026-09-14T13:04:43Z",
+   "fetched_at": "2026-09-14T21:55:06Z",
    "ok": true,
    "items": [
     {
@@ -345,7 +345,7 @@
    "id": "mof",
    "name": "財務省",
    "source_url": "https://www.mof.go.jp/news/index.html",
-   "fetched_at": "2026-09-14T13:04:43Z",
+   "fetched_at": "2026-09-14T21:55:06Z",
    "ok": true,
    "items": [
     {
@@ -379,7 +379,7 @@
    "id": "mext",
    "name": "文部科学省",
    "source_url": "https://www.mext.go.jp/b_menu/news/index.html",
-   "fetched_at": "2026-09-14T13:04:43Z",
+   "fetched_at": "2026-09-14T21:55:06Z",
    "ok": true,
    "items": [
     {
@@ -413,7 +413,7 @@
    "id": "mhlw",
    "name": "厚生労働省",
    "source_url": "https://www.mhlw.go.jp/stf/houdou/index.html",
-   "fetched_at": "2026-09-14T13:04:43Z",
+   "fetched_at": "2026-09-14T21:55:06Z",
    "ok": true,
    "items": [
     {
@@ -447,7 +447,7 @@
    "id": "maff",
    "name": "農林水産省",
    "source_url": "https://www.maff.go.jp/j/press/index.html",
-   "fetched_at": "2026-09-14T13:04:43Z",
+   "fetched_at": "2026-09-14T21:55:06Z",
    "ok": true,
    "items": [
     {
@@ -481,9 +481,14 @@
    "id": "meti",
    "name": "経済産業省",
    "source_url": "https://www.meti.go.jp/press/index.html",
-   "fetched_at": "2026-09-14T13:04:43Z",
+   "fetched_at": "2026-09-14T21:55:06Z",
    "ok": true,
    "items": [
+    {
+     "title": "越智経済産業政務官がAPEC（アジア太平洋経済協力）エネルギー大臣会合に出席しました",
+     "url": "https://www.meti.go.jp/press/2026/09/20260914003.html",
+     "date": "2026-09-14"
+    },
     {
      "title": "AIの開発・提供・利用の現場における課題に関する事例を募集します",
      "url": "https://www.meti.go.jp/press/2026/09/20260914001.html",
@@ -503,11 +508,6 @@
      "title": "令和8年熊本地震に係るセーフティネット保証4号の指定地域を拡大します",
      "url": "https://www.meti.go.jp/press/2026/09/20260914002.html",
      "date": "2026-09-14"
-    },
-    {
-     "title": "一般送配電事業者8社から託送供給等約款の変更届出を受理しました",
-     "url": "https://www.meti.go.jp/press/2026/09/20260911003.html",
-     "date": "2026-09-11"
     }
    ]
   },
@@ -515,7 +515,7 @@
    "id": "mlit",
    "name": "国土交通省",
    "source_url": "https://www.mlit.go.jp/report/press/index.html",
-   "fetched_at": "2026-09-14T13:04:43Z",
+   "fetched_at": "2026-09-14T21:55:06Z",
    "ok": true,
    "items": [
     {
@@ -549,7 +549,7 @@
    "id": "env",
    "name": "環境省",
    "source_url": "https://www.env.go.jp/press/index.html",
-   "fetched_at": "2026-09-14T13:04:43Z",
+   "fetched_at": "2026-09-14T21:55:06Z",
    "ok": true,
    "items": [
     {
@@ -583,7 +583,7 @@
    "id": "mod",
    "name": "防衛省",
    "source_url": "https://www.mod.go.jp/j/press/news/index.html",
-   "fetched_at": "2026-09-14T13:04:43Z",
+   "fetched_at": "2026-09-14T21:55:06Z",
    "ok": true,
    "items": [
     {
