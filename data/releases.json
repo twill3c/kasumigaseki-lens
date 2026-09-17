@@ -1,37 +1,37 @@
 {
- "generated_at": "2026-09-17T11:53:32Z",
+ "generated_at": "2026-09-17T17:09:41Z",
  "companies": [
   {
    "id": "kantei",
    "name": "首相官邸 新着情報",
    "source_url": "https://www.kantei.go.jp/jp/news/index.html",
-   "fetched_at": "2026-09-17T11:53:32Z",
+   "fetched_at": "2026-09-17T17:09:41Z",
    "ok": true,
    "items": [
+    {
+     "title": "第２次高市内閣発足後、初の内閣改造を行いました",
+     "url": "https://www.kantei.go.jp/jp/105/actions/202609/17takaichinaikaku2.html",
+     "date": "2026-09-18"
+    },
+    {
+     "title": "初閣議の概要について",
+     "url": "https://www.kantei.go.jp/jp/tyoukanpress/202609/17_p.html",
+     "date": "2026-09-18"
+    },
+    {
+     "title": "基本方針を掲載しました",
+     "url": "https://www.kantei.go.jp/jp/pages/20260917kihonhoushin.html",
+     "date": "2026-09-18"
+    },
+    {
+     "title": "高市総理は第２次高市改造内閣発足に当たっての記者会見を行いました",
+     "url": "https://www.kantei.go.jp/jp/105/statement/2026/0917kaiken.html",
+     "date": "2026-09-18"
+    },
     {
      "title": "閣僚等名簿の発表について",
      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202609/17_m.html",
      "date": "2026-09-17"
-    },
-    {
-     "title": "日本商工会議所 第１４３回通常会員総会 高市総理ビデオメッセージ",
-     "url": "https://www.kantei.go.jp/jp/105/discourse/20260917message.html",
-     "date": "2026-09-17"
-    },
-    {
-     "title": "臨時閣議の概要について",
-     "url": "https://www.kantei.go.jp/jp/tyoukanpress/202609/17_a.html",
-     "date": "2026-09-17"
-    },
-    {
-     "title": "臨時閣議の概要について",
-     "url": "https://www.kantei.go.jp/jp/tyoukanpress/202609/15_p.html",
-     "date": "2026-09-16"
-    },
-    {
-     "title": "高市総理は令和８年防災功労者内閣総理大臣表彰式に出席しました",
-     "url": "https://www.kantei.go.jp/jp/105/actions/202609/15hyousyou.html",
-     "date": "2026-09-16"
     }
    ]
   },
@@ -39,9 +39,19 @@
    "id": "kantei_actions",
    "name": "首相官邸 総理の一日",
    "source_url": "https://www.kantei.go.jp/jp/105/actions/index.html",
-   "fetched_at": "2026-09-17T11:53:32Z",
+   "fetched_at": "2026-09-17T17:09:41Z",
    "ok": true,
    "items": [
+    {
+     "title": "第２次高市改造内閣の発足",
+     "url": "https://www.kantei.go.jp/jp/105/actions/202609/17takaichinaikaku2.html",
+     "date": "2026-09-17"
+    },
+    {
+     "title": "高市内閣総理大臣記者会見",
+     "url": "https://www.kantei.go.jp/jp/105/actions/202609/17kaiken.html",
+     "date": "2026-09-17"
+    },
     {
      "title": "防災功労者内閣総理大臣表彰式",
      "url": "https://www.kantei.go.jp/jp/105/actions/202609/15hyousyou.html",
@@ -56,16 +66,6 @@
      "title": "全国消防殉職者慰霊祭",
      "url": "https://www.kantei.go.jp/jp/105/actions/202609/10ireisai.html",
      "date": "2026-09-10"
-    },
-    {
-     "title": "海上保安政策プログラム第１１期生による表敬",
-     "url": "https://www.kantei.go.jp/jp/105/actions/202609/04hyoukei.html",
-     "date": "2026-09-04"
-    },
-    {
-     "title": "令和８年熊本地震非常災害復旧復興本部",
-     "url": "https://www.kantei.go.jp/jp/105/actions/202609/04fukkyuhonbu.html",
-     "date": "2026-09-04"
     }
    ]
   },
@@ -73,9 +73,14 @@
    "id": "kantei_statement",
    "name": "首相官邸 総理の会見・談話",
    "source_url": "https://www.kantei.go.jp/jp/105/statement/index.html",
-   "fetched_at": "2026-09-17T11:53:32Z",
+   "fetched_at": "2026-09-17T17:09:41Z",
    "ok": true,
    "items": [
+    {
+     "title": "高市内閣総理大臣記者会見",
+     "url": "https://www.kantei.go.jp/jp/105/statement/2026/0917kaiken.html",
+     "date": "2026-09-17"
+    },
     {
      "title": "日本商工会議所 第１４３回通常会員総会 高市総理ビデオメッセージ",
      "url": "https://www.kantei.go.jp/jp/105/discourse/20260917message.html",
@@ -95,11 +100,6 @@
      "title": "令和８年度自衛隊指揮官幹部会同 内閣総理大臣訓示",
      "url": "https://www.kantei.go.jp/jp/105/statement/2026/0902kunji.html",
      "date": "2026-09-02"
-    },
-    {
-     "title": "シャハ・ネパール首相との電話会談等についての会見",
-     "url": "https://www.kantei.go.jp/jp/105/statement/2026/0901kaiken.html",
-     "date": "2026-09-01"
     }
    ]
   },
@@ -107,7 +107,7 @@
    "id": "kantei_tyoukanpress",
    "name": "首相官邸 官房長官記者会見",
    "source_url": "https://www.kantei.go.jp/jp/tyoukanpress/index.html",
-   "fetched_at": "2026-09-17T11:53:32Z",
+   "fetched_at": "2026-09-17T17:09:41Z",
    "ok": true,
    "items": [
     {
@@ -121,6 +121,11 @@
      "date": "2026-09-17"
     },
     {
+     "title": "午後 初閣議の概要について",
+     "url": "https://www.kantei.go.jp/jp/tyoukanpress/202609/17_p.html",
+     "date": "2026-09-17"
+    },
+    {
      "title": "午前 冒頭発言なし",
      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202609/16_a.html",
      "date": "2026-09-16"
@@ -129,11 +134,6 @@
      "title": "午後 冒頭発言なし",
      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202609/16_p.html",
      "date": "2026-09-16"
-    },
-    {
-     "title": "午前 閣議の概要について",
-     "url": "https://www.kantei.go.jp/jp/tyoukanpress/202609/15_a.html",
-     "date": "2026-09-15"
     }
    ]
   },
@@ -141,7 +141,7 @@
    "id": "cao",
    "name": "内閣府",
    "source_url": "https://www.cao.go.jp/press/houdou.html",
-   "fetched_at": "2026-09-17T11:53:32Z",
+   "fetched_at": "2026-09-17T17:09:41Z",
    "ok": true,
    "items": [
     {
@@ -175,9 +175,14 @@
    "id": "digital",
    "name": "デジタル庁",
    "source_url": "https://www.digital.go.jp/news",
-   "fetched_at": "2026-09-17T11:53:32Z",
+   "fetched_at": "2026-09-17T17:09:41Z",
    "ok": true,
    "items": [
+    {
+     "title": "令和8年9月17日付デジタル庁幹部一覧を掲載しました",
+     "url": "https://www.digital.go.jp/about/member",
+     "date": "2026-09-17"
+    },
     {
      "title": "松本大臣退任記者会見（令和8年9月17日）要旨を掲載しました",
      "url": "https://www.digital.go.jp/speech/minister-260917-01",
@@ -197,11 +202,6 @@
      "title": "JP PINT 民間事業者の取組（政府調達編）―デジタル庁を更新しました",
      "url": "https://www.digital.go.jp/policies/electronic_invoice/968e4487-0cbb-48e7-a090-e097d925b5e7",
      "date": "2026-09-16"
-    },
-    {
-     "title": "松本大臣記者会見（令和8年9月15日）要旨を掲載しました",
-     "url": "https://www.digital.go.jp/speech/minister-260915-01",
-     "date": "2026-09-16"
     }
    ]
   },
@@ -209,7 +209,7 @@
    "id": "fsa",
    "name": "金融庁",
    "source_url": "https://www.fsa.go.jp/news/index.html",
-   "fetched_at": "2026-09-17T11:53:32Z",
+   "fetched_at": "2026-09-17T17:09:41Z",
    "ok": true,
    "items": [
     {
@@ -243,7 +243,7 @@
    "id": "soumu",
    "name": "総務省",
    "source_url": "https://www.soumu.go.jp/menu_news/s-news/index.html",
-   "fetched_at": "2026-09-17T11:53:32Z",
+   "fetched_at": "2026-09-17T17:09:41Z",
    "ok": true,
    "items": [
     {
@@ -277,7 +277,7 @@
    "id": "moj",
    "name": "法務省",
    "source_url": "https://www.moj.go.jp/press_index.html",
-   "fetched_at": "2026-09-17T11:53:32Z",
+   "fetched_at": "2026-09-17T17:09:41Z",
    "ok": true,
    "items": [
     {
@@ -345,7 +345,7 @@
    "id": "mof",
    "name": "財務省",
    "source_url": "https://www.mof.go.jp/news/index.html",
-   "fetched_at": "2026-09-17T11:53:32Z",
+   "fetched_at": "2026-09-17T17:09:41Z",
    "ok": true,
    "items": [
     {
@@ -379,9 +379,14 @@
    "id": "mext",
    "name": "文部科学省",
    "source_url": "https://www.mext.go.jp/b_menu/news/index.html",
-   "fetched_at": "2026-09-17T11:53:32Z",
+   "fetched_at": "2026-09-17T17:09:41Z",
    "ok": true,
    "items": [
+    {
+     "title": "多様な専門性を有する質の高い教職員集団の形成を加速するための方策について（審議のまとめ）",
+     "url": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/002/houkoku/1360150_00011.htm",
+     "date": "2026-09-17"
+    },
     {
      "title": "松本洋平文部科学大臣記者会見録（令和8年9月17日）",
      "url": "https://www.mext.go.jp/b_menu/daijin/detail/mext_00729.html",
@@ -401,11 +406,6 @@
      "title": "「学校給食衛生管理基準」の在り方に関する有識者会議（第4回）の開催について",
      "url": "https://www.mext.go.jp/b_menu/shingi/chousa/shotou/205/kaisai/mext_00005.html",
      "date": "2026-09-17"
-    },
-    {
-     "title": "産業競争力・研究力中核大学群に関するワーキンググループ（第3回）配布資料",
-     "url": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu31/001/siryo/000019199_00023.htm",
-     "date": "2026-09-17"
     }
    ]
   },
@@ -413,9 +413,14 @@
    "id": "mhlw",
    "name": "厚生労働省",
    "source_url": "https://www.mhlw.go.jp/stf/houdou/index.html",
-   "fetched_at": "2026-09-17T11:53:32Z",
+   "fetched_at": "2026-09-17T17:09:41Z",
    "ok": true,
    "items": [
+    {
+     "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
+     "url": "https://www.mhlw.go.jp/stf/newpage_76306.html",
+     "date": "2026-09-17"
+    },
     {
      "title": "食肉検査等情報還元調査",
      "url": "https://www.mhlw.go.jp/toukei/list/113-1.html",
@@ -435,11 +440,6 @@
      "title": "労働政策審議会 (人材開発分科会監理団体審査部会)",
      "url": "https://www.mhlw.go.jp/stf/shingi/shingi-rousei_474670.html",
      "date": "2026-09-17"
-    },
-    {
-     "title": "家事・育児の最適な協力体制づくりのための対話ツール『トモイクシートWeb版』を公表しました",
-     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000070286_00001.html",
-     "date": "2026-09-17"
     }
    ]
   },
@@ -447,7 +447,7 @@
    "id": "maff",
    "name": "農林水産省",
    "source_url": "https://www.maff.go.jp/j/press/index.html",
-   "fetched_at": "2026-09-17T11:53:32Z",
+   "fetched_at": "2026-09-17T17:09:41Z",
    "ok": true,
    "items": [
     {
@@ -481,7 +481,7 @@
    "id": "meti",
    "name": "経済産業省",
    "source_url": "https://www.meti.go.jp/press/index.html",
-   "fetched_at": "2026-09-17T11:53:32Z",
+   "fetched_at": "2026-09-17T17:09:41Z",
    "ok": true,
    "items": [
     {
@@ -515,7 +515,7 @@
    "id": "mlit",
    "name": "国土交通省",
    "source_url": "https://www.mlit.go.jp/report/press/index.html",
-   "fetched_at": "2026-09-17T11:53:32Z",
+   "fetched_at": "2026-09-17T17:09:41Z",
    "ok": true,
    "items": [
     {
@@ -549,7 +549,7 @@
    "id": "env",
    "name": "環境省",
    "source_url": "https://www.env.go.jp/press/index.html",
-   "fetched_at": "2026-09-17T11:53:32Z",
+   "fetched_at": "2026-09-17T17:09:41Z",
    "ok": true,
    "items": [
     {
@@ -583,7 +583,7 @@
    "id": "mod",
    "name": "防衛省",
    "source_url": "https://www.mod.go.jp/j/press/news/index.html",
-   "fetched_at": "2026-09-17T11:53:32Z",
+   "fetched_at": "2026-09-17T17:09:41Z",
    "ok": true,
    "items": [
     {
