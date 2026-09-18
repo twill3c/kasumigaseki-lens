@@ -1,15 +1,25 @@
 {
- "generated_at": "2026-09-18T11:30:06Z",
+ "generated_at": "2026-09-18T16:34:33Z",
  "companies": [
   {
    "id": "kantei",
    "name": "首相官邸 新着情報",
    "source_url": "https://www.kantei.go.jp/jp/news/index.html",
-   "fetched_at": "2026-09-18T11:30:06Z",
+   "fetched_at": "2026-09-18T16:34:33Z",
    "ok": true,
    "items": [
     {
-     "title": "閣議の概要について",
+     "title": "高市総理は初大臣政務官会合に出席しました",
+     "url": "https://www.kantei.go.jp/jp/105/actions/202609/19seimukan.html",
+     "date": "2026-09-19"
+    },
+    {
+     "title": "高市総理は初副大臣会議に出席しました",
+     "url": "https://www.kantei.go.jp/jp/105/actions/202609/18fukudaijin.html",
+     "date": "2026-09-19"
+    },
+    {
+     "title": "閣議の概要／高市総理の米国訪問／「Ｗａｔｅｒ Ｐｌｕｍ」に関する注意喚起について",
      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202609/18_p.html",
      "date": "2026-09-19"
     },
@@ -22,16 +32,6 @@
      "title": "第２次高市内閣発足後、初の内閣改造を行いました",
      "url": "https://www.kantei.go.jp/jp/105/actions/202609/17takaichinaikaku2.html",
      "date": "2026-09-18"
-    },
-    {
-     "title": "初閣議の概要について",
-     "url": "https://www.kantei.go.jp/jp/tyoukanpress/202609/17_p.html",
-     "date": "2026-09-18"
-    },
-    {
-     "title": "基本方針を掲載しました",
-     "url": "https://www.kantei.go.jp/jp/pages/20260917kihonhoushin.html",
-     "date": "2026-09-18"
     }
    ]
   },
@@ -39,9 +39,19 @@
    "id": "kantei_actions",
    "name": "首相官邸 総理の一日",
    "source_url": "https://www.kantei.go.jp/jp/105/actions/index.html",
-   "fetched_at": "2026-09-18T11:30:06Z",
+   "fetched_at": "2026-09-18T16:34:33Z",
    "ok": true,
    "items": [
+    {
+     "title": "初大臣政務官会合・記念撮影",
+     "url": "https://www.kantei.go.jp/jp/105/actions/202609/19seimukan.html",
+     "date": "2026-09-18"
+    },
+    {
+     "title": "初副大臣会議・記念撮影",
+     "url": "https://www.kantei.go.jp/jp/105/actions/202609/18fukudaijin.html",
+     "date": "2026-09-18"
+    },
     {
      "title": "第２次高市改造内閣の発足",
      "url": "https://www.kantei.go.jp/jp/105/actions/202609/17takaichinaikaku2.html",
@@ -56,16 +66,6 @@
      "title": "防災功労者内閣総理大臣表彰式",
      "url": "https://www.kantei.go.jp/jp/105/actions/202609/15hyousyou.html",
      "date": "2026-09-15"
-    },
-    {
-     "title": "ビロル国際エネルギー機関（ＩＥＡ）事務局長による表敬",
-     "url": "https://www.kantei.go.jp/jp/105/actions/202609/14hyoukei.html",
-     "date": "2026-09-14"
-    },
-    {
-     "title": "全国消防殉職者慰霊祭",
-     "url": "https://www.kantei.go.jp/jp/105/actions/202609/10ireisai.html",
-     "date": "2026-09-10"
     }
    ]
   },
@@ -73,7 +73,7 @@
    "id": "kantei_statement",
    "name": "首相官邸 総理の会見・談話",
    "source_url": "https://www.kantei.go.jp/jp/105/statement/index.html",
-   "fetched_at": "2026-09-18T11:30:06Z",
+   "fetched_at": "2026-09-18T16:34:33Z",
    "ok": true,
    "items": [
     {
@@ -107,7 +107,7 @@
    "id": "kantei_tyoukanpress",
    "name": "首相官邸 官房長官記者会見",
    "source_url": "https://www.kantei.go.jp/jp/tyoukanpress/index.html",
-   "fetched_at": "2026-09-18T11:30:06Z",
+   "fetched_at": "2026-09-18T16:34:33Z",
    "ok": true,
    "items": [
     {
@@ -116,7 +116,7 @@
      "date": "2026-09-18"
     },
     {
-     "title": "午後 閣議の概要について",
+     "title": "午後 閣議の概要について 高市総理の米国訪問について 「Ｗａｔｅｒ Ｐｌｕｍ」に関する注意喚起について",
      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202609/18_p.html",
      "date": "2026-09-18"
     },
@@ -141,7 +141,7 @@
    "id": "cao",
    "name": "内閣府",
    "source_url": "https://www.cao.go.jp/press/houdou.html",
-   "fetched_at": "2026-09-18T11:30:06Z",
+   "fetched_at": "2026-09-18T16:34:33Z",
    "ok": true,
    "items": [
     {
@@ -175,9 +175,19 @@
    "id": "digital",
    "name": "デジタル庁",
    "source_url": "https://www.digital.go.jp/news",
-   "fetched_at": "2026-09-18T11:30:06Z",
+   "fetched_at": "2026-09-18T16:34:33Z",
    "ok": true,
    "items": [
+    {
+     "title": "令和8年9月18日付デジタル庁幹部一覧を掲載しました",
+     "url": "https://www.digital.go.jp/about/member",
+     "date": "2026-09-18"
+    },
+    {
+     "title": "古川大臣就任記者会見（令和8年9月18日）要旨を掲載しました",
+     "url": "https://www.digital.go.jp/speech/minister-260918-01",
+     "date": "2026-09-18"
+    },
     {
      "title": "【終了】「ガバメントAI 源内OSS Ver 2.0の計画に関するオンライン説明会」の開催について（ご案内）",
      "url": "https://www.digital.go.jp/news/b6d94913-60d0-450d-ab46-8e89659f1fc6",
@@ -192,16 +202,6 @@
      "title": "トラスト（デジタル・アイデンティティ等）に「令和7年度日EU間における教育クレデンシャルの相互運用に係る実証」の結果報告書および実証スコープ定義書を掲載しました",
      "url": "https://www.digital.go.jp/policies/trust",
      "date": "2026-09-18"
-    },
-    {
-     "title": "自治体・医療機関等をつなぐ情報連携システム（Public Medical Hub：PMH）に係る医療費助成オンライン資格確認の導入済み医療機関・薬局リストを更新しました",
-     "url": "https://www.digital.go.jp/policies/health/public-medical-hub",
-     "date": "2026-09-18"
-    },
-    {
-     "title": "Public Medical Hub システム利用規約（医療機関等向け）の改正について",
-     "url": "https://www.digital.go.jp/news/6ab83796-e631-4c64-ba13-9b3938056693",
-     "date": "2026-09-18"
     }
    ]
   },
@@ -209,7 +209,7 @@
    "id": "fsa",
    "name": "金融庁",
    "source_url": "https://www.fsa.go.jp/news/index.html",
-   "fetched_at": "2026-09-18T11:30:06Z",
+   "fetched_at": "2026-09-18T16:34:33Z",
    "ok": true,
    "items": [
     {
@@ -243,7 +243,7 @@
    "id": "soumu",
    "name": "総務省",
    "source_url": "https://www.soumu.go.jp/menu_news/s-news/index.html",
-   "fetched_at": "2026-09-18T11:30:06Z",
+   "fetched_at": "2026-09-18T16:34:33Z",
    "ok": true,
    "items": [
     {
@@ -277,7 +277,7 @@
    "id": "moj",
    "name": "法務省",
    "source_url": "https://www.moj.go.jp/press_index.html",
-   "fetched_at": "2026-09-18T11:30:06Z",
+   "fetched_at": "2026-09-18T16:34:33Z",
    "ok": true,
    "items": [
     {
@@ -345,7 +345,7 @@
    "id": "mof",
    "name": "財務省",
    "source_url": "https://www.mof.go.jp/news/index.html",
-   "fetched_at": "2026-09-18T11:30:06Z",
+   "fetched_at": "2026-09-18T16:34:33Z",
    "ok": true,
    "items": [
     {
@@ -379,9 +379,14 @@
    "id": "mext",
    "name": "文部科学省",
    "source_url": "https://www.mext.go.jp/b_menu/news/index.html",
-   "fetched_at": "2026-09-18T11:30:06Z",
+   "fetched_at": "2026-09-18T16:34:33Z",
    "ok": true,
    "items": [
+    {
+     "title": "関芳弘文部科学大臣記者会見録（令和8年9月18日）",
+     "url": "https://www.mext.go.jp/b_menu/daijin/detail/mext_00731.html",
+     "date": "2026-09-18"
+    },
     {
      "title": "業務説明会・職員訪問",
      "url": "https://www.mext.go.jp/b_menu/saiyou/sougoujimu/setumei/1421199_00009.htm",
@@ -401,11 +406,6 @@
      "title": "令和9年度開設予定の大学の学部等の設置届出について（令和8年6月分）",
      "url": "https://www.mext.go.jp/a_menu/koutou/ninka/1418456_00084.htm",
      "date": "2026-09-18"
-    },
-    {
-     "title": "令和9年度開設予定の大学の学部等の設置届出について（令和8年5月分）",
-     "url": "https://www.mext.go.jp/a_menu/koutou/ninka/1418456_00083.htm",
-     "date": "2026-09-18"
     }
    ]
   },
@@ -413,7 +413,7 @@
    "id": "mhlw",
    "name": "厚生労働省",
    "source_url": "https://www.mhlw.go.jp/stf/houdou/index.html",
-   "fetched_at": "2026-09-18T11:30:06Z",
+   "fetched_at": "2026-09-18T16:34:33Z",
    "ok": true,
    "items": [
     {
@@ -447,7 +447,7 @@
    "id": "maff",
    "name": "農林水産省",
    "source_url": "https://www.maff.go.jp/j/press/index.html",
-   "fetched_at": "2026-09-18T11:30:06Z",
+   "fetched_at": "2026-09-18T16:34:33Z",
    "ok": true,
    "items": [
     {
@@ -481,7 +481,7 @@
    "id": "meti",
    "name": "経済産業省",
    "source_url": "https://www.meti.go.jp/press/index.html",
-   "fetched_at": "2026-09-18T11:30:06Z",
+   "fetched_at": "2026-09-18T16:34:33Z",
    "ok": true,
    "items": [
     {
@@ -515,7 +515,7 @@
    "id": "mlit",
    "name": "国土交通省",
    "source_url": "https://www.mlit.go.jp/report/press/index.html",
-   "fetched_at": "2026-09-18T11:30:06Z",
+   "fetched_at": "2026-09-18T16:34:33Z",
    "ok": true,
    "items": [
     {
@@ -549,7 +549,7 @@
    "id": "env",
    "name": "環境省",
    "source_url": "https://www.env.go.jp/press/index.html",
-   "fetched_at": "2026-09-18T11:30:06Z",
+   "fetched_at": "2026-09-18T16:34:33Z",
    "ok": true,
    "items": [
     {
@@ -583,7 +583,7 @@
    "id": "mod",
    "name": "防衛省",
    "source_url": "https://www.mod.go.jp/j/press/news/index.html",
-   "fetched_at": "2026-09-18T11:30:06Z",
+   "fetched_at": "2026-09-18T16:34:33Z",
    "ok": true,
    "items": [
     {
