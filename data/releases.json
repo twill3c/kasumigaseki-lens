@@ -1,13 +1,18 @@
 {
- "generated_at": "2026-09-25T12:00:16Z",
+ "generated_at": "2026-09-25T17:21:33Z",
  "companies": [
   {
    "id": "kantei",
    "name": "首相官邸 新着情報",
    "source_url": "https://www.kantei.go.jp/jp/news/index.html",
-   "fetched_at": "2026-09-25T12:00:16Z",
+   "fetched_at": "2026-09-25T17:21:33Z",
    "ok": true,
    "items": [
+    {
+     "title": "高市総理は日米首脳会談等についての会見を行いました",
+     "url": "https://www.kantei.go.jp/jp/105/statement/2026/0925kaiken.html",
+     "date": "2026-09-26"
+    },
     {
      "title": "高市総理は日本スタートアップ大賞２０２６表彰式に出席しました",
      "url": "https://www.kantei.go.jp/jp/105/actions/202609/25startup.html",
@@ -27,11 +32,6 @@
      "title": "閣議の概要について",
      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202609/25_a.html",
      "date": "2026-09-25"
-    },
-    {
-     "title": "高市総理はアメリカ合衆国のニューヨークを訪問しました",
-     "url": "https://www.kantei.go.jp/jp/105/actions/202609/22usa.html",
-     "date": "2026-09-24"
     }
    ]
   },
@@ -39,9 +39,14 @@
    "id": "kantei_actions",
    "name": "首相官邸 総理の一日",
    "source_url": "https://www.kantei.go.jp/jp/105/actions/index.html",
-   "fetched_at": "2026-09-25T12:00:16Z",
+   "fetched_at": "2026-09-25T17:21:33Z",
    "ok": true,
    "items": [
+    {
+     "title": "日米首脳会談等についての会見",
+     "url": "https://www.kantei.go.jp/jp/105/actions/202609/25kaiken.html",
+     "date": "2026-09-25"
+    },
     {
      "title": "日本スタートアップ大賞２０２６表彰式",
      "url": "https://www.kantei.go.jp/jp/105/actions/202609/25startup.html",
@@ -61,11 +66,6 @@
      "title": "初大臣政務官会合・記念撮影",
      "url": "https://www.kantei.go.jp/jp/105/actions/202609/19seimukan.html",
      "date": "2026-09-18"
-    },
-    {
-     "title": "初副大臣会議・記念撮影",
-     "url": "https://www.kantei.go.jp/jp/105/actions/202609/18fukudaijin.html",
-     "date": "2026-09-18"
     }
    ]
   },
@@ -73,9 +73,14 @@
    "id": "kantei_statement",
    "name": "首相官邸 総理の会見・談話",
    "source_url": "https://www.kantei.go.jp/jp/105/statement/index.html",
-   "fetched_at": "2026-09-25T12:00:16Z",
+   "fetched_at": "2026-09-25T17:21:33Z",
    "ok": true,
    "items": [
+    {
+     "title": "日米首脳会談等についての会見",
+     "url": "https://www.kantei.go.jp/jp/105/statement/2026/0925kaiken.html",
+     "date": "2026-09-25"
+    },
     {
      "title": "ツーリズム・エキスポ・ジャパン２０２６ 高市総理ビデオメッセージ",
      "url": "https://www.kantei.go.jp/jp/105/discourse/20260924message.html",
@@ -95,11 +100,6 @@
      "title": "第８１回国連総会における高市内閣総理大臣一般討論演説",
      "url": "https://www.kantei.go.jp/jp/105/statement/2026/0922enzetsu.html",
      "date": "2026-09-22"
-    },
-    {
-     "title": "米国訪問等についての会見",
-     "url": "https://www.kantei.go.jp/jp/105/statement/2026/0921kaiken.html",
-     "date": "2026-09-21"
     }
    ]
   },
@@ -107,7 +107,7 @@
    "id": "kantei_tyoukanpress",
    "name": "首相官邸 官房長官記者会見",
    "source_url": "https://www.kantei.go.jp/jp/tyoukanpress/index.html",
-   "fetched_at": "2026-09-25T12:00:16Z",
+   "fetched_at": "2026-09-25T17:21:33Z",
    "ok": true,
    "items": [
     {
@@ -141,7 +141,7 @@
    "id": "cao",
    "name": "内閣府",
    "source_url": "https://www.cao.go.jp/press/houdou.html",
-   "fetched_at": "2026-09-25T12:00:16Z",
+   "fetched_at": "2026-09-25T17:21:33Z",
    "ok": true,
    "items": [
     {
@@ -175,7 +175,7 @@
    "id": "digital",
    "name": "デジタル庁",
    "source_url": "https://www.digital.go.jp/news",
-   "fetched_at": "2026-09-25T12:00:16Z",
+   "fetched_at": "2026-09-25T17:21:33Z",
    "ok": true,
    "items": [
     {
@@ -209,7 +209,7 @@
    "id": "fsa",
    "name": "金融庁",
    "source_url": "https://www.fsa.go.jp/news/index.html",
-   "fetched_at": "2026-09-25T12:00:16Z",
+   "fetched_at": "2026-09-25T17:21:33Z",
    "ok": true,
    "items": [
     {
@@ -243,7 +243,7 @@
    "id": "soumu",
    "name": "総務省",
    "source_url": "https://www.soumu.go.jp/menu_news/s-news/index.html",
-   "fetched_at": "2026-09-25T12:00:16Z",
+   "fetched_at": "2026-09-25T17:21:33Z",
    "ok": true,
    "items": [
     {
@@ -277,7 +277,7 @@
    "id": "moj",
    "name": "法務省",
    "source_url": "https://www.moj.go.jp/press_index.html",
-   "fetched_at": "2026-09-25T12:00:16Z",
+   "fetched_at": "2026-09-25T17:21:33Z",
    "ok": true,
    "items": [
     {
@@ -345,9 +345,14 @@
    "id": "mof",
    "name": "財務省",
    "source_url": "https://www.mof.go.jp/news/index.html",
-   "fetched_at": "2026-09-25T12:00:16Z",
+   "fetched_at": "2026-09-25T17:21:33Z",
    "ok": true,
    "items": [
+    {
+     "title": "日米財務大臣会談（令和8年9月25日（金））",
+     "url": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20260925185921.html",
+     "date": "2026-09-25"
+    },
     {
      "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年9月25日(金曜日))",
      "url": "https://www.mof.go.jp/public_relations/conference/my20260925.html",
@@ -367,11 +372,6 @@
      "title": "令和８年上半期の全国の税関における関税法違反事件の取締り状況",
      "url": "https://www.mof.go.jp/policy/customs_tariff/trade/safe_society/mitsuyu/cy2026_1/index.html",
      "date": "2026-09-25"
-    },
-    {
-     "title": "流動性供給(第462回)入札結果",
-     "url": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260925.htm",
-     "date": "2026-09-25"
     }
    ]
   },
@@ -379,7 +379,7 @@
    "id": "mext",
    "name": "文部科学省",
    "source_url": "https://www.mext.go.jp/b_menu/news/index.html",
-   "fetched_at": "2026-09-25T12:00:16Z",
+   "fetched_at": "2026-09-25T17:21:33Z",
    "ok": true,
    "items": [
     {
@@ -413,13 +413,18 @@
    "id": "mhlw",
    "name": "厚生労働省",
    "source_url": "https://www.mhlw.go.jp/stf/houdou/index.html",
-   "fetched_at": "2026-09-25T12:00:16Z",
+   "fetched_at": "2026-09-25T17:21:33Z",
    "ok": true,
    "items": [
     {
      "title": "国民健康保険実態調査に関する報告システムについて",
      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/iryouhoken/database/seido/kokuho_jittai_system.html",
      "date": "2026-09-28"
+    },
+    {
+     "title": "「医師法第16条の10第１項に基づく厚生労働大臣から一般社団法人日本専門医機構等への意見」について",
+     "url": "https://www.mhlw.go.jp/stf/newpage_76393.html",
+     "date": "2026-09-25"
     },
     {
      "title": "第４回介護保険制度における預貯金等の把握等に係る検討の場の開催について",
@@ -435,11 +440,6 @@
      "title": "妊娠・出産・産後における診療やケアの内容等に関する検討会",
      "url": "https://www.mhlw.go.jp/stf/shingi/other-hoken_474087_00009.html",
      "date": "2026-09-25"
-    },
-    {
-     "title": "健康的で持続可能な食環境戦略イニシアチブ　オープンフォーラム2026「食環境づくりを通じた企業と社会の価値創出～もっと大きなムーブメントへ～」 開催のお知らせ",
-     "url": "https://www.mhlw.go.jp/stf/newpage_76354.html",
-     "date": "2026-09-25"
     }
    ]
   },
@@ -447,7 +447,7 @@
    "id": "maff",
    "name": "農林水産省",
    "source_url": "https://www.maff.go.jp/j/press/index.html",
-   "fetched_at": "2026-09-25T12:00:16Z",
+   "fetched_at": "2026-09-25T17:21:33Z",
    "ok": true,
    "items": [
     {
@@ -481,7 +481,7 @@
    "id": "meti",
    "name": "経済産業省",
    "source_url": "https://www.meti.go.jp/press/index.html",
-   "fetched_at": "2026-09-25T12:00:16Z",
+   "fetched_at": "2026-09-25T17:21:33Z",
    "ok": true,
    "items": [
     {
@@ -515,7 +515,7 @@
    "id": "mlit",
    "name": "国土交通省",
    "source_url": "https://www.mlit.go.jp/report/press/index.html",
-   "fetched_at": "2026-09-25T12:00:16Z",
+   "fetched_at": "2026-09-25T17:21:33Z",
    "ok": true,
    "items": [
     {
@@ -549,7 +549,7 @@
    "id": "env",
    "name": "環境省",
    "source_url": "https://www.env.go.jp/press/index.html",
-   "fetched_at": "2026-09-25T12:00:16Z",
+   "fetched_at": "2026-09-25T17:21:33Z",
    "ok": true,
    "items": [
     {
@@ -583,7 +583,7 @@
    "id": "mod",
    "name": "防衛省",
    "source_url": "https://www.mod.go.jp/j/press/news/index.html",
-   "fetched_at": "2026-09-25T12:00:16Z",
+   "fetched_at": "2026-09-25T17:21:33Z",
    "ok": true,
    "items": [
     {
