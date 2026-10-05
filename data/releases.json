@@ -1,37 +1,37 @@
 {
- "generated_at": "2026-10-05T05:57:11Z",
+ "generated_at": "2026-10-05T15:01:24Z",
  "companies": [
   {
    "id": "kantei",
    "name": "首相官邸 新着情報",
    "source_url": "https://www.kantei.go.jp/jp/news/index.html",
-   "fetched_at": "2026-10-05T05:57:11Z",
+   "fetched_at": "2026-10-05T15:01:24Z",
    "ok": true,
    "items": [
+    {
+     "title": "関西経済連合会　創立８０周年記念式典　高市総理ビデオメッセージ",
+     "url": "https://www.kantei.go.jp/jp/105/discourse/20261005message2.html",
+     "date": "2026-10-06"
+    },
+    {
+     "title": "第６３回日豪経済会議　高市総理ビデオメッセージ",
+     "url": "https://www.kantei.go.jp/jp/105/discourse/20261005message.html",
+     "date": "2026-10-05"
+    },
+    {
+     "title": "高市総理は第２２２回国会における所信表明演説を行いました",
+     "url": "https://www.kantei.go.jp/jp/105/statement/2026/1005shoshinhyomei.html",
+     "date": "2026-10-05"
+    },
     {
      "title": "臨時閣議の概要について",
      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202610/5_a.html",
      "date": "2026-10-05"
     },
     {
-     "title": "北朝鮮による弾道ミサイル発射事案に係る関連情報について",
-     "url": "https://www.kantei.go.jp/index-jnews.rdf",
-     "date": "2026-10-03"
-    },
-    {
-     "title": "高市総理は北朝鮮からの弾道ミサイルの可能性があるものの発射に関する指示を行いました",
-     "url": "https://www.kantei.go.jp/jp/105/discourse/20261003shiji.html",
-     "date": "2026-10-03"
-    },
-    {
-     "title": "高市総理はカタール国のムハンマド・ビン・アブドルラフマン・アール・サーニ首相兼外相と会談しました",
-     "url": "https://www.kantei.go.jp/jp/105/actions/202610/02qatar.html",
-     "date": "2026-10-02"
-    },
-    {
-     "title": "閣議の概要について",
-     "url": "https://www.kantei.go.jp/jp/tyoukanpress/202610/2_a.html",
-     "date": "2026-10-02"
+     "title": "ＳＴＳフォーラム年次総会（第２３回）　高市総理ビデオメッセージ",
+     "url": "https://www.kantei.go.jp/jp/105/discourse/20261004message.html",
+     "date": "2026-10-04"
     }
    ]
   },
@@ -39,9 +39,14 @@
    "id": "kantei_actions",
    "name": "首相官邸 総理の一日",
    "source_url": "https://www.kantei.go.jp/jp/105/actions/index.html",
-   "fetched_at": "2026-10-05T05:57:11Z",
+   "fetched_at": "2026-10-05T15:01:24Z",
    "ok": true,
    "items": [
+    {
+     "title": "第２２２回国会における高市内閣総理大臣所信表明演説",
+     "url": "https://www.kantei.go.jp/jp/105/actions/202610/05shu_san_honkaigi.html",
+     "date": "2026-10-05"
+    },
     {
      "title": "ムハンマド・カタール首相兼外務大臣との会談",
      "url": "https://www.kantei.go.jp/jp/105/actions/202610/02qatar.html",
@@ -61,11 +66,6 @@
      "title": "自由民主党・外国人政策本部 安全保障と土地法制に関するＰＴによる提言申入れ",
      "url": "https://www.kantei.go.jp/jp/105/actions/202610/01teigen.html",
      "date": "2026-10-01"
-    },
-    {
-     "title": "経済財政諮問会議",
-     "url": "https://www.kantei.go.jp/jp/105/actions/202609/30keizai.html",
-     "date": "2026-09-30"
     }
    ]
   },
@@ -73,33 +73,33 @@
    "id": "kantei_statement",
    "name": "首相官邸 総理の会見・談話",
    "source_url": "https://www.kantei.go.jp/jp/105/statement/index.html",
-   "fetched_at": "2026-10-05T05:57:11Z",
+   "fetched_at": "2026-10-05T15:01:24Z",
    "ok": true,
    "items": [
+    {
+     "title": "第２２２回国会における高市内閣総理大臣所信表明演説",
+     "url": "https://www.kantei.go.jp/jp/105/statement/2026/1005shoshinhyomei.html",
+     "date": "2026-10-05"
+    },
+    {
+     "title": "関西経済連合会 創立８０周年記念式典 高市総理ビデオメッセージ",
+     "url": "https://www.kantei.go.jp/jp/105/discourse/20261005message2.html",
+     "date": "2026-10-05"
+    },
+    {
+     "title": "第６３回日豪経済会議 高市総理ビデオメッセージ",
+     "url": "https://www.kantei.go.jp/jp/105/discourse/20261005message.html",
+     "date": "2026-10-05"
+    },
+    {
+     "title": "ＳＴＳフォーラム年次総会（第２３回） 高市総理ビデオメッセージ",
+     "url": "https://www.kantei.go.jp/jp/105/discourse/20261004message.html",
+     "date": "2026-10-04"
+    },
     {
      "title": "北朝鮮からの弾道ミサイルの可能性があるものの発射に関する総理指示（６：４０）",
      "url": "https://www.kantei.go.jp/jp/105/discourse/20261003shiji.html",
      "date": "2026-10-03"
-    },
-    {
-     "title": "トランプ米国大統領との電話会談についての会見",
-     "url": "https://www.kantei.go.jp/jp/105/statement/2026/0926kaiken.html",
-     "date": "2026-09-26"
-    },
-    {
-     "title": "日米首脳会談等についての会見",
-     "url": "https://www.kantei.go.jp/jp/105/statement/2026/0925kaiken.html",
-     "date": "2026-09-25"
-    },
-    {
-     "title": "ツーリズム・エキスポ・ジャパン２０２６ 高市総理ビデオメッセージ",
-     "url": "https://www.kantei.go.jp/jp/105/discourse/20260924message.html",
-     "date": "2026-09-24"
-    },
-    {
-     "title": "国連総会出席等についての内外記者会見",
-     "url": "https://www.kantei.go.jp/jp/105/statement/2026/0923naigai.html",
-     "date": "2026-09-23"
     }
    ]
   },
@@ -107,12 +107,17 @@
    "id": "kantei_tyoukanpress",
    "name": "首相官邸 官房長官記者会見",
    "source_url": "https://www.kantei.go.jp/jp/tyoukanpress/index.html",
-   "fetched_at": "2026-10-05T05:57:11Z",
+   "fetched_at": "2026-10-05T15:01:24Z",
    "ok": true,
    "items": [
     {
      "title": "午前 臨時閣議の概要について",
      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202610/5_a.html",
+     "date": "2026-10-05"
+    },
+    {
+     "title": "午後 冒頭発言なし",
+     "url": "https://www.kantei.go.jp/jp/tyoukanpress/202610/5_p.html",
      "date": "2026-10-05"
     },
     {
@@ -129,11 +134,6 @@
      "title": "午前 冒頭発言なし",
      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202610/1_a.html",
      "date": "2026-10-01"
-    },
-    {
-     "title": "午後 冒頭発言なし",
-     "url": "https://www.kantei.go.jp/jp/tyoukanpress/202610/1_p.html",
-     "date": "2026-10-01"
     }
    ]
   },
@@ -141,7 +141,7 @@
    "id": "cao",
    "name": "内閣府",
    "source_url": "https://www.cao.go.jp/press/houdou.html",
-   "fetched_at": "2026-10-05T05:57:11Z",
+   "fetched_at": "2026-10-05T15:01:24Z",
    "ok": true,
    "items": [
     {
@@ -175,33 +175,33 @@
    "id": "digital",
    "name": "デジタル庁",
    "source_url": "https://www.digital.go.jp/news",
-   "fetched_at": "2026-10-05T05:57:11Z",
+   "fetched_at": "2026-10-05T15:01:24Z",
    "ok": true,
    "items": [
     {
-     "title": "マイナンバーカードの普及と利活用に関するダッシュボードを更新しました",
-     "url": "https://www.digital.go.jp/resources/govdashboard/mynumber_card_penetration_usage",
-     "date": "2026-10-02"
+     "title": "古川大臣記者会見（令和8年10月2日）要旨を掲載しました",
+     "url": "https://www.digital.go.jp/speech/minister-261002-01",
+     "date": "2026-10-05"
     },
     {
-     "title": "意見招請：国家資格等情報連携・活用システムに係る運用保守業務（令和9年度）を掲載しました",
+     "title": "一般競争入札：預貯金二法ポータルに係るクライアント証明書 を掲載しました",
      "url": "https://www.digital.go.jp/procurement",
-     "date": "2026-10-02"
+     "date": "2026-10-05"
     },
     {
-     "title": "令和7年度（2025年度）特別職国家公務員の再就職状況を公表しました",
-     "url": "https://www.digital.go.jp/news/90de4098-6f70-433f-a492-7ab11d87e72d",
-     "date": "2026-10-02"
+     "title": "学園祭での年齢確認にマイナンバーカードを活用しています",
+     "url": "https://www.digital.go.jp/news/6a52d1e9-30cc-455a-9154-f32479d1731a",
+     "date": "2026-10-05"
     },
     {
-     "title": "JP PINTの日本のPeppol Certified Service Provider一覧を更新しました",
-     "url": "https://www.digital.go.jp/policies/electronic_invoice",
-     "date": "2026-10-02"
+     "title": "アナログ規制見直しを進めるダイアローグ「RegTech ミート」9月の開催実績に資料を掲載しました",
+     "url": "https://www.digital.go.jp/policies/digital-extraordinary-administrative-research-committee/regtechconsortium/regtechmeet",
+     "date": "2026-10-05"
     },
     {
-     "title": "政策ダッシュボード一覧に国土強靭化の取組に関するダッシュボード（内閣官房）を掲載しました",
-     "url": "https://www.digital.go.jp/resources/govdashboard",
-     "date": "2026-10-02"
+     "title": "2026年度国家公務員中途採用者選考試験（就職氷河期世代）第2次選考（採用面接等）について掲載しました",
+     "url": "https://www.digital.go.jp/recruitment/career-government-official/visit2026-employment-ice-age",
+     "date": "2026-10-05"
     }
    ]
   },
@@ -209,33 +209,33 @@
    "id": "fsa",
    "name": "金融庁",
    "source_url": "https://www.fsa.go.jp/news/index.html",
-   "fetched_at": "2026-10-05T05:57:11Z",
+   "fetched_at": "2026-10-05T15:01:24Z",
    "ok": true,
    "items": [
+    {
+     "title": "その他,令和８年熊本地震関連情報に関する特設ページを更新しました。",
+     "url": "https://www.fsa.go.jp/ordinary/earthquake202607/press.html",
+     "date": "2026-10-05"
+    },
+    {
+     "title": "令和８年熊本地震に伴う在留期間の延長について公表しました。",
+     "url": "https://www.fsa.go.jp/news/r8/sonota/20261005-2/20261005-2.html",
+     "date": "2026-10-05"
+    },
+    {
+     "title": "「金融業界横断的なサイバーセキュリティ演習 （Delta Wall 2026）」の実施について公表しました。",
+     "url": "https://www.fsa.go.jp/news/r8/sonota/20261005/deltawall2026.html",
+     "date": "2026-10-05"
+    },
+    {
+     "title": "第57回金融審議会総会・第45回金融分科会合同会合の議事録について公表しました。",
+     "url": "https://www.fsa.go.jp/singi/singi_kinyu/soukai/gijiroku/20260831.html",
+     "date": "2026-10-05"
+    },
     {
      "title": "国際関係,アジア地域ファンド・パスポート「2025年 年次報告書」の公表について掲載しました。",
      "url": "https://www.fsa.go.jp/inter/arfp/index.html",
      "date": "2026-10-05"
-    },
-    {
-     "title": "金融審議会「成長企業への資金供給の在り方等に関するワーキング・グループ」（第２回）の開催について公表しました。",
-     "url": "https://www.fsa.go.jp/news/r8/singi/20261009.html",
-     "date": "2026-10-02"
-    },
-    {
-     "title": "NISA口座の利用状況に関する調査結果（令和８年６月末時点）について公表しました。",
-     "url": "https://www.fsa.go.jp/policy/nisa/20261002.html",
-     "date": "2026-10-02"
-    },
-    {
-     "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年９月11日）について掲載しました。",
-     "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20260911-1.html",
-     "date": "2026-10-02"
-    },
-    {
-     "title": "記者会見,片山財務大臣兼内閣府特命担当大臣臨時閣議後記者会見の概要（令和８年９月15日）について掲載しました。",
-     "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20260915-1.html",
-     "date": "2026-10-02"
     }
    ]
   },
@@ -243,12 +243,17 @@
    "id": "soumu",
    "name": "総務省",
    "source_url": "https://www.soumu.go.jp/menu_news/s-news/index.html",
-   "fetched_at": "2026-10-05T05:57:11Z",
+   "fetched_at": "2026-10-05T15:01:24Z",
    "ok": true,
    "items": [
     {
      "title": "【開催案内】第76回独立行政法人評価制度委員会評価部会",
      "url": "https://www.soumu.go.jp/main_sosiki/singi/dokuritugyousei/02gyokan01_04000545.html",
+     "date": "2026-10-05"
+    },
+    {
+     "title": "情報通信審議会　情報通信技術分科会　電波利用環境委員会（第69回）配布資料",
+     "url": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/denpa_kankyou/02kiban16_04000965.html",
      "date": "2026-10-05"
     },
     {
@@ -265,11 +270,6 @@
      "title": "レジデンシャルプロキシ対策アライアンス（第1回）",
      "url": "https://www.soumu.go.jp/main_sosiki/kenkyu/residential_proxy/02cyber01_04000001_00359.html",
      "date": "2026-10-02"
-    },
-    {
-     "title": "藤井総務大臣閣議後記者会見の概要",
-     "url": "https://www.soumu.go.jp/menu_news/kaiken/01koho01_02001579.html",
-     "date": "2026-10-02"
     }
    ]
   },
@@ -277,7 +277,7 @@
    "id": "moj",
    "name": "法務省",
    "source_url": "https://www.moj.go.jp/press_index.html",
-   "fetched_at": "2026-10-05T05:57:11Z",
+   "fetched_at": "2026-10-05T15:01:24Z",
    "ok": true,
    "items": [
     {
@@ -345,9 +345,19 @@
    "id": "mof",
    "name": "財務省",
    "source_url": "https://www.mof.go.jp/news/index.html",
-   "fetched_at": "2026-10-05T05:57:11Z",
+   "fetched_at": "2026-10-05T15:01:24Z",
    "ok": true,
    "items": [
+    {
+     "title": "日豪財務大臣対話に関する協力覚書への署名及び第1回日豪財務大臣対話の開催について（令和8年10月5日（月））",
+     "url": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20260925182036.html",
+     "date": "2026-10-05"
+    },
+    {
+     "title": "国債市場特別参加者会合（第120回）議事要旨",
+     "url": "https://www.mof.go.jp/about_mof/councils/meeting_of_jgbsp/proceedings/260928.html",
+     "date": "2026-10-05"
+    },
     {
      "title": "交付税及び譲与税配付金特別会計の借入金の入札結果（令和8年10月5日入札）",
      "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-result261005.htm",
@@ -362,16 +372,6 @@
      "title": "日豪共同戦略金融協力覚書への署名及び日豪戦略投資ネットワーキングフォーラム（SINF）の開催について（令和8年10月2日（金））",
      "url": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20260925182123.html",
      "date": "2026-10-05"
-    },
-    {
-     "title": "宮本　弘曉様に「AIが雇用・社会に与える影響」について、ご講演いただきました",
-     "url": "https://www.mof.go.jp/insideLink/20261001170845.html",
-     "date": "2026-10-05"
-    },
-    {
-     "title": "入札、落札結果情報（工事等）",
-     "url": "https://www.mof.go.jp/application-contact/procurement/kouji/index.htm",
-     "date": "2026-10-05"
     }
    ]
   },
@@ -379,12 +379,17 @@
    "id": "mext",
    "name": "文部科学省",
    "source_url": "https://www.mext.go.jp/b_menu/news/index.html",
-   "fetched_at": "2026-10-05T05:57:11Z",
+   "fetched_at": "2026-10-05T15:01:24Z",
    "ok": true,
    "items": [
     {
      "title": "令和8年度文部科学省公務経験者採用試験（一般職相当・係長級）＜冬＞について",
      "url": "https://www.mext.go.jp/b_menu/saiyou/sonota/1422427_00028.htm",
+     "date": "2026-10-05"
+    },
+    {
+     "title": "中央教育審議会 初等中等教育分科会 教育課程部会（第136回）配付資料を掲載しました",
+     "url": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/004/siryo/mext_00016.html",
      "date": "2026-10-05"
     },
     {
@@ -398,11 +403,6 @@
      "date": "2026-10-05"
     },
     {
-     "title": "令和8年度教科用図書検定調査審議会総会（第2回）・総括部会（第3回）合同会議の開催について",
-     "url": "https://www.mext.go.jp/b_menu/shingi/tosho/016-5/kaisai/1414759_00003.htm",
-     "date": "2026-10-05"
-    },
-    {
      "title": "令和8年度消費者教育フェスタ",
      "url": "https://www.mext.go.jp/a_menu/ikusei/syouhisha/detail/1407582_00001.html",
      "date": "2026-10-05"
@@ -413,33 +413,33 @@
    "id": "mhlw",
    "name": "厚生労働省",
    "source_url": "https://www.mhlw.go.jp/stf/houdou/index.html",
-   "fetched_at": "2026-10-05T05:57:11Z",
+   "fetched_at": "2026-10-05T15:01:24Z",
    "ok": true,
    "items": [
+    {
+     "title": "関係法令、その他関係通知等",
+     "url": "https://www.mhlw.go.jp/stf/newpage_76430.html",
+     "date": "2026-10-05"
+    },
+    {
+     "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
+     "url": "https://www.mhlw.go.jp/stf/newpage_76586.html",
+     "date": "2026-10-05"
+    },
+    {
+     "title": "WHOとの共同プレスリリースを公表しました",
+     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000120172.html",
+     "date": "2026-10-05"
+    },
+    {
+     "title": "第78回厚生科学審議会予防接種・ワクチン分科会予防接種基本方針部会の開催について",
+     "url": "https://www.mhlw.go.jp/stf/newpage_76200.html",
+     "date": "2026-10-05"
+    },
     {
      "title": "令和８年度 薬事功労者厚生労働大臣表彰を行います",
      "url": "https://www.mhlw.go.jp/stf/newpage_76394.html",
      "date": "2026-10-05"
-    },
-    {
-     "title": "「第21回若年者ものづくり競技大会」における選手表彰の追加について",
-     "url": "https://www.mhlw.go.jp/stf/newpage_75929.html",
-     "date": "2026-10-05"
-    },
-    {
-     "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
-     "url": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html",
-     "date": "2026-10-03"
-    },
-    {
-     "title": "国民健康保険実態調査に関する報告システムについて",
-     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/iryouhoken/database/seido/kokuho_jittai_system.html",
-     "date": "2026-10-02"
-    },
-    {
-     "title": "総合職（化学・生物・薬学）（薬系技官）",
-     "url": "https://www.mhlw.go.jp/general/saiyo/kokka1/yakugaku.html",
-     "date": "2026-10-02"
     }
    ]
   },
@@ -447,7 +447,7 @@
    "id": "maff",
    "name": "農林水産省",
    "source_url": "https://www.maff.go.jp/j/press/index.html",
-   "fetched_at": "2026-10-05T05:57:11Z",
+   "fetched_at": "2026-10-05T15:01:24Z",
    "ok": true,
    "items": [
     {
@@ -481,9 +481,14 @@
    "id": "meti",
    "name": "経済産業省",
    "source_url": "https://www.meti.go.jp/press/index.html",
-   "fetched_at": "2026-10-05T05:57:11Z",
+   "fetched_at": "2026-10-05T15:01:24Z",
    "ok": true,
    "items": [
+    {
+     "title": "ウクライナ ウジュホロド市およびリヴィウ市へ官民ミッションを派遣しました",
+     "url": "https://www.meti.go.jp/press/2026/10/20261005002.html",
+     "date": "2026-10-05"
+    },
     {
      "title": "ストックホルム条約残留性有機汚染物質検討委員会第22回会合（POPRC22）が開催されました",
      "url": "https://www.meti.go.jp/press/2026/10/20261005001.html",
@@ -503,11 +508,6 @@
      "title": "第2回日独航空宇宙・防衛産業ラウンドテーブルを開催しました",
      "url": "https://www.meti.go.jp/press/2026/10/20261001004.html",
      "date": "2026-10-01"
-    },
-    {
-     "title": "令和8年台風第25号に伴う災害に関して被災中小企業・小規模事業者支援措置を行います【第2報】",
-     "url": "https://www.meti.go.jp/press/2026/10/20261001003.html",
-     "date": "2026-10-01"
     }
    ]
   },
@@ -515,7 +515,7 @@
    "id": "mlit",
    "name": "国土交通省",
    "source_url": "https://www.mlit.go.jp/report/press/index.html",
-   "fetched_at": "2026-10-05T05:57:11Z",
+   "fetched_at": "2026-10-05T15:01:24Z",
    "ok": true,
    "items": [
     {
@@ -549,9 +549,19 @@
    "id": "env",
    "name": "環境省",
    "source_url": "https://www.env.go.jp/press/index.html",
-   "fetched_at": "2026-10-05T05:57:11Z",
+   "fetched_at": "2026-10-05T15:01:24Z",
    "ok": true,
    "items": [
+    {
+     "title": "令和８年度「地域の公共交通×脱炭素化移行促進事業」の三次公募について",
+     "url": "https://www.env.go.jp/press/press_05648.html",
+     "date": "2026-10-05"
+    },
+    {
+     "title": "令和８年度脱炭素型循環経済システム構築促進事業（うち、プラスチック等資源循環システム構築実証事業）（委託）の 公募結果について",
+     "url": "https://www.env.go.jp/press/press_05646.html",
+     "date": "2026-10-05"
+    },
     {
      "title": "脱炭素×復興まちづくりプラットフォーム 総会の開催について",
      "url": "https://www.env.go.jp/press/press_05645.html",
@@ -566,16 +576,6 @@
      "title": "自然環境保全基礎調査 淡水魚類分布調査について",
      "url": "https://www.env.go.jp/press/press_05633.html",
      "date": "2026-10-05"
-    },
-    {
-     "title": "自然環境保全基礎調査総合解析とりまとめ報告書の公表について",
-     "url": "https://www.env.go.jp/press/press_05632.html",
-     "date": "2026-10-05"
-    },
-    {
-     "title": "残留性有機汚染物質検討委員会第22回会合（POPRC22）の結果について",
-     "url": "https://www.env.go.jp/press/press_05658.html",
-     "date": "2026-10-05"
     }
    ]
   },
@@ -583,33 +583,33 @@
    "id": "mod",
    "name": "防衛省",
    "source_url": "https://www.mod.go.jp/j/press/news/index.html",
-   "fetched_at": "2026-10-05T05:57:11Z",
+   "fetched_at": "2026-10-05T15:01:24Z",
    "ok": true,
    "items": [
     {
-     "title": "小泉防衛大臣の部隊視察等の予定について",
-     "url": "https://www.mod.go.jp/j/press/news/2026/10/02c.html",
-     "date": "2026-10-02"
-    },
-    {
      "title": "日米合同委員会合意について",
-     "url": "https://www.mod.go.jp/j/press/news/2026/10/02b.pdf",
-     "date": "2026-10-02"
+     "url": "https://www.mod.go.jp/j/press/news/2026/10/05b.pdf",
+     "date": "2026-10-05"
     },
     {
-     "title": "米軍再編に係る回転翼機及びティルト・ローター機の沖縄県外への訓練移転について",
-     "url": "https://www.mod.go.jp/j/press/news/2026/10/02a.html",
-     "date": "2026-10-02"
+     "title": "米軍再編に係る嘉手納飛行場から築城基地への訓練移転について",
+     "url": "https://www.mod.go.jp/j/press/news/2026/10/05a.html",
+     "date": "2026-10-05"
     },
     {
-     "title": "小田原防衛副大臣の部隊視察の予定について",
-     "url": "https://www.mod.go.jp/j/press/news/2026/09/30a.html",
-     "date": "2026-09-30"
+     "title": "北朝鮮のミサイル等関連情報（続報）",
+     "url": "https://www.mod.go.jp/j/press/news/2026/10/03d.html",
+     "date": "2026-10-05"
     },
     {
-     "title": "防衛人事審議会公正審査分科会の持ち回り開催について",
-     "url": "https://www.mod.go.jp/j/press/news/2026/09/29e.html",
-     "date": "2026-09-29"
+     "title": "北朝鮮のミサイル等関連情報（ミサイル落下推定情報）",
+     "url": "https://www.mod.go.jp/j/press/news/2026/10/03c.html",
+     "date": "2026-10-05"
+    },
+    {
+     "title": "北朝鮮のミサイル等関連情報（ミサイル落下推定情報）",
+     "url": "https://www.mod.go.jp/j/press/news/2026/10/03b.html",
+     "date": "2026-10-05"
     }
    ]
   }
