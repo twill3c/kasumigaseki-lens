@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-05T15:01:24Z",
+ "generated_at": "2026-10-06T00:11:17Z",
  "companies": [
   {
    "id": "kantei",
    "name": "首相官邸 新着情報",
    "source_url": "https://www.kantei.go.jp/jp/news/index.html",
-   "fetched_at": "2026-10-05T15:01:24Z",
+   "fetched_at": "2026-10-06T00:11:17Z",
    "ok": true,
    "items": [
     {
@@ -39,7 +39,7 @@
    "id": "kantei_actions",
    "name": "首相官邸 総理の一日",
    "source_url": "https://www.kantei.go.jp/jp/105/actions/index.html",
-   "fetched_at": "2026-10-05T15:01:24Z",
+   "fetched_at": "2026-10-06T00:11:17Z",
    "ok": true,
    "items": [
     {
@@ -73,7 +73,7 @@
    "id": "kantei_statement",
    "name": "首相官邸 総理の会見・談話",
    "source_url": "https://www.kantei.go.jp/jp/105/statement/index.html",
-   "fetched_at": "2026-10-05T15:01:24Z",
+   "fetched_at": "2026-10-06T00:11:17Z",
    "ok": true,
    "items": [
     {
@@ -107,7 +107,7 @@
    "id": "kantei_tyoukanpress",
    "name": "首相官邸 官房長官記者会見",
    "source_url": "https://www.kantei.go.jp/jp/tyoukanpress/index.html",
-   "fetched_at": "2026-10-05T15:01:24Z",
+   "fetched_at": "2026-10-06T00:11:17Z",
    "ok": true,
    "items": [
     {
@@ -141,7 +141,7 @@
    "id": "cao",
    "name": "内閣府",
    "source_url": "https://www.cao.go.jp/press/houdou.html",
-   "fetched_at": "2026-10-05T15:01:24Z",
+   "fetched_at": "2026-10-06T00:11:17Z",
    "ok": true,
    "items": [
     {
@@ -175,7 +175,7 @@
    "id": "digital",
    "name": "デジタル庁",
    "source_url": "https://www.digital.go.jp/news",
-   "fetched_at": "2026-10-05T15:01:24Z",
+   "fetched_at": "2026-10-06T00:11:17Z",
    "ok": true,
    "items": [
     {
@@ -209,7 +209,7 @@
    "id": "fsa",
    "name": "金融庁",
    "source_url": "https://www.fsa.go.jp/news/index.html",
-   "fetched_at": "2026-10-05T15:01:24Z",
+   "fetched_at": "2026-10-06T00:11:17Z",
    "ok": true,
    "items": [
     {
@@ -243,9 +243,14 @@
    "id": "soumu",
    "name": "総務省",
    "source_url": "https://www.soumu.go.jp/menu_news/s-news/index.html",
-   "fetched_at": "2026-10-05T15:01:24Z",
+   "fetched_at": "2026-10-06T00:11:17Z",
    "ok": true,
    "items": [
+    {
+     "title": "行政評価局人材育成室 任期付職員採用情報",
+     "url": "https://www.soumu.go.jp/menu_syokai/saiyou/detail/hyouka_261006_000192741.html",
+     "date": "2026-10-06"
+    },
     {
      "title": "【開催案内】第76回独立行政法人評価制度委員会評価部会",
      "url": "https://www.soumu.go.jp/main_sosiki/singi/dokuritugyousei/02gyokan01_04000545.html",
@@ -265,11 +270,6 @@
      "title": "統計委員会　第156回人口・社会統計部会",
      "url": "https://www.soumu.go.jp/main_sosiki/singi/toukei/jinkou/kaigi/02shingi05_02000835.html",
      "date": "2026-10-05"
-    },
-    {
-     "title": "レジデンシャルプロキシ対策アライアンス（第1回）",
-     "url": "https://www.soumu.go.jp/main_sosiki/kenkyu/residential_proxy/02cyber01_04000001_00359.html",
-     "date": "2026-10-02"
     }
    ]
   },
@@ -277,7 +277,7 @@
    "id": "moj",
    "name": "法務省",
    "source_url": "https://www.moj.go.jp/press_index.html",
-   "fetched_at": "2026-10-05T15:01:24Z",
+   "fetched_at": "2026-10-06T00:11:17Z",
    "ok": true,
    "items": [
     {
@@ -345,7 +345,7 @@
    "id": "mof",
    "name": "財務省",
    "source_url": "https://www.mof.go.jp/news/index.html",
-   "fetched_at": "2026-10-05T15:01:24Z",
+   "fetched_at": "2026-10-06T00:11:17Z",
    "ok": true,
    "items": [
     {
@@ -379,7 +379,7 @@
    "id": "mext",
    "name": "文部科学省",
    "source_url": "https://www.mext.go.jp/b_menu/news/index.html",
-   "fetched_at": "2026-10-05T15:01:24Z",
+   "fetched_at": "2026-10-06T00:11:17Z",
    "ok": true,
    "items": [
     {
@@ -413,7 +413,7 @@
    "id": "mhlw",
    "name": "厚生労働省",
    "source_url": "https://www.mhlw.go.jp/stf/houdou/index.html",
-   "fetched_at": "2026-10-05T15:01:24Z",
+   "fetched_at": "2026-10-06T00:11:17Z",
    "ok": true,
    "items": [
     {
@@ -447,7 +447,7 @@
    "id": "maff",
    "name": "農林水産省",
    "source_url": "https://www.maff.go.jp/j/press/index.html",
-   "fetched_at": "2026-10-05T15:01:24Z",
+   "fetched_at": "2026-10-06T00:11:17Z",
    "ok": true,
    "items": [
     {
@@ -481,7 +481,7 @@
    "id": "meti",
    "name": "経済産業省",
    "source_url": "https://www.meti.go.jp/press/index.html",
-   "fetched_at": "2026-10-05T15:01:24Z",
+   "fetched_at": "2026-10-06T00:11:17Z",
    "ok": true,
    "items": [
     {
@@ -515,7 +515,7 @@
    "id": "mlit",
    "name": "国土交通省",
    "source_url": "https://www.mlit.go.jp/report/press/index.html",
-   "fetched_at": "2026-10-05T15:01:24Z",
+   "fetched_at": "2026-10-06T00:11:17Z",
    "ok": true,
    "items": [
     {
@@ -549,7 +549,7 @@
    "id": "env",
    "name": "環境省",
    "source_url": "https://www.env.go.jp/press/index.html",
-   "fetched_at": "2026-10-05T15:01:24Z",
+   "fetched_at": "2026-10-06T00:11:17Z",
    "ok": true,
    "items": [
     {
@@ -583,7 +583,7 @@
    "id": "mod",
    "name": "防衛省",
    "source_url": "https://www.mod.go.jp/j/press/news/index.html",
-   "fetched_at": "2026-10-05T15:01:24Z",
+   "fetched_at": "2026-10-06T00:11:17Z",
    "ok": true,
    "items": [
     {
