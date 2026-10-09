@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-09T13:36:21Z",
+ "generated_at": "2026-10-09T22:45:52Z",
  "companies": [
   {
    "id": "kantei",
    "name": "首相官邸 新着情報",
    "source_url": "https://www.kantei.go.jp/jp/news/index.html",
-   "fetched_at": "2026-10-09T13:36:21Z",
+   "fetched_at": "2026-10-09T22:45:52Z",
    "ok": true,
    "items": [
     {
@@ -39,7 +39,7 @@
    "id": "kantei_actions",
    "name": "首相官邸 総理の一日",
    "source_url": "https://www.kantei.go.jp/jp/105/actions/index.html",
-   "fetched_at": "2026-10-09T13:36:21Z",
+   "fetched_at": "2026-10-09T22:45:52Z",
    "ok": true,
    "items": [
     {
@@ -73,7 +73,7 @@
    "id": "kantei_statement",
    "name": "首相官邸 総理の会見・談話",
    "source_url": "https://www.kantei.go.jp/jp/105/statement/index.html",
-   "fetched_at": "2026-10-09T13:36:21Z",
+   "fetched_at": "2026-10-09T22:45:52Z",
    "ok": true,
    "items": [
     {
@@ -107,7 +107,7 @@
    "id": "kantei_tyoukanpress",
    "name": "首相官邸 官房長官記者会見",
    "source_url": "https://www.kantei.go.jp/jp/tyoukanpress/index.html",
-   "fetched_at": "2026-10-09T13:36:21Z",
+   "fetched_at": "2026-10-09T22:45:52Z",
    "ok": true,
    "items": [
     {
@@ -141,7 +141,7 @@
    "id": "cao",
    "name": "内閣府",
    "source_url": "https://www.cao.go.jp/press/houdou.html",
-   "fetched_at": "2026-10-09T13:36:21Z",
+   "fetched_at": "2026-10-09T22:45:52Z",
    "ok": true,
    "items": [
     {
@@ -175,7 +175,7 @@
    "id": "digital",
    "name": "デジタル庁",
    "source_url": "https://www.digital.go.jp/news",
-   "fetched_at": "2026-10-09T13:36:21Z",
+   "fetched_at": "2026-10-09T22:45:52Z",
    "ok": true,
    "items": [
     {
@@ -209,7 +209,7 @@
    "id": "fsa",
    "name": "金融庁",
    "source_url": "https://www.fsa.go.jp/news/index.html",
-   "fetched_at": "2026-10-09T13:36:21Z",
+   "fetched_at": "2026-10-09T22:45:52Z",
    "ok": true,
    "items": [
     {
@@ -243,9 +243,14 @@
    "id": "soumu",
    "name": "総務省",
    "source_url": "https://www.soumu.go.jp/menu_news/s-news/index.html",
-   "fetched_at": "2026-10-09T13:36:21Z",
+   "fetched_at": "2026-10-09T22:45:52Z",
    "ok": true,
    "items": [
+    {
+     "title": "第47回危険業務従事者叙勲（消防関係）",
+     "url": "https://www.soumu.go.jp/menu_news/s-news/01shoubo01_02001260.html",
+     "date": "2026-10-10"
+    },
     {
      "title": "情報通信審議会　情報通信技術分科会　陸上無線通信委員会　特定ラジオマイク作業班（第9回）",
      "url": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/rikujou/02kiban14_04001373.html",
@@ -265,11 +270,6 @@
      "title": "藤井総務大臣閣議後記者会見の概要",
      "url": "https://www.soumu.go.jp/menu_news/kaiken/01koho01_02001581.html",
      "date": "2026-10-09"
-    },
-    {
-     "title": "災害現場活動のための最新技術活用検証会の開催",
-     "url": "https://www.soumu.go.jp/menu_news/s-news/01shoubo01_02001275.html",
-     "date": "2026-10-09"
     }
    ]
   },
@@ -277,7 +277,7 @@
    "id": "moj",
    "name": "法務省",
    "source_url": "https://www.moj.go.jp/press_index.html",
-   "fetched_at": "2026-10-09T13:36:21Z",
+   "fetched_at": "2026-10-09T22:45:52Z",
    "ok": true,
    "items": [
     {
@@ -345,7 +345,7 @@
    "id": "mof",
    "name": "財務省",
    "source_url": "https://www.mof.go.jp/news/index.html",
-   "fetched_at": "2026-10-09T13:36:21Z",
+   "fetched_at": "2026-10-09T22:45:52Z",
    "ok": true,
    "items": [
     {
@@ -379,7 +379,7 @@
    "id": "mext",
    "name": "文部科学省",
    "source_url": "https://www.mext.go.jp/b_menu/news/index.html",
-   "fetched_at": "2026-10-09T13:36:21Z",
+   "fetched_at": "2026-10-09T22:45:52Z",
    "ok": true,
    "items": [
     {
@@ -413,7 +413,7 @@
    "id": "mhlw",
    "name": "厚生労働省",
    "source_url": "https://www.mhlw.go.jp/stf/houdou/index.html",
-   "fetched_at": "2026-10-09T13:36:21Z",
+   "fetched_at": "2026-10-09T22:45:52Z",
    "ok": true,
    "items": [
     {
@@ -447,7 +447,7 @@
    "id": "maff",
    "name": "農林水産省",
    "source_url": "https://www.maff.go.jp/j/press/index.html",
-   "fetched_at": "2026-10-09T13:36:21Z",
+   "fetched_at": "2026-10-09T22:45:52Z",
    "ok": true,
    "items": [
     {
@@ -481,7 +481,7 @@
    "id": "meti",
    "name": "経済産業省",
    "source_url": "https://www.meti.go.jp/press/index.html",
-   "fetched_at": "2026-10-09T13:36:21Z",
+   "fetched_at": "2026-10-09T22:45:52Z",
    "ok": true,
    "items": [
     {
@@ -515,9 +515,14 @@
    "id": "mlit",
    "name": "国土交通省",
    "source_url": "https://www.mlit.go.jp/report/press/index.html",
-   "fetched_at": "2026-10-09T13:36:21Z",
+   "fetched_at": "2026-10-09T22:45:52Z",
    "ok": true,
    "items": [
+    {
+     "title": "第４７回危険業務従事者叙勲受章者が決定されました",
+     "url": "https://www.mlit.go.jp/report/press/kanbo03_hh_000423.html",
+     "date": "2026-10-10"
+    },
     {
      "title": "地域生活圏形成に取り組む主体の認定の申請受付を開始します！〜「民間の地域経営主体」を国が認定〜",
      "url": "https://www.mlit.go.jp/report/press/kokudoseisaku03_hh_000283.html",
@@ -537,11 +542,6 @@
      "title": "第１７回 「全国シェアサイクル会議」を開催します！〜シェアサイクルに関する取組についての経験やノウハウを共有するための会議を金沢市にて現地開催〜",
      "url": "https://www.mlit.go.jp/report/press/toshi09_hh_000144.html",
      "date": "2026-10-09"
-    },
-    {
-     "title": "令和８年梅雨前線豪雨から台風第25号までの一連の気象現象による災害で被災した道路・河川等の迅速な復旧を支援〜大規模災害時の災害査定の効率化（簡素化）及び事前ルールを適用します〜",
-     "url": "https://www.mlit.go.jp/report/press/mizukokudo06_hh_000364.html",
-     "date": "2026-10-09"
     }
    ]
   },
@@ -549,7 +549,7 @@
    "id": "env",
    "name": "環境省",
    "source_url": "https://www.env.go.jp/press/index.html",
-   "fetched_at": "2026-10-09T13:36:21Z",
+   "fetched_at": "2026-10-09T22:45:52Z",
    "ok": true,
    "items": [
     {
@@ -583,7 +583,7 @@
    "id": "mod",
    "name": "防衛省",
    "source_url": "https://www.mod.go.jp/j/press/news/index.html",
-   "fetched_at": "2026-10-09T13:36:21Z",
+   "fetched_at": "2026-10-09T22:45:52Z",
    "ok": true,
    "items": [
     {
