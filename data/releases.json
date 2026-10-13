@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-12T15:47:25Z",
+ "generated_at": "2026-10-13T00:52:01Z",
  "companies": [
   {
    "id": "kantei",
    "name": "首相官邸 新着情報",
    "source_url": "https://www.kantei.go.jp/jp/news/index.html",
-   "fetched_at": "2026-10-12T15:47:25Z",
+   "fetched_at": "2026-10-13T00:52:01Z",
    "ok": true,
    "items": [
     {
@@ -39,7 +39,7 @@
    "id": "kantei_actions",
    "name": "首相官邸 総理の一日",
    "source_url": "https://www.kantei.go.jp/jp/105/actions/index.html",
-   "fetched_at": "2026-10-12T15:47:25Z",
+   "fetched_at": "2026-10-13T00:52:01Z",
    "ok": true,
    "items": [
     {
@@ -73,7 +73,7 @@
    "id": "kantei_statement",
    "name": "首相官邸 総理の会見・談話",
    "source_url": "https://www.kantei.go.jp/jp/105/statement/index.html",
-   "fetched_at": "2026-10-12T15:47:25Z",
+   "fetched_at": "2026-10-13T00:52:01Z",
    "ok": true,
    "items": [
     {
@@ -107,7 +107,7 @@
    "id": "kantei_tyoukanpress",
    "name": "首相官邸 官房長官記者会見",
    "source_url": "https://www.kantei.go.jp/jp/tyoukanpress/index.html",
-   "fetched_at": "2026-10-12T15:47:25Z",
+   "fetched_at": "2026-10-13T00:52:01Z",
    "ok": true,
    "items": [
     {
@@ -141,7 +141,7 @@
    "id": "cao",
    "name": "内閣府",
    "source_url": "https://www.cao.go.jp/press/houdou.html",
-   "fetched_at": "2026-10-12T15:47:25Z",
+   "fetched_at": "2026-10-13T00:52:01Z",
    "ok": true,
    "items": [
     {
@@ -175,9 +175,24 @@
    "id": "digital",
    "name": "デジタル庁",
    "source_url": "https://www.digital.go.jp/news",
-   "fetched_at": "2026-10-12T15:47:25Z",
+   "fetched_at": "2026-10-13T00:52:01Z",
    "ok": true,
    "items": [
+    {
+     "title": "古川大臣記者会見（令和8年10月13日）動画を掲載しました",
+     "url": "https://www.digital.go.jp/speech/minister-261013-01",
+     "date": "2026-10-13"
+    },
+    {
+     "title": "JP PINTの「グローバルの取組」および「民間事業者の取組（企業間取引編）」を更新しました",
+     "url": "https://www.digital.go.jp/policies/electronic_invoice",
+     "date": "2026-10-09"
+    },
+    {
+     "title": "ガバメントAI 源内に関するエージェントチャットの活用事例動画を掲載しました",
+     "url": "https://www.digital.go.jp/policies/genai",
+     "date": "2026-10-09"
+    },
     {
      "title": "電子認証登記所登記官の電子署名書のハッシュ値を告示する件を掲載しました",
      "url": "https://www.digital.go.jp/laws",
@@ -187,21 +202,6 @@
      "title": "国等の情報システムの統括・監理における技術検討会議（第32回）の実施概要を掲載しました",
      "url": "https://www.digital.go.jp/policies/development_management",
      "date": "2026-10-09"
-    },
-    {
-     "title": "企画競争：令和9年度デジタル認証サービスの利用申込等に係るCRMツールの見直し及び移行支援に係る業務を掲載しました",
-     "url": "https://www.digital.go.jp/procurement",
-     "date": "2026-10-09"
-    },
-    {
-     "title": "一般競争入札：給与関連業務等に係る労働者派遣を掲載しました",
-     "url": "https://www.digital.go.jp/procurement",
-     "date": "2026-10-09"
-    },
-    {
-     "title": "一般競争入札：国家公務員身分証共通発行管理システムの今後の改修等に向けた現行入退用鍵配布・格納に係る仕様調査及びドキュメント整備を掲載しました",
-     "url": "https://www.digital.go.jp/procurement",
-     "date": "2026-10-09"
     }
    ]
   },
@@ -209,7 +209,7 @@
    "id": "fsa",
    "name": "金融庁",
    "source_url": "https://www.fsa.go.jp/news/index.html",
-   "fetched_at": "2026-10-12T15:47:25Z",
+   "fetched_at": "2026-10-13T00:52:01Z",
    "ok": true,
    "items": [
     {
@@ -243,7 +243,7 @@
    "id": "soumu",
    "name": "総務省",
    "source_url": "https://www.soumu.go.jp/menu_news/s-news/index.html",
-   "fetched_at": "2026-10-12T15:47:25Z",
+   "fetched_at": "2026-10-13T00:52:01Z",
    "ok": true,
    "items": [
     {
@@ -277,7 +277,7 @@
    "id": "moj",
    "name": "法務省",
    "source_url": "https://www.moj.go.jp/press_index.html",
-   "fetched_at": "2026-10-12T15:47:25Z",
+   "fetched_at": "2026-10-13T00:52:01Z",
    "ok": true,
    "items": [
     {
@@ -346,7 +346,7 @@
    "name": "財務省",
    "source_url": "https://www.mof.go.jp/news/index.html",
    "fetched_at": "2026-10-12T15:47:25Z",
-   "ok": true,
+   "ok": false,
    "items": [
     {
      "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年10月9日(金曜日))",
@@ -379,7 +379,7 @@
    "id": "mext",
    "name": "文部科学省",
    "source_url": "https://www.mext.go.jp/b_menu/news/index.html",
-   "fetched_at": "2026-10-12T15:47:25Z",
+   "fetched_at": "2026-10-13T00:52:01Z",
    "ok": true,
    "items": [
     {
@@ -413,7 +413,7 @@
    "id": "mhlw",
    "name": "厚生労働省",
    "source_url": "https://www.mhlw.go.jp/stf/houdou/index.html",
-   "fetched_at": "2026-10-12T15:47:25Z",
+   "fetched_at": "2026-10-13T00:52:01Z",
    "ok": true,
    "items": [
     {
@@ -447,9 +447,14 @@
    "id": "maff",
    "name": "農林水産省",
    "source_url": "https://www.maff.go.jp/j/press/index.html",
-   "fetched_at": "2026-10-12T15:47:25Z",
+   "fetched_at": "2026-10-13T00:52:01Z",
    "ok": true,
    "items": [
+    {
+     "title": "第3回クビアカツヤカミキリ対策本部の開催について",
+     "url": "https://www.maff.go.jp/j/press/syouan/syokubo/261013.html",
+     "date": "2026-10-13"
+    },
     {
      "title": "千葉県における野生イノシシの豚熱感染事例について",
      "url": "https://www.maff.go.jp/j/press/syouan/douei/261011.html",
@@ -469,11 +474,6 @@
      "title": "令和8年梅雨前線豪雨から台風第25号までの一連の気象現象による災害（仮称）における「大規模災害時の災害査定の効率化」の対象について",
      "url": "https://www.maff.go.jp/j/press/kanbo/bunsyo/saigai/261009.html",
      "date": "2026-10-09"
-    },
-    {
-     "title": "ドイツ国内における日本産米の試験販売について",
-     "url": "https://www.maff.go.jp/j/press/yusyutu_kokusai/kaitaku/261009.html",
-     "date": "2026-10-09"
     }
    ]
   },
@@ -481,9 +481,14 @@
    "id": "meti",
    "name": "経済産業省",
    "source_url": "https://www.meti.go.jp/press/index.html",
-   "fetched_at": "2026-10-12T15:47:25Z",
+   "fetched_at": "2026-10-13T00:52:01Z",
    "ok": true,
    "items": [
+    {
+     "title": "「原油等の安定的な輸送の確保のための指定水路の利用の合理化に関する法律案」、「特定貨物保険契約及び特定船舶保険契約の履行の確保に関する特別措置法案」及び「独立行政法人エネルギー・金属鉱物資源機構法の一部を改正する法律案」が閣議決定されました",
+     "url": "https://www.meti.go.jp/press/2026/10/20261013001.html",
+     "date": "2026-10-13"
+    },
     {
      "title": "赤澤経済産業大臣が国際エネルギー・フォーラム（IEF）閣僚会合にオンライン出席しました",
      "url": "https://www.meti.go.jp/press/2026/10/20261012001.html",
@@ -503,11 +508,6 @@
      "title": "第13回Innovation for Cool Earth Forum（ICEF）年次総会を開催しました",
      "url": "https://www.meti.go.jp/press/2026/10/20261009002.html",
      "date": "2026-10-09"
-    },
-    {
-     "title": "「熊本産業復興相談センター」の開設及び「令和8年熊本地震復興支援ファンド」の設立について",
-     "url": "https://www.meti.go.jp/press/2026/10/20261009001.html",
-     "date": "2026-10-09"
     }
    ]
   },
@@ -515,7 +515,7 @@
    "id": "mlit",
    "name": "国土交通省",
    "source_url": "https://www.mlit.go.jp/report/press/index.html",
-   "fetched_at": "2026-10-12T15:47:25Z",
+   "fetched_at": "2026-10-13T00:52:01Z",
    "ok": true,
    "items": [
     {
@@ -549,9 +549,19 @@
    "id": "env",
    "name": "環境省",
    "source_url": "https://www.env.go.jp/press/index.html",
-   "fetched_at": "2026-10-12T15:47:25Z",
+   "fetched_at": "2026-10-13T00:52:01Z",
    "ok": true,
    "items": [
+    {
+     "title": "第３回クビアカツヤカミキリ対策本部の開催について",
+     "url": "https://www.env.go.jp/press/press_05709.html",
+     "date": "2026-10-13"
+    },
+    {
+     "title": "公害健康被害の補償等に関する法律の一部を改正する法律案の閣議決定について",
+     "url": "https://www.env.go.jp/press/press_05706.html",
+     "date": "2026-10-13"
+    },
     {
      "title": "「温室効果ガス排出量算定・報告・公表制度における算定方法検討会 （第13回）」の開催について",
      "url": "https://www.env.go.jp/press/press_05669.html",
@@ -566,16 +576,6 @@
      "title": "ブルーカーボン等の吸収源対策に係る大規模実証プロジェクトの 立上げ等実施事業（補助事業）の二次公募採択結果について",
      "url": "https://www.env.go.jp/press/press_05650.html",
      "date": "2026-10-09"
-    },
-    {
-     "title": "リチウムイオン電池による火災防止に関するシンポジウムの開催について",
-     "url": "https://www.env.go.jp/press/press_05698.html",
-     "date": "2026-10-09"
-    },
-    {
-     "title": "令和８年度クビアカツヤカミキリ対策に係るエキスパート向け講習会の開催について",
-     "url": "https://www.env.go.jp/press/press_05659.html",
-     "date": "2026-10-09"
     }
    ]
   },
@@ -583,7 +583,7 @@
    "id": "mod",
    "name": "防衛省",
    "source_url": "https://www.mod.go.jp/j/press/news/index.html",
-   "fetched_at": "2026-10-12T15:47:25Z",
+   "fetched_at": "2026-10-13T00:52:01Z",
    "ok": true,
    "items": [
     {
