@@ -1,16 +1,21 @@
 {
- "generated_at": "2026-10-15T11:46:12Z",
+ "generated_at": "2026-10-15T17:11:55Z",
  "companies": [
   {
    "id": "kantei",
    "name": "首相官邸 新着情報",
    "source_url": "https://www.kantei.go.jp/jp/news/index.html",
-   "fetched_at": "2026-10-15T11:46:12Z",
+   "fetched_at": "2026-10-15T17:11:55Z",
    "ok": true,
    "items": [
     {
      "title": "高市総理は武部新国務大臣に対して辞令交付を行いました",
      "url": "https://www.kantei.go.jp/jp/105/actions/202610/15daijin_ninmei.html",
+     "date": "2026-10-16"
+    },
+    {
+     "title": "高市総理は令和８年安全安心なまちづくり関係功労者表彰の表彰式を行いました",
+     "url": "https://www.kantei.go.jp/jp/105/actions/202610/15machizukuri.html",
      "date": "2026-10-16"
     },
     {
@@ -27,11 +32,6 @@
      "title": "高市総理はＧＥＡ（地球環境行動会議）国際会議２０２６開会式に出席しました",
      "url": "https://www.kantei.go.jp/jp/105/actions/202610/15gea.html",
      "date": "2026-10-15"
-    },
-    {
-     "title": "第２２回ヘルシー・ソサエティ賞授賞式　高市総理ビデオメッセージ",
-     "url": "https://www.kantei.go.jp/jp/105/discourse/20261014message.html",
-     "date": "2026-10-15"
     }
    ]
   },
@@ -39,12 +39,17 @@
    "id": "kantei_actions",
    "name": "首相官邸 総理の一日",
    "source_url": "https://www.kantei.go.jp/jp/105/actions/index.html",
-   "fetched_at": "2026-10-15T11:46:12Z",
+   "fetched_at": "2026-10-15T17:11:55Z",
    "ok": true,
    "items": [
     {
      "title": "補職辞令交付（農林水産大臣）",
      "url": "https://www.kantei.go.jp/jp/105/actions/202610/15daijin_ninmei.html",
+     "date": "2026-10-15"
+    },
+    {
+     "title": "安全安心なまちづくり関係功労者表彰式",
+     "url": "https://www.kantei.go.jp/jp/105/actions/202610/15machizukuri.html",
      "date": "2026-10-15"
     },
     {
@@ -61,11 +66,6 @@
      "title": "農林水産大臣の交代についての会見",
      "url": "https://www.kantei.go.jp/jp/105/actions/202610/14kaiken.html",
      "date": "2026-10-14"
-    },
-    {
-     "title": "経済財政諮問会議",
-     "url": "https://www.kantei.go.jp/jp/105/actions/202610/09keizai.html",
-     "date": "2026-10-09"
     }
    ]
   },
@@ -73,7 +73,7 @@
    "id": "kantei_statement",
    "name": "首相官邸 総理の会見・談話",
    "source_url": "https://www.kantei.go.jp/jp/105/statement/index.html",
-   "fetched_at": "2026-10-15T11:46:12Z",
+   "fetched_at": "2026-10-15T17:11:55Z",
    "ok": true,
    "items": [
     {
@@ -107,7 +107,7 @@
    "id": "kantei_tyoukanpress",
    "name": "首相官邸 官房長官記者会見",
    "source_url": "https://www.kantei.go.jp/jp/tyoukanpress/index.html",
-   "fetched_at": "2026-10-15T11:46:12Z",
+   "fetched_at": "2026-10-15T17:11:55Z",
    "ok": true,
    "items": [
     {
@@ -141,7 +141,7 @@
    "id": "cao",
    "name": "内閣府",
    "source_url": "https://www.cao.go.jp/press/houdou.html",
-   "fetched_at": "2026-10-15T11:46:12Z",
+   "fetched_at": "2026-10-15T17:11:55Z",
    "ok": true,
    "items": [
     {
@@ -175,7 +175,7 @@
    "id": "digital",
    "name": "デジタル庁",
    "source_url": "https://www.digital.go.jp/news",
-   "fetched_at": "2026-10-15T11:46:12Z",
+   "fetched_at": "2026-10-15T17:11:55Z",
    "ok": true,
    "items": [
     {
@@ -209,7 +209,7 @@
    "id": "fsa",
    "name": "金融庁",
    "source_url": "https://www.fsa.go.jp/news/index.html",
-   "fetched_at": "2026-10-15T11:46:12Z",
+   "fetched_at": "2026-10-15T17:11:55Z",
    "ok": true,
    "items": [
     {
@@ -243,7 +243,7 @@
    "id": "soumu",
    "name": "総務省",
    "source_url": "https://www.soumu.go.jp/menu_news/s-news/index.html",
-   "fetched_at": "2026-10-15T11:46:12Z",
+   "fetched_at": "2026-10-15T17:11:55Z",
    "ok": true,
    "items": [
     {
@@ -277,7 +277,7 @@
    "id": "moj",
    "name": "法務省",
    "source_url": "https://www.moj.go.jp/press_index.html",
-   "fetched_at": "2026-10-15T11:46:12Z",
+   "fetched_at": "2026-10-15T17:11:55Z",
    "ok": true,
    "items": [
     {
@@ -345,32 +345,32 @@
    "id": "mof",
    "name": "財務省",
    "source_url": "https://www.mof.go.jp/news/index.html",
-   "fetched_at": "2026-10-15T11:46:12Z",
+   "fetched_at": "2026-10-15T17:11:55Z",
    "ok": true,
    "items": [
     {
+     "title": "片山大臣と韓国のイ・ヒョンイル副総理兼財政経済部長官との面会（令和8年10月15日（木））",
+     "url": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20261013104336.html",
+     "date": "2026-10-15"
+    },
+    {
+     "title": "片山大臣とタイのエクニティ副首相兼財務大臣との面会（令和8年10月15日（木））",
+     "url": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20261014103034.html",
+     "date": "2026-10-15"
+    },
+    {
+     "title": "片山大臣とインドのシタラマン財務大臣兼企業大臣との面会（令和8年10月15日（木））",
+     "url": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20261013112134.html",
+     "date": "2026-10-15"
+    },
+    {
+     "title": "第 114 回世銀・IMF 合同開発委員会における日本国ステートメント （2026 年 10 月 15 日 於：タイ・バンコク）",
+     "url": "https://www.mof.go.jp/policy/international_policy/imf/dc/20261014151844.html",
+     "date": "2026-10-15"
+    },
+    {
      "title": "第13回株式会社産業革新投資機構社債に対する政府保証の付与",
      "url": "https://www.mof.go.jp/jgbs/topics/gov_guaranteed_bonds/hu2030.htm",
-     "date": "2026-10-15"
-    },
-    {
-     "title": "交付税及び譲与税配付金特別会計の借入金の入札結果（令和8年10月15日入札）",
-     "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-result261015.htm",
-     "date": "2026-10-15"
-    },
-    {
-     "title": "日米政府の「戦略的投資イニシアティブ」において半導体製造プロジェクトを実施します（令和8年10月15日）",
-     "url": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20261013163537.html",
-     "date": "2026-10-15"
-    },
-    {
-     "title": "流動性供給(第463回)入札の発行予定額等",
-     "url": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20261015.htm",
-     "date": "2026-10-15"
-    },
-    {
-     "title": "交付税及び譲与税配付金特別会計の借入金の入札予定（令和8年10月15日公表）",
-     "url": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer261015.htm",
      "date": "2026-10-15"
     }
    ]
@@ -379,7 +379,7 @@
    "id": "mext",
    "name": "文部科学省",
    "source_url": "https://www.mext.go.jp/b_menu/news/index.html",
-   "fetched_at": "2026-10-15T11:46:12Z",
+   "fetched_at": "2026-10-15T17:11:55Z",
    "ok": true,
    "items": [
     {
@@ -413,7 +413,7 @@
    "id": "mhlw",
    "name": "厚生労働省",
    "source_url": "https://www.mhlw.go.jp/stf/houdou/index.html",
-   "fetched_at": "2026-10-15T11:46:12Z",
+   "fetched_at": "2026-10-15T17:11:55Z",
    "ok": true,
    "items": [
     {
@@ -447,7 +447,7 @@
    "id": "maff",
    "name": "農林水産省",
    "source_url": "https://www.maff.go.jp/j/press/index.html",
-   "fetched_at": "2026-10-15T11:46:12Z",
+   "fetched_at": "2026-10-15T17:11:55Z",
    "ok": true,
    "items": [
     {
@@ -481,7 +481,7 @@
    "id": "meti",
    "name": "経済産業省",
    "source_url": "https://www.meti.go.jp/press/index.html",
-   "fetched_at": "2026-10-15T11:46:12Z",
+   "fetched_at": "2026-10-15T17:11:55Z",
    "ok": true,
    "items": [
     {
@@ -515,7 +515,7 @@
    "id": "mlit",
    "name": "国土交通省",
    "source_url": "https://www.mlit.go.jp/report/press/index.html",
-   "fetched_at": "2026-10-15T11:46:12Z",
+   "fetched_at": "2026-10-15T17:11:55Z",
    "ok": true,
    "items": [
     {
@@ -549,7 +549,7 @@
    "id": "env",
    "name": "環境省",
    "source_url": "https://www.env.go.jp/press/index.html",
-   "fetched_at": "2026-10-15T11:46:12Z",
+   "fetched_at": "2026-10-15T17:11:55Z",
    "ok": true,
    "items": [
     {
@@ -583,7 +583,7 @@
    "id": "mod",
    "name": "防衛省",
    "source_url": "https://www.mod.go.jp/j/press/news/index.html",
-   "fetched_at": "2026-10-15T11:46:12Z",
+   "fetched_at": "2026-10-15T17:11:55Z",
    "ok": true,
    "items": [
     {
