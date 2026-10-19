@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-18T20:55:08Z",
+ "generated_at": "2026-10-19T04:57:02Z",
  "companies": [
   {
    "id": "kantei",
    "name": "首相官邸 新着情報",
    "source_url": "https://www.kantei.go.jp/jp/news/index.html",
-   "fetched_at": "2026-10-18T20:55:08Z",
+   "fetched_at": "2026-10-19T04:57:02Z",
    "ok": true,
    "items": [
     {
@@ -39,7 +39,7 @@
    "id": "kantei_actions",
    "name": "首相官邸 総理の一日",
    "source_url": "https://www.kantei.go.jp/jp/105/actions/index.html",
-   "fetched_at": "2026-10-18T20:55:08Z",
+   "fetched_at": "2026-10-19T04:57:02Z",
    "ok": true,
    "items": [
     {
@@ -73,7 +73,7 @@
    "id": "kantei_statement",
    "name": "首相官邸 総理の会見・談話",
    "source_url": "https://www.kantei.go.jp/jp/105/statement/index.html",
-   "fetched_at": "2026-10-18T20:55:08Z",
+   "fetched_at": "2026-10-19T04:57:02Z",
    "ok": true,
    "items": [
     {
@@ -107,9 +107,14 @@
    "id": "kantei_tyoukanpress",
    "name": "首相官邸 官房長官記者会見",
    "source_url": "https://www.kantei.go.jp/jp/tyoukanpress/index.html",
-   "fetched_at": "2026-10-18T20:55:08Z",
+   "fetched_at": "2026-10-19T04:57:02Z",
    "ok": true,
    "items": [
+    {
+     "title": "午前 冒頭発言なし",
+     "url": "https://www.kantei.go.jp/jp/tyoukanpress/202610/19_a.html",
+     "date": "2026-10-19"
+    },
     {
      "title": "午前 閣議の概要について",
      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202610/16_a.html",
@@ -129,11 +134,6 @@
      "title": "午後 冒頭発言なし",
      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202610/15_p.html",
      "date": "2026-10-15"
-    },
-    {
-     "title": "午前 冒頭発言なし",
-     "url": "https://www.kantei.go.jp/jp/tyoukanpress/202610/14_a.html",
-     "date": "2026-10-14"
     }
    ]
   },
@@ -141,7 +141,7 @@
    "id": "cao",
    "name": "内閣府",
    "source_url": "https://www.cao.go.jp/press/houdou.html",
-   "fetched_at": "2026-10-18T20:55:08Z",
+   "fetched_at": "2026-10-19T04:57:02Z",
    "ok": true,
    "items": [
     {
@@ -175,14 +175,9 @@
    "id": "digital",
    "name": "デジタル庁",
    "source_url": "https://www.digital.go.jp/news",
-   "fetched_at": "2026-10-18T20:55:08Z",
+   "fetched_at": "2026-10-19T04:57:02Z",
    "ok": true,
    "items": [
-    {
-     "title": "アナログ規制見直しの取組の「新規法令等のデジタル原則適合性確認等プロセス」の資料を更新しました",
-     "url": "https://www.digital.go.jp/policies/digital-extraordinary-administrative-research-committee",
-     "date": "2026-10-16"
-    },
     {
      "title": "マイナンバーカード・インフォ（民間事業者向け情報）Vol.156を掲載しました",
      "url": "https://www.digital.go.jp/policies/mynumber/private-business/info",
@@ -202,6 +197,11 @@
      "title": "電子処方箋の導入状況に関するダッシュボードを更新しました",
      "url": "https://www.digital.go.jp/resources/govdashboard/electronic-prescription",
      "date": "2026-10-16"
+    },
+    {
+     "title": "自治体が実施する健康・医療・介護分野の事業のデジタル化（PMH）ー医療費助成に関するダッシュボードを更新しました",
+     "url": "https://www.digital.go.jp/resources/govdashboard/pmh-medical-expense-subsidies",
+     "date": "2026-10-16"
     }
    ]
   },
@@ -209,9 +209,14 @@
    "id": "fsa",
    "name": "金融庁",
    "source_url": "https://www.fsa.go.jp/news/index.html",
-   "fetched_at": "2026-10-18T20:55:08Z",
+   "fetched_at": "2026-10-19T04:57:02Z",
    "ok": true,
    "items": [
+    {
+     "title": "採用,職員を募集しています。（金融モニタリング業務（主に新形態銀行、資金移動業者や前払式支払手段発行者等に係るモニタリング等）に従事する職員【弁護士】)",
+     "url": "https://www.fsa.go.jp/common/recruit/r8/shiho-02/shiho-02.html",
+     "date": "2026-10-19"
+    },
     {
      "title": "預貯金の不正送金問題等に対する対応状況（令和８年３月末）について公表しました。",
      "url": "https://www.fsa.go.jp/news/r8/ginkou/20261016.html",
@@ -231,11 +236,6 @@
      "title": "国際関係,金融安定理事会による最終報告書「AIの責任ある導入に関する健全な実務慣行」について公表しました。",
      "url": "https://www.fsa.go.jp/inter/fsf/20261016/20261016.html",
      "date": "2026-10-16"
-    },
-    {
-     "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年10月２日）について掲載しました。",
-     "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20261002-1.html",
-     "date": "2026-10-16"
     }
    ]
   },
@@ -243,9 +243,24 @@
    "id": "soumu",
    "name": "総務省",
    "source_url": "https://www.soumu.go.jp/menu_news/s-news/index.html",
-   "fetched_at": "2026-10-18T20:55:08Z",
+   "fetched_at": "2026-10-19T04:57:02Z",
    "ok": true,
    "items": [
+    {
+     "title": "デジタル空間における情報流通の諸課題への対処に関する検討会 発信者情報開示ワーキンググループ（第9回）配付資料",
+     "url": "https://www.soumu.go.jp/main_sosiki/kenkyu/digital_shokadai/02ryutsu02_04000608.html",
+     "date": "2026-10-19"
+    },
+    {
+     "title": "第234回統計委員会",
+     "url": "https://www.soumu.go.jp/main_sosiki/singi/toukei/kaigi/02shingi05_02000837.html",
+     "date": "2026-10-19"
+    },
+    {
+     "title": "情報通信審議会　情報通信技術分科会　電波利用環境委員会（第69回）配布資料",
+     "url": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/denpa_kankyou/02kiban16_04000965.html",
+     "date": "2026-10-19"
+    },
     {
      "title": "藤井総務大臣閣議後記者会見の概要",
      "url": "https://www.soumu.go.jp/menu_news/kaiken/01koho01_02001583.html",
@@ -255,21 +270,6 @@
      "title": "情報通信審議会　情報通信技術分科会　新世代モバイル通信システム委員会　ローカル5G検討作業班（第26回）開催案内",
      "url": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/02kiban14_04001375.html",
      "date": "2026-10-16"
-    },
-    {
-     "title": "令和8年度都道府県議会議員及び市区町村議会議員総務大臣感謝状贈呈式",
-     "url": "https://www.soumu.go.jp/menu_news/s-news/01gyosei01_02000378.html",
-     "date": "2026-10-16"
-    },
-    {
-     "title": "統計委員会　第9回デジタル部会",
-     "url": "https://www.soumu.go.jp/main_sosiki/singi/toukei/digital/kaigi/02shingi05_02000836.html",
-     "date": "2026-10-16"
-    },
-    {
-     "title": "情報通信審議会　情報通信技術分科会（第199回）の開催について",
-     "url": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/02tsushin10_04000738.html",
-     "date": "2026-10-16"
     }
    ]
   },
@@ -277,7 +277,7 @@
    "id": "moj",
    "name": "法務省",
    "source_url": "https://www.moj.go.jp/press_index.html",
-   "fetched_at": "2026-10-18T20:55:08Z",
+   "fetched_at": "2026-10-19T04:57:02Z",
    "ok": true,
    "items": [
     {
@@ -345,33 +345,33 @@
    "id": "mof",
    "name": "財務省",
    "source_url": "https://www.mof.go.jp/news/index.html",
-   "fetched_at": "2026-10-18T20:55:08Z",
+   "fetched_at": "2026-10-19T04:57:02Z",
    "ok": true,
    "items": [
     {
-     "title": "第114回世銀・IMF合同開発委員会　議長声明（原文）",
-     "url": "https://www.mof.go.jp/policy/international_policy/imf/dc/DCstatement114.pdf",
-     "date": "2026-10-17"
+     "title": "国庫短期証券（第1414回）の入札結果",
+     "url": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/resul20261019.htm",
+     "date": "2026-10-19"
     },
     {
-     "title": "第81回IMF・世界銀行年次総会　片山財務大臣総務演説（令和8年10月16日　於：バンコク）",
-     "url": "https://www.mof.go.jp/policy/international_policy/imf/annual_meeting/20261017045147.html",
-     "date": "2026-10-17"
+     "title": "製造たばこの小売定価の認可",
+     "url": "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html",
+     "date": "2026-10-19"
     },
     {
-     "title": "第54回国際通貨金融委員会（IMFC）議長声明（仮訳）.pdf",
-     "url": "https://www.mof.go.jp/policy/international_policy/imf/imfc/261017_IMFC_1.pdf",
-     "date": "2026-10-17"
+     "title": "中華人民共和国（香港地域及びマカオ地域を除く。）若しくは台湾、澎湖諸島、金門及び馬祖から成る独立の関税地域を原産地とするニッケル系ステンレス冷延鋼帯・冷延鋼板又はこれらの国若しくは地域から本邦に輸出されたニッケル系ステンレス冷延鋼帯・冷延鋼板に対して不当廉売関税を課することについての答申（令和8年10月19日）",
+     "url": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-of_customs/report/20261019_toushin.html",
+     "date": "2026-10-19"
     },
     {
-     "title": "第54回国際通貨金融委員会（IMFC）における日本国ステートメント.pdf",
-     "url": "https://www.mof.go.jp/policy/international_policy/imf/imfc/20261017jp.pdf",
-     "date": "2026-10-17"
+     "title": "関税・外国為替等審議会　関税分科会　特殊関税部会 （令和８年10月19日開催）配付資料",
+     "url": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-of_customs/proceedings_tokusyu/material/kanb20261019.html",
+     "date": "2026-10-19"
     },
     {
-     "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年10月16日(金曜日))",
-     "url": "https://www.mof.go.jp/public_relations/conference/my20261016.html",
-     "date": "2026-10-16"
+     "title": "副島　豊様に「生成AIによるリサーチ業務のリストラクチャリング」について、ご講演いただきました",
+     "url": "https://www.mof.go.jp/insideLink/20261016153145.html",
+     "date": "2026-10-19"
     }
    ]
   },
@@ -379,9 +379,24 @@
    "id": "mext",
    "name": "文部科学省",
    "source_url": "https://www.mext.go.jp/b_menu/news/index.html",
-   "fetched_at": "2026-10-18T20:55:08Z",
+   "fetched_at": "2026-10-19T04:57:02Z",
    "ok": true,
    "items": [
+    {
+     "title": "中央教育審議会初等中等教育分科会学校安全部会（第3回）配布資料",
+     "url": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/128/siryo/1412213_00002.htm",
+     "date": "2026-10-19"
+    },
+    {
+     "title": "「学校給食衛生管理基準」の在り方に関する有識者会議(第5回)配布資料",
+     "url": "https://www.mext.go.jp/b_menu/shingi/chousa/shotou/205/giji_list/mext_00004.html",
+     "date": "2026-10-19"
+    },
+    {
+     "title": "文部科学省大臣官房人事課非常勤職員【障害者支援員（期間業務職員）】採用のお知らせ（令和8年12月1日予定）",
+     "url": "https://www.mext.go.jp/b_menu/saiyou/hijyoukin/1417881_00044.htm",
+     "date": "2026-10-19"
+    },
     {
      "title": "関芳弘文部科学大臣記者会見録（令和8年10月16日）",
      "url": "https://www.mext.go.jp/b_menu/daijin/detail/mext_00743.html",
@@ -391,21 +406,6 @@
      "title": "業務説明会・職員訪問",
      "url": "https://www.mext.go.jp/b_menu/saiyou/sougoujimu/setumei/1421199_00009.htm",
      "date": "2026-10-16"
-    },
-    {
-     "title": "研究開発マネジメント人材ロールモデル事例集を公開しました。",
-     "url": "https://www.mext.go.jp/a_menu/jinzai/rdm-pro_rolemodel.html",
-     "date": "2026-10-16"
-    },
-    {
-     "title": "宇宙開発利用部会（第109回）の配付資料を掲載しました",
-     "url": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu2/059/shiryo/1422108_00015.html",
-     "date": "2026-10-16"
-    },
-    {
-     "title": "中央教育審議会初等中等教育分科会教員養成部会（第164回）の開催について",
-     "url": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/002/mext_00026.html",
-     "date": "2026-10-15"
     }
    ]
   },
@@ -413,9 +413,24 @@
    "id": "mhlw",
    "name": "厚生労働省",
    "source_url": "https://www.mhlw.go.jp/stf/houdou/index.html",
-   "fetched_at": "2026-10-18T20:55:08Z",
+   "fetched_at": "2026-10-19T04:57:02Z",
    "ok": true,
    "items": [
+    {
+     "title": "令和８年労働安全衛生調査（実態調査）にご協力をお願いします",
+     "url": "https://www.mhlw.go.jp/toukei/oshirase/261014.html",
+     "date": "2026-10-19"
+    },
+    {
+     "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
+     "url": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html",
+     "date": "2026-10-19"
+    },
+    {
+     "title": "採用情報（期間業務職員（政策統括官（総合政策、労使関係担当））募集情報）",
+     "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-kenkou_seikatueiseikyoku01_00005.html",
+     "date": "2026-10-19"
+    },
     {
      "title": "薬事審議会　医療機器・体外診断薬部会を開催します",
      "url": "https://www.mhlw.go.jp/stf/newpage_76766.html",
@@ -425,21 +440,6 @@
      "title": "令和８年度生活衛生功労者に対する厚生労働大臣表彰について",
      "url": "https://www.mhlw.go.jp/stf/newpage_76727.html",
      "date": "2026-10-16"
-    },
-    {
-     "title": "令和８年度厚生労働統計功労者功績表彰の受賞者が決定しました",
-     "url": "https://www.mhlw.go.jp/stf/newpage_76718.html",
-     "date": "2026-10-16"
-    },
-    {
-     "title": "病院報告（令和８(2026)年7月分概数）",
-     "url": "https://www.mhlw.go.jp/toukei/saikin/hw/byouin/m26/07.html",
-     "date": "2026-10-16"
-    },
-    {
-     "title": "第２２回肝炎治療戦略会議の開催について",
-     "url": "https://www.mhlw.go.jp/stf/newpage_76678.html",
-     "date": "2026-10-16"
     }
    ]
   },
@@ -447,9 +447,19 @@
    "id": "maff",
    "name": "農林水産省",
    "source_url": "https://www.maff.go.jp/j/press/index.html",
-   "fetched_at": "2026-10-18T20:55:08Z",
+   "fetched_at": "2026-10-19T04:57:02Z",
    "ok": true,
    "items": [
+    {
+     "title": "【日本人初】渡邉紹裕京都大学名誉教授が国際かんがい排水委員会（ICID）の会長に就任",
+     "url": "https://www.maff.go.jp/j/press/nousin/sekkei/261019.html",
+     "date": "2026-10-19"
+    },
+    {
+     "title": "国際セミナー「植物品種保護が切り拓く農業の未来」開催",
+     "url": "https://www.maff.go.jp/j/press/yusyutu_kokusai/chizai/261019.html",
+     "date": "2026-10-19"
+    },
     {
      "title": "茨城県における豚熱の患畜の確認（国内108例目）及び「農林水産省豚熱・アフリカ豚熱防疫対策本部」の持ち回り開催について",
      "url": "https://www.maff.go.jp/j/press/syouan/douei/261016_1.html",
@@ -464,16 +474,6 @@
      "title": "米に関するマンスリーレポート（令和8年10月号）の公表について",
      "url": "https://www.maff.go.jp/j/press/nousan/kikaku/261016_1.html",
      "date": "2026-10-16"
-    },
-    {
-     "title": "ウクライナからの家きん肉等の輸入一時停止措置の解除について",
-     "url": "https://www.maff.go.jp/j/press/syouan/douei/261016.html",
-     "date": "2026-10-16"
-    },
-    {
-     "title": "令和8年度農林水産統計業務協力者等に対する農林水産大臣感謝状の授与について",
-     "url": "https://www.maff.go.jp/j/press/tokei/kikaku/261016.html",
-     "date": "2026-10-16"
     }
    ]
   },
@@ -481,9 +481,14 @@
    "id": "meti",
    "name": "経済産業省",
    "source_url": "https://www.meti.go.jp/press/index.html",
-   "fetched_at": "2026-10-18T20:55:08Z",
+   "fetched_at": "2026-10-19T04:57:02Z",
    "ok": true,
    "items": [
+    {
+     "title": "「グローバルサウス未来志向型共創等事業」のプログレスレポートを取りまとめました",
+     "url": "https://www.meti.go.jp/press/2026/10/20261019001.html",
+     "date": "2026-10-19"
+    },
     {
      "title": "第二回「強靱な銅サプライチェーンに向けた官民合同対話」を実施しました",
      "url": "https://www.meti.go.jp/press/2026/10/20261016003.html",
@@ -503,11 +508,6 @@
      "title": "赤澤経済産業大臣がブラックストーン社のスティーブン・シュワルツマン会長兼CEOによる表敬を受けました",
      "url": "https://www.meti.go.jp/press/2026/10/20261015003.html",
      "date": "2026-10-15"
-    },
-    {
-     "title": "髙木経済産業副大臣が英国のテイラー対日貿易特使と会談を行いました",
-     "url": "https://www.meti.go.jp/press/2026/10/20261015002.html",
-     "date": "2026-10-15"
     }
    ]
   },
@@ -515,7 +515,7 @@
    "id": "mlit",
    "name": "国土交通省",
    "source_url": "https://www.mlit.go.jp/report/press/index.html",
-   "fetched_at": "2026-10-18T20:55:08Z",
+   "fetched_at": "2026-10-19T04:57:02Z",
    "ok": true,
    "items": [
     {
@@ -549,7 +549,7 @@
    "id": "env",
    "name": "環境省",
    "source_url": "https://www.env.go.jp/press/index.html",
-   "fetched_at": "2026-10-18T20:55:08Z",
+   "fetched_at": "2026-10-19T04:57:02Z",
    "ok": true,
    "items": [
     {
@@ -583,7 +583,7 @@
    "id": "mod",
    "name": "防衛省",
    "source_url": "https://www.mod.go.jp/j/press/news/index.html",
-   "fetched_at": "2026-10-18T20:55:08Z",
+   "fetched_at": "2026-10-19T04:57:02Z",
    "ok": true,
    "items": [
     {
