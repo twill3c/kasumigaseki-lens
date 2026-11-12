@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-12T07:27:30Z",
+ "generated_at": "2026-11-12T20:10:32Z",
  "companies": [
   {
    "id": "kantei",
    "name": "首相官邸 新着情報",
    "source_url": "https://www.kantei.go.jp/jp/news/index.html",
-   "fetched_at": "2026-11-12T07:27:30Z",
+   "fetched_at": "2026-11-12T20:10:32Z",
    "ok": true,
    "items": [
     {
@@ -24,13 +24,13 @@
      "date": "2026-11-12"
     },
     {
-     "title": "木原内閣官房長官は鳥インフルエンザ関係閣僚会議を開催しました",
-     "url": "https://www.kantei.go.jp/jp/pages/20261112choukan_toriinfuruenza.html",
+     "title": "高市総理はフィジカルＡＩ関連企業との意見交換会を行いました",
+     "url": "https://www.kantei.go.jp/jp/105/actions/202611/12ikenkoukan.html",
      "date": "2026-11-12"
     },
     {
-     "title": "「パープルリボン・女性に対する暴力をなくす運動」に関する高市総理メッセージ",
-     "url": "https://www.kantei.go.jp/jp/105/discourse/20261112message.html",
+     "title": "木原内閣官房長官は鳥インフルエンザ関係閣僚会議を開催しました",
+     "url": "https://www.kantei.go.jp/jp/pages/20261112choukan_toriinfuruenza.html",
      "date": "2026-11-12"
     }
    ]
@@ -39,7 +39,7 @@
    "id": "kantei_actions",
    "name": "首相官邸 総理の一日",
    "source_url": "https://www.kantei.go.jp/jp/105/actions/index.html",
-   "fetched_at": "2026-11-12T07:27:30Z",
+   "fetched_at": "2026-11-12T20:10:32Z",
    "ok": true,
    "items": [
     {
@@ -53,6 +53,11 @@
      "date": "2026-11-12"
     },
     {
+     "title": "フィジカルＡＩ関連企業との意見交換会",
+     "url": "https://www.kantei.go.jp/jp/105/actions/202611/12ikenkoukan.html",
+     "date": "2026-11-12"
+    },
+    {
      "title": "経済財政諮問会議",
      "url": "https://www.kantei.go.jp/jp/105/actions/202611/11keizai.html",
      "date": "2026-11-11"
@@ -61,11 +66,6 @@
      "title": "町村議会議長全国大会",
      "url": "https://www.kantei.go.jp/jp/105/actions/202611/11taikai.html",
      "date": "2026-11-11"
-    },
-    {
-     "title": "韓日協力委員会一行による表敬",
-     "url": "https://www.kantei.go.jp/jp/105/actions/202611/10hyoukei.html",
-     "date": "2026-11-10"
     }
    ]
   },
@@ -73,7 +73,7 @@
    "id": "kantei_statement",
    "name": "首相官邸 総理の会見・談話",
    "source_url": "https://www.kantei.go.jp/jp/105/statement/index.html",
-   "fetched_at": "2026-11-12T07:27:30Z",
+   "fetched_at": "2026-11-12T20:10:32Z",
    "ok": true,
    "items": [
     {
@@ -107,12 +107,17 @@
    "id": "kantei_tyoukanpress",
    "name": "首相官邸 官房長官記者会見",
    "source_url": "https://www.kantei.go.jp/jp/tyoukanpress/index.html",
-   "fetched_at": "2026-11-12T07:27:30Z",
+   "fetched_at": "2026-11-12T20:10:32Z",
    "ok": true,
    "items": [
     {
      "title": "午前 鳥インフルエンザ関係閣僚会議について",
      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202611/12_a.html",
+     "date": "2026-11-12"
+    },
+    {
+     "title": "午後 冒頭発言なし",
+     "url": "https://www.kantei.go.jp/jp/tyoukanpress/202611/12_p.html",
      "date": "2026-11-12"
     },
     {
@@ -129,11 +134,6 @@
      "title": "午前 閣議の概要について ヒルダ・ハイネ・マーシャル諸島共和国大統領及び同夫君の訪日について",
      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202611/10_a.html",
      "date": "2026-11-10"
-    },
-    {
-     "title": "午後 冒頭発言なし",
-     "url": "https://www.kantei.go.jp/jp/tyoukanpress/202611/10_p.html",
-     "date": "2026-11-10"
     }
    ]
   },
@@ -141,7 +141,7 @@
    "id": "cao",
    "name": "内閣府",
    "source_url": "https://www.cao.go.jp/press/houdou.html",
-   "fetched_at": "2026-11-12T07:27:30Z",
+   "fetched_at": "2026-11-12T20:10:32Z",
    "ok": true,
    "items": [
     {
@@ -175,7 +175,7 @@
    "id": "digital",
    "name": "デジタル庁",
    "source_url": "https://www.digital.go.jp/news",
-   "fetched_at": "2026-11-12T07:27:30Z",
+   "fetched_at": "2026-11-12T20:10:32Z",
    "ok": true,
    "items": [
     {
@@ -209,7 +209,7 @@
    "id": "fsa",
    "name": "金融庁",
    "source_url": "https://www.fsa.go.jp/news/index.html",
-   "fetched_at": "2026-11-12T07:27:30Z",
+   "fetched_at": "2026-11-12T20:10:32Z",
    "ok": true,
    "items": [
     {
@@ -243,7 +243,7 @@
    "id": "soumu",
    "name": "総務省",
    "source_url": "https://www.soumu.go.jp/menu_news/s-news/index.html",
-   "fetched_at": "2026-11-12T07:27:30Z",
+   "fetched_at": "2026-11-12T20:10:32Z",
    "ok": true,
    "items": [
     {
@@ -277,7 +277,7 @@
    "id": "moj",
    "name": "法務省",
    "source_url": "https://www.moj.go.jp/press_index.html",
-   "fetched_at": "2026-11-12T07:27:30Z",
+   "fetched_at": "2026-11-12T20:10:32Z",
    "ok": true,
    "items": [
     {
@@ -345,7 +345,7 @@
    "id": "mof",
    "name": "財務省",
    "source_url": "https://www.mof.go.jp/news/index.html",
-   "fetched_at": "2026-11-12T07:27:30Z",
+   "fetched_at": "2026-11-12T20:10:32Z",
    "ok": true,
    "items": [
     {
@@ -379,9 +379,14 @@
    "id": "mext",
    "name": "文部科学省",
    "source_url": "https://www.mext.go.jp/b_menu/news/index.html",
-   "fetched_at": "2026-11-12T07:27:30Z",
+   "fetched_at": "2026-11-12T20:10:32Z",
    "ok": true,
    "items": [
+    {
+     "title": "業務説明会・職員訪問",
+     "url": "https://www.mext.go.jp/b_menu/saiyou/sougoujimu/setumei/1421199_00009.htm",
+     "date": "2026-11-13"
+    },
     {
      "title": "科学技術・学術審議会技術士分科会試験部会（第44回）の開催について",
      "url": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu7/kaisai/1422698_00010.htm",
@@ -401,11 +406,6 @@
      "title": "令和8年度「文部科学省日本語教育大会」の詳細について",
      "url": "https://www.mext.go.jp/a_menu/nihongo_kyoiku/mext_00236.html",
      "date": "2026-11-11"
-    },
-    {
-     "title": "高等専門学校の機能強化に関する検討会（第7回）の開催について",
-     "url": "https://www.mext.go.jp/b_menu/shingi/chousa/koutou/136/mext_00008.html",
-     "date": "2026-11-11"
     }
    ]
   },
@@ -413,9 +413,24 @@
    "id": "mhlw",
    "name": "厚生労働省",
    "source_url": "https://www.mhlw.go.jp/stf/houdou/index.html",
-   "fetched_at": "2026-11-12T07:27:30Z",
+   "fetched_at": "2026-11-12T20:10:32Z",
    "ok": true,
    "items": [
+    {
+     "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
+     "url": "https://www.mhlw.go.jp/stf/newpage_77378.html",
+     "date": "2026-11-12"
+    },
+    {
+     "title": "2026年10月26日　第137回社会保障審議会介護保険部会　議事録",
+     "url": "https://www.mhlw.go.jp/stf/newpage_77348.html",
+     "date": "2026-11-12"
+    },
+    {
+     "title": "社会保障審議会（介護保険部会）",
+     "url": "https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html",
+     "date": "2026-11-12"
+    },
     {
      "title": "厚生科学審議会感染症部会第２８回新型インフルエンザ対策に関する小委員会 ・第１３回危機対応医薬品等に関する小委員会についてを開催します",
      "url": "https://www.mhlw.go.jp/stf/newpage_77300.html",
@@ -425,21 +440,6 @@
      "title": "第79回厚生科学審議会予防接種・ワクチン分科会予防接種基本方針部会の開催について",
      "url": "https://www.mhlw.go.jp/stf/newpage_76869.html",
      "date": "2026-11-12"
-    },
-    {
-     "title": "国民健康・栄養調査企画解析検討会の開催について",
-     "url": "https://www.mhlw.go.jp/stf/other-kenkou_128610_00048.html",
-     "date": "2026-11-12"
-    },
-    {
-     "title": "採用情報（期間業務職員（人材開発統括官）)募集情報",
-     "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-jinzaikaihatsutoukatsukan04.html",
-     "date": "2026-11-12"
-    },
-    {
-     "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
-     "url": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html",
-     "date": "2026-11-12"
     }
    ]
   },
@@ -447,7 +447,7 @@
    "id": "maff",
    "name": "農林水産省",
    "source_url": "https://www.maff.go.jp/j/press/index.html",
-   "fetched_at": "2026-11-12T07:27:30Z",
+   "fetched_at": "2026-11-12T20:10:32Z",
    "ok": true,
    "items": [
     {
@@ -481,9 +481,14 @@
    "id": "meti",
    "name": "経済産業省",
    "source_url": "https://www.meti.go.jp/press/index.html",
-   "fetched_at": "2026-11-12T07:27:30Z",
+   "fetched_at": "2026-11-12T20:10:32Z",
    "ok": true,
    "items": [
+    {
+     "title": "日米海洋鉱物資源開発に関する共同声明を発出しました",
+     "url": "https://www.meti.go.jp/press/2026/11/20261112002.html",
+     "date": "2026-11-12"
+    },
     {
      "title": "若山経済産業大臣政務官が米国のヘック ワシントン州副知事による表敬を受けました",
      "url": "https://www.meti.go.jp/press/2026/11/20261112001.html",
@@ -503,11 +508,6 @@
      "title": "髙木経済産業副大臣が英国エネルギー安全保障・ネットゼロ省との洋上風力分野に関する協力覚書に署名しました",
      "url": "https://www.meti.go.jp/press/2026/11/20261110002.html",
      "date": "2026-11-10"
-    },
-    {
-     "title": "2026年度冬季の電力需給対策を取りまとめました",
-     "url": "https://www.meti.go.jp/press/2026/11/20261110001.html",
-     "date": "2026-11-10"
     }
    ]
   },
@@ -515,7 +515,7 @@
    "id": "mlit",
    "name": "国土交通省",
    "source_url": "https://www.mlit.go.jp/report/press/index.html",
-   "fetched_at": "2026-11-12T07:27:30Z",
+   "fetched_at": "2026-11-12T20:10:32Z",
    "ok": true,
    "items": [
     {
@@ -549,7 +549,7 @@
    "id": "env",
    "name": "環境省",
    "source_url": "https://www.env.go.jp/press/index.html",
-   "fetched_at": "2026-11-12T07:27:30Z",
+   "fetched_at": "2026-11-12T20:10:32Z",
    "ok": true,
    "items": [
     {
@@ -583,7 +583,7 @@
    "id": "mod",
    "name": "防衛省",
    "source_url": "https://www.mod.go.jp/j/press/news/index.html",
-   "fetched_at": "2026-11-12T07:27:30Z",
+   "fetched_at": "2026-11-12T20:10:32Z",
    "ok": true,
    "items": [
     {
