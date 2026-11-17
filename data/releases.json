@@ -1,13 +1,23 @@
 {
- "generated_at": "2026-11-17T08:11:06Z",
+ "generated_at": "2026-11-17T21:07:34Z",
  "companies": [
   {
    "id": "kantei",
    "name": "首相官邸 新着情報",
    "source_url": "https://www.kantei.go.jp/jp/news/index.html",
-   "fetched_at": "2026-11-17T08:11:06Z",
+   "fetched_at": "2026-11-17T21:07:34Z",
    "ok": true,
    "items": [
+    {
+     "title": "高市総理はＡＳＥＡＮ（東南アジア諸国連合）関連首脳会議等に出席しました（３）",
+     "url": "https://www.kantei.go.jp/jp/105/actions/202611/17asean2.html",
+     "date": "2026-11-18"
+    },
+    {
+     "title": "高市総理はＡＳＥＡＮ（東南アジア諸国連合）関連首脳会議等に出席しました（２）",
+     "url": "https://www.kantei.go.jp/jp/105/actions/202611/17asean.html",
+     "date": "2026-11-18"
+    },
     {
      "title": "閣議の概要について",
      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202611/17_a.html",
@@ -22,16 +32,6 @@
      "title": "高市総理大臣によるフィリピン・スター紙、マニラ・ブレティン紙、フィリピン・デイリー・インクワイアラー紙、及び星洲日報紙への寄稿、並びにＮｉｋｋｅｉ Ａｓｉａ及びアジア・ニュース・ネットワーク（Ａｓｉａ Ｎｅｗｓ Ｎｅｔｗｏｒｋ）へ記事転載",
      "url": "https://www.kantei.go.jp/jp/105/discourse/20261116message.html",
      "date": "2026-11-16"
-    },
-    {
-     "title": "政府主催拉致問題に関するシンポジウムについて",
-     "url": "https://www.kantei.go.jp/jp/tyoukanpress/202611/16_a.html",
-     "date": "2026-11-16"
-    },
-    {
-     "title": "高市総理はＡＳＥＡＮ（東南アジア諸国連合）関連首脳会議出席等についての会見を行いました",
-     "url": "https://www.kantei.go.jp/jp/105/statement/2026/1116kaiken.html",
-     "date": "2026-11-16"
     }
    ]
   },
@@ -39,9 +39,19 @@
    "id": "kantei_actions",
    "name": "首相官邸 総理の一日",
    "source_url": "https://www.kantei.go.jp/jp/105/actions/index.html",
-   "fetched_at": "2026-11-17T08:11:06Z",
+   "fetched_at": "2026-11-17T21:07:34Z",
    "ok": true,
    "items": [
+    {
+     "title": "ＡＳＥＡＮ関連首脳会議等（３）",
+     "url": "https://www.kantei.go.jp/jp/105/actions/202611/17asean2.html",
+     "date": "2026-11-17"
+    },
+    {
+     "title": "ＡＳＥＡＮ関連首脳会議等（２）",
+     "url": "https://www.kantei.go.jp/jp/105/actions/202611/17asean.html",
+     "date": "2026-11-17"
+    },
     {
      "title": "ＡＳＥＡＮ関連首脳会議等（１）",
      "url": "https://www.kantei.go.jp/jp/105/actions/202611/16asean.html",
@@ -56,16 +66,6 @@
      "title": "令和８年熊本地震非常災害復旧復興本部",
      "url": "https://www.kantei.go.jp/jp/105/actions/202611/13fukkyuhonbu.html",
      "date": "2026-11-13"
-    },
-    {
-     "title": "日本経済団体連合会による「ＡＺＥＣ２．０」構想の具体化に向けた提言手交",
-     "url": "https://www.kantei.go.jp/jp/105/actions/202611/12teigen02.html",
-     "date": "2026-11-12"
-    },
-    {
-     "title": "自由民主党・ＡＺＥＣ議員連盟による提言手交",
-     "url": "https://www.kantei.go.jp/jp/105/actions/202611/12teigen.html",
-     "date": "2026-11-12"
     }
    ]
   },
@@ -73,7 +73,7 @@
    "id": "kantei_statement",
    "name": "首相官邸 総理の会見・談話",
    "source_url": "https://www.kantei.go.jp/jp/105/statement/index.html",
-   "fetched_at": "2026-11-17T08:11:06Z",
+   "fetched_at": "2026-11-17T21:07:34Z",
    "ok": true,
    "items": [
     {
@@ -107,12 +107,17 @@
    "id": "kantei_tyoukanpress",
    "name": "首相官邸 官房長官記者会見",
    "source_url": "https://www.kantei.go.jp/jp/tyoukanpress/index.html",
-   "fetched_at": "2026-11-17T08:11:06Z",
+   "fetched_at": "2026-11-17T21:07:34Z",
    "ok": true,
    "items": [
     {
      "title": "午前 閣議の概要について",
      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202611/17_a.html",
+     "date": "2026-11-17"
+    },
+    {
+     "title": "午後 冒頭発言なし",
+     "url": "https://www.kantei.go.jp/jp/tyoukanpress/202611/17_p.html",
      "date": "2026-11-17"
     },
     {
@@ -129,11 +134,6 @@
      "title": "午前 閣議の概要について（尾﨑正直内閣官房副長官） 高市総理のＡＳＥＡＮ関連首脳会議及びＡＰＥＣ首脳会議出席について カスト・チリ共和国大統領夫妻及びフジモリ・ペルー共和国大統領の訪日について 中東情勢等対応予備費の使用について",
      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202611/13_a.html",
      "date": "2026-11-13"
-    },
-    {
-     "title": "午後 冒頭発言なし",
-     "url": "https://www.kantei.go.jp/jp/tyoukanpress/202611/13_p.html",
-     "date": "2026-11-13"
     }
    ]
   },
@@ -141,7 +141,7 @@
    "id": "cao",
    "name": "内閣府",
    "source_url": "https://www.cao.go.jp/press/houdou.html",
-   "fetched_at": "2026-11-17T08:11:06Z",
+   "fetched_at": "2026-11-17T21:07:34Z",
    "ok": true,
    "items": [
     {
@@ -175,7 +175,7 @@
    "id": "digital",
    "name": "デジタル庁",
    "source_url": "https://www.digital.go.jp/news",
-   "fetched_at": "2026-11-17T08:11:06Z",
+   "fetched_at": "2026-11-17T21:07:34Z",
    "ok": true,
    "items": [
     {
@@ -209,7 +209,7 @@
    "id": "fsa",
    "name": "金融庁",
    "source_url": "https://www.fsa.go.jp/news/index.html",
-   "fetched_at": "2026-11-17T08:11:06Z",
+   "fetched_at": "2026-11-17T21:07:34Z",
    "ok": true,
    "items": [
     {
@@ -243,9 +243,24 @@
    "id": "soumu",
    "name": "総務省",
    "source_url": "https://www.soumu.go.jp/menu_news/s-news/index.html",
-   "fetched_at": "2026-11-17T08:11:06Z",
+   "fetched_at": "2026-11-17T21:07:34Z",
    "ok": true,
    "items": [
+    {
+     "title": "「AIによるリスク」の検討ワーキンググループ（第3回）",
+     "url": "https://www.soumu.go.jp/main_sosiki/kenkyu/ai_network/02tsushin06_04000148.html",
+     "date": "2026-11-17"
+    },
+    {
+     "title": "令和8年度地方財政審議会（11月13日）議事要旨",
+     "url": "https://www.soumu.go.jp/main_sosiki/singi/chizai/02zaisei02_04001397_00979.html",
+     "date": "2026-11-17"
+    },
+    {
+     "title": "第17回衆議院議員選挙区画定審議会",
+     "url": "https://www.soumu.go.jp/main_sosiki/singi/senkyoku/02gyosei14_04000274.html",
+     "date": "2026-11-17"
+    },
     {
      "title": "町村長を対象とした「全国防災・危機管理トップセミナー」の開催",
      "url": "https://www.soumu.go.jp/menu_news/s-news/01shoubo01_02001311.html",
@@ -255,21 +270,6 @@
      "title": "「令和9年度地方税制改正等に関する地方財政審議会意見」の提出",
      "url": "https://www.soumu.go.jp/menu_news/s-news/01zeimu02_02000479.html",
      "date": "2026-11-17"
-    },
-    {
-     "title": "フロンティアAI時代の通信事業におけるデータの保護・セキュリティの在り方に関する検討会（第3回）",
-     "url": "https://www.soumu.go.jp/main_sosiki/kenkyu/data_protection/02kiban18_02000518.html",
-     "date": "2026-11-17"
-    },
-    {
-     "title": "令和8年度自治会等地縁による団体功労者総務大臣表彰式",
-     "url": "https://www.soumu.go.jp/menu_news/s-news/01gyosei03_02000116.html",
-     "date": "2026-11-17"
-    },
-    {
-     "title": "独立行政法人役員の公募",
-     "url": "https://www.soumu.go.jp/menu_news/s-news/01kanbo01_02001190.html",
-     "date": "2026-11-17"
     }
    ]
   },
@@ -277,7 +277,7 @@
    "id": "moj",
    "name": "法務省",
    "source_url": "https://www.moj.go.jp/press_index.html",
-   "fetched_at": "2026-11-17T08:11:06Z",
+   "fetched_at": "2026-11-17T21:07:34Z",
    "ok": true,
    "items": [
     {
@@ -345,7 +345,7 @@
    "id": "mof",
    "name": "財務省",
    "source_url": "https://www.mof.go.jp/news/index.html",
-   "fetched_at": "2026-11-17T08:11:06Z",
+   "fetched_at": "2026-11-17T21:07:34Z",
    "ok": true,
    "items": [
     {
@@ -379,9 +379,14 @@
    "id": "mext",
    "name": "文部科学省",
    "source_url": "https://www.mext.go.jp/b_menu/news/index.html",
-   "fetched_at": "2026-11-17T08:11:06Z",
+   "fetched_at": "2026-11-17T21:07:34Z",
    "ok": true,
    "items": [
+    {
+     "title": "関芳弘文部科学大臣記者会見録（令和8年11月17日）",
+     "url": "https://www.mext.go.jp/b_menu/daijin/detail/mext_00752.html",
+     "date": "2026-11-17"
+    },
     {
      "title": "「学校給食衛生管理基準」の在り方に関する有識者会議(第6回)配布資料",
      "url": "https://www.mext.go.jp/b_menu/shingi/chousa/shotou/205/giji_list/mext_00005.html",
@@ -401,11 +406,6 @@
      "title": "「第18回AOGEOシンポジウム」を開催します",
      "url": "https://www.mext.go.jp/b_menu/houdou/mext_01701.html",
      "date": "2026-11-17"
-    },
-    {
-     "title": "「留学生就職促進教育プログラム認定制度」の公募について",
-     "url": "https://www.mext.go.jp/a_menu/koutou/ryugaku/1386454_00041.htm",
-     "date": "2026-11-16"
     }
    ]
   },
@@ -413,9 +413,19 @@
    "id": "mhlw",
    "name": "厚生労働省",
    "source_url": "https://www.mhlw.go.jp/stf/houdou/index.html",
-   "fetched_at": "2026-11-17T08:11:06Z",
+   "fetched_at": "2026-11-17T21:07:34Z",
    "ok": true,
    "items": [
+    {
+     "title": "第64回社会保障審議会生活保護基準部会　  資料",
+     "url": "https://www.mhlw.go.jp/stf/newpage_77427.html",
+     "date": "2026-11-17"
+    },
+    {
+     "title": "第２８回新型インフルエンザ対策に関する小委員会　第１３回危機対応医薬品等に関する小委員会　資料",
+     "url": "https://www.mhlw.go.jp/stf/newpage_77489.html",
+     "date": "2026-11-17"
+    },
     {
      "title": "令和８年度第８回医薬品等安全対策部会安全対策調査会 議事録",
      "url": "https://www.mhlw.go.jp/stf/newpage_77439.html",
@@ -430,16 +440,6 @@
      "title": "令和８年度第４回「団体等検定制度についての出張相談会」を開催します",
      "url": "https://www.mhlw.go.jp/stf/newpage_77334.html",
      "date": "2026-11-17"
-    },
-    {
-     "title": "第106回「電離放射線障害の業務上外に関する検討会」を開催します",
-     "url": "https://www.mhlw.go.jp/stf/newpage_77311.html",
-     "date": "2026-11-17"
-    },
-    {
-     "title": "第215回労働政策審議会労働条件分科会（資料）",
-     "url": "https://www.mhlw.go.jp/stf/newpage_77450.html",
-     "date": "2026-11-17"
     }
    ]
   },
@@ -447,7 +447,7 @@
    "id": "maff",
    "name": "農林水産省",
    "source_url": "https://www.maff.go.jp/j/press/index.html",
-   "fetched_at": "2026-11-17T08:11:06Z",
+   "fetched_at": "2026-11-17T21:07:34Z",
    "ok": true,
    "items": [
     {
@@ -481,9 +481,14 @@
    "id": "meti",
    "name": "経済産業省",
    "source_url": "https://www.meti.go.jp/press/index.html",
-   "fetched_at": "2026-11-17T08:11:06Z",
+   "fetched_at": "2026-11-17T21:07:34Z",
    "ok": true,
    "items": [
+    {
+     "title": "赤澤経済産業大臣がフィリピン共和国に出張しました",
+     "url": "https://www.meti.go.jp/press/2026/11/20261117004.html",
+     "date": "2026-11-17"
+    },
     {
      "title": "独立行政法人理事長の公募を開始します",
      "url": "https://www.meti.go.jp/press/2026/11/20261117003.html",
@@ -503,11 +508,6 @@
      "title": "大規模なシステム障害に伴うメールシステムの不具合への対応について",
      "url": "https://www.meti.go.jp/press/2026/11/20261113005.html",
      "date": "2026-11-13"
-    },
-    {
-     "title": "「Japan Innovation Campus」のShowcaseイベントをTokyo Innovation Baseで開催しました",
-     "url": "https://www.meti.go.jp/press/2026/11/20261113002.html",
-     "date": "2026-11-13"
     }
    ]
   },
@@ -515,7 +515,7 @@
    "id": "mlit",
    "name": "国土交通省",
    "source_url": "https://www.mlit.go.jp/report/press/index.html",
-   "fetched_at": "2026-11-17T08:11:06Z",
+   "fetched_at": "2026-11-17T21:07:34Z",
    "ok": true,
    "items": [
     {
@@ -549,9 +549,14 @@
    "id": "env",
    "name": "環境省",
    "source_url": "https://www.env.go.jp/press/index.html",
-   "fetched_at": "2026-11-17T08:11:06Z",
+   "fetched_at": "2026-11-17T21:07:34Z",
    "ok": true,
    "items": [
+    {
+     "title": "「日本の気候変動対策イニシアティブ2026」を公表しました",
+     "url": "https://www.env.go.jp/press/press_05855.html",
+     "date": "2026-11-17"
+    },
     {
      "title": "「リチウムイオン電池等の処理施設リスト」掲載希望処理施設の公募について",
      "url": "https://www.env.go.jp/press/press_05854.html",
@@ -571,11 +576,6 @@
      "title": "東アジア酸性雨モニタリングネットワーク（EANET）第28回政府間会合（IG28）及びEANET設立25周年記念式典の開催について（お知らせ）",
      "url": "https://www.env.go.jp/press/press_05853.html",
      "date": "2026-11-17"
-    },
-    {
-     "title": "令和８年度「環境スタートアップ大賞」の募集について",
-     "url": "https://www.env.go.jp/press/press_05825.html",
-     "date": "2026-11-17"
     }
    ]
   },
@@ -583,9 +583,24 @@
    "id": "mod",
    "name": "防衛省",
    "source_url": "https://www.mod.go.jp/j/press/news/index.html",
-   "fetched_at": "2026-11-17T08:11:06Z",
+   "fetched_at": "2026-11-17T21:07:34Z",
    "ok": true,
    "items": [
+    {
+     "title": "日印防衛相会談について",
+     "url": "https://www.mod.go.jp/j/press/news/2026/11/17a.html",
+     "date": "2026-11-17"
+    },
+    {
+     "title": "小泉防衛大臣の部隊視察の予定について",
+     "url": "https://www.mod.go.jp/j/press/news/2026/11/17b.html",
+     "date": "2026-11-17"
+    },
+    {
+     "title": "推定ロシア機による領空侵犯について",
+     "url": "https://www.mod.go.jp/j/press/news/2026/11/17c.html",
+     "date": "2026-11-17"
+    },
     {
      "title": "小田原防衛副大臣の海外出張予定について",
      "url": "https://www.mod.go.jp/j/press/news/2026/11/16a.html",
@@ -595,21 +610,6 @@
      "title": "小泉防衛大臣の部隊視察等の予定について",
      "url": "https://www.mod.go.jp/j/press/news/2026/11/13c.html",
      "date": "2026-11-13"
-    },
-    {
-     "title": "𠮷井防衛大臣政務官の部隊視察等の予定について",
-     "url": "https://www.mod.go.jp/j/press/news/2026/11/13b.html",
-     "date": "2026-11-13"
-    },
-    {
-     "title": "政府専用機の運航について",
-     "url": "https://www.mod.go.jp/j/press/news/2026/11/13a.html",
-     "date": "2026-11-13"
-    },
-    {
-     "title": "米軍再編に係る岩国飛行場から三沢基地への訓練移転について",
-     "url": "https://www.mod.go.jp/j/press/news/2026/11/11a.html",
-     "date": "2026-11-11"
     }
    ]
   }
