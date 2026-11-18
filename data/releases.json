@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-18T07:44:40Z",
+ "generated_at": "2026-11-18T20:44:24Z",
  "companies": [
   {
    "id": "kantei",
    "name": "首相官邸 新着情報",
    "source_url": "https://www.kantei.go.jp/jp/news/index.html",
-   "fetched_at": "2026-11-18T07:44:40Z",
+   "fetched_at": "2026-11-18T20:44:24Z",
    "ok": true,
    "items": [
     {
@@ -39,7 +39,7 @@
    "id": "kantei_actions",
    "name": "首相官邸 総理の一日",
    "source_url": "https://www.kantei.go.jp/jp/105/actions/index.html",
-   "fetched_at": "2026-11-18T07:44:40Z",
+   "fetched_at": "2026-11-18T20:44:24Z",
    "ok": true,
    "items": [
     {
@@ -73,7 +73,7 @@
    "id": "kantei_statement",
    "name": "首相官邸 総理の会見・談話",
    "source_url": "https://www.kantei.go.jp/jp/105/statement/index.html",
-   "fetched_at": "2026-11-18T07:44:40Z",
+   "fetched_at": "2026-11-18T20:44:24Z",
    "ok": true,
    "items": [
     {
@@ -107,12 +107,17 @@
    "id": "kantei_tyoukanpress",
    "name": "首相官邸 官房長官記者会見",
    "source_url": "https://www.kantei.go.jp/jp/tyoukanpress/index.html",
-   "fetched_at": "2026-11-18T07:44:40Z",
+   "fetched_at": "2026-11-18T20:44:24Z",
    "ok": true,
    "items": [
     {
      "title": "午前 冒頭発言なし",
      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202611/18_a.html",
+     "date": "2026-11-18"
+    },
+    {
+     "title": "午後 冒頭発言なし",
+     "url": "https://www.kantei.go.jp/jp/tyoukanpress/202611/18_p.html",
      "date": "2026-11-18"
     },
     {
@@ -129,11 +134,6 @@
      "title": "午前 政府主催拉致問題に関するシンポジウムについて",
      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202611/16_a.html",
      "date": "2026-11-16"
-    },
-    {
-     "title": "午後 冒頭発言なし",
-     "url": "https://www.kantei.go.jp/jp/tyoukanpress/202611/16_p.html",
-     "date": "2026-11-16"
     }
    ]
   },
@@ -141,7 +141,7 @@
    "id": "cao",
    "name": "内閣府",
    "source_url": "https://www.cao.go.jp/press/houdou.html",
-   "fetched_at": "2026-11-18T07:44:40Z",
+   "fetched_at": "2026-11-18T20:44:24Z",
    "ok": true,
    "items": [
     {
@@ -175,7 +175,7 @@
    "id": "digital",
    "name": "デジタル庁",
    "source_url": "https://www.digital.go.jp/news",
-   "fetched_at": "2026-11-18T07:44:40Z",
+   "fetched_at": "2026-11-18T20:44:24Z",
    "ok": true,
    "items": [
     {
@@ -209,7 +209,7 @@
    "id": "fsa",
    "name": "金融庁",
    "source_url": "https://www.fsa.go.jp/news/index.html",
-   "fetched_at": "2026-11-18T07:44:40Z",
+   "fetched_at": "2026-11-18T20:44:24Z",
    "ok": true,
    "items": [
     {
@@ -243,33 +243,33 @@
    "id": "soumu",
    "name": "総務省",
    "source_url": "https://www.soumu.go.jp/menu_news/s-news/index.html",
-   "fetched_at": "2026-11-18T07:44:40Z",
+   "fetched_at": "2026-11-18T20:44:24Z",
    "ok": true,
    "items": [
+    {
+     "title": "電波監理審議会　有効利用評価部会(第65回)会議資料",
+     "url": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/denpa_kanri/kaisai/02kiban01_04000334.html",
+     "date": "2026-11-18"
+    },
+    {
+     "title": "「電気通信事業分野における競争状況等の調査及び評価の実施に関する方針」改定案に対する情報通信行政・郵政行政審議会からの答申",
+     "url": "https://www.soumu.go.jp/menu_news/s-news/01kiban02_02000615.html",
+     "date": "2026-11-18"
+    },
+    {
+     "title": "電話に関するユニバーサルサービス制度に基づく交付金の額及び交付方法の認可並びに負担金の額及び徴収方法の認可",
+     "url": "https://www.soumu.go.jp/menu_news/s-news/01kiban07_02000138.html",
+     "date": "2026-11-18"
+    },
+    {
+     "title": "電気通信事業法施行規則等の一部改正に対する意見募集",
+     "url": "https://www.soumu.go.jp/menu_news/s-news/01kiban03_02001031.html",
+     "date": "2026-11-18"
+    },
     {
      "title": "情報通信行政・郵政行政審議会　電気通信事業部会　市場検証委員会（第14回）配布資料・議事録",
      "url": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/yusei/shijokensho/02kiban02_04000906.html",
      "date": "2026-11-18"
-    },
-    {
-     "title": "統計委員会　第161回人口・社会統計部会",
-     "url": "https://www.soumu.go.jp/main_sosiki/singi/toukei/jinkou/kaigi/02shingi05_02000846.html",
-     "date": "2026-11-18"
-    },
-    {
-     "title": "非常勤消防団員等に係る損害補償の基準を定める政令の一部を改正する政令案に対する意見募集",
-     "url": "https://www.soumu.go.jp/menu_news/s-news/01shoubo01_02001314.html",
-     "date": "2026-11-18"
-    },
-    {
-     "title": "固定資産評価基準の一部を改正する告示案に係る意見募集の結果",
-     "url": "https://www.soumu.go.jp/menu_news/s-news/01zeimu02_02000478.html",
-     "date": "2026-11-18"
-    },
-    {
-     "title": "「AIによるリスク」の検討ワーキンググループ（第3回）",
-     "url": "https://www.soumu.go.jp/main_sosiki/kenkyu/ai_network/02tsushin06_04000148.html",
-     "date": "2026-11-17"
     }
    ]
   },
@@ -277,7 +277,7 @@
    "id": "moj",
    "name": "法務省",
    "source_url": "https://www.moj.go.jp/press_index.html",
-   "fetched_at": "2026-11-18T07:44:40Z",
+   "fetched_at": "2026-11-18T20:44:24Z",
    "ok": true,
    "items": [
     {
@@ -345,7 +345,7 @@
    "id": "mof",
    "name": "財務省",
    "source_url": "https://www.mof.go.jp/news/index.html",
-   "fetched_at": "2026-11-18T07:44:40Z",
+   "fetched_at": "2026-11-18T20:44:24Z",
    "ok": true,
    "items": [
     {
@@ -379,9 +379,14 @@
    "id": "mext",
    "name": "文部科学省",
    "source_url": "https://www.mext.go.jp/b_menu/news/index.html",
-   "fetched_at": "2026-11-18T07:44:40Z",
+   "fetched_at": "2026-11-18T20:44:24Z",
    "ok": true,
    "items": [
+    {
+     "title": "令和8年度日本語教員試験の再試験の実施について",
+     "url": "https://www.mext.go.jp/b_menu/houdou/2026/mext_00014.html",
+     "date": "2026-11-18"
+    },
     {
      "title": "中央教育審議会初等中等教育分科会教育課程部会教育課程企画特別部会（第23回）を開催します",
      "url": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/kaisai/mext_00158.html",
@@ -401,11 +406,6 @@
      "title": "デジタルな形態を含む教科書の発行・採択等の指針に関する検討会議・第6回議事録",
      "url": "https://www.mext.go.jp/b_menu/shingi/chousa/shotou/206/gijiroku/mext_00001.html",
      "date": "2026-11-18"
-    },
-    {
-     "title": "通信教育の適正な実施・運営の確保のための基本的な指針等に関する検討会議(第3回)配付資料を追加しました",
-     "url": "https://www.mext.go.jp/b_menu/shingi/chousa/shotou/211/siryo/mext_00004.html",
-     "date": "2026-11-18"
     }
    ]
   },
@@ -413,7 +413,7 @@
    "id": "mhlw",
    "name": "厚生労働省",
    "source_url": "https://www.mhlw.go.jp/stf/houdou/index.html",
-   "fetched_at": "2026-11-18T07:44:40Z",
+   "fetched_at": "2026-11-18T20:44:24Z",
    "ok": true,
    "items": [
     {
@@ -447,9 +447,24 @@
    "id": "maff",
    "name": "農林水産省",
    "source_url": "https://www.maff.go.jp/j/press/index.html",
-   "fetched_at": "2026-11-18T07:44:40Z",
+   "fetched_at": "2026-11-18T20:44:24Z",
    "ok": true,
    "items": [
+    {
+     "title": "京都府で確認された高病原性鳥インフルエンザ （国内1例目）の遺伝子解析結果並びに患畜及びNA亜型の確定について",
+     "url": "https://www.maff.go.jp/j/press/syouan/douei/261118.html",
+     "date": "2026-11-18"
+    },
+    {
+     "title": "千葉県で確認された高病原性鳥インフルエンザ（国内2例目）の遺伝子解析結果並びに患畜及びNA亜型の確定について",
+     "url": "https://www.maff.go.jp/j/press/syouan/douei/261118_1.html",
+     "date": "2026-11-18"
+    },
+    {
+     "title": "令和8年産米の相対取引価格・数量について（令和8年10月）",
+     "url": "https://www.maff.go.jp/j/press/nousan/kikaku/261118.html",
+     "date": "2026-11-18"
+    },
     {
      "title": "独立行政法人農林水産消費安全技術センターの理事長の公募について",
      "url": "https://www.maff.go.jp/j/press/kanbo/hisyo/261117.html",
@@ -459,21 +474,6 @@
      "title": "「和文化シンポジウム」を開催！",
      "url": "https://www.maff.go.jp/j/press/nousan/tokusan/261116.html",
      "date": "2026-11-16"
-    },
-    {
-     "title": "「林政審議会」委員の公募について",
-     "url": "https://www.rinya.maff.go.jp/j/press/rinsei/261116.html",
-     "date": "2026-11-16"
-    },
-    {
-     "title": "第4回フラッグシップ輸出産地の募集を開始します！",
-     "url": "https://www.maff.go.jp/j/press/yusyutu_kokusai/s_keisei/261116.html",
-     "date": "2026-11-16"
-    },
-    {
-     "title": "「令和8年度農作業安全ポスターデザインコンテスト」の受賞作品の決定について",
-     "url": "https://www.maff.go.jp/j/press/nousan/sizai/261113.html",
-     "date": "2026-11-13"
     }
    ]
   },
@@ -481,9 +481,14 @@
    "id": "meti",
    "name": "経済産業省",
    "source_url": "https://www.meti.go.jp/press/index.html",
-   "fetched_at": "2026-11-18T07:44:40Z",
+   "fetched_at": "2026-11-18T20:44:24Z",
    "ok": true,
    "items": [
+    {
+     "title": "赤澤経済産業大臣はタイ王国のエクニティ副首相兼財務大臣及びワラウット工業大臣と会談を行いました",
+     "url": "https://www.meti.go.jp/press/2026/11/20261118001.html",
+     "date": "2026-11-18"
+    },
     {
      "title": "赤澤経済産業大臣がフィリピン共和国に出張しました",
      "url": "https://www.meti.go.jp/press/2026/11/20261117004.html",
@@ -503,11 +508,6 @@
      "title": "髙木経済産業副大臣が在日メキシコ商工会議所設立記念イベントに出席しました",
      "url": "https://www.meti.go.jp/press/2026/11/20261113004.html",
      "date": "2026-11-13"
-    },
-    {
-     "title": "大規模なシステム障害に伴うメールシステムの不具合への対応について",
-     "url": "https://www.meti.go.jp/press/2026/11/20261113005.html",
-     "date": "2026-11-13"
     }
    ]
   },
@@ -515,7 +515,7 @@
    "id": "mlit",
    "name": "国土交通省",
    "source_url": "https://www.mlit.go.jp/report/press/index.html",
-   "fetched_at": "2026-11-18T07:44:40Z",
+   "fetched_at": "2026-11-18T20:44:24Z",
    "ok": true,
    "items": [
     {
@@ -549,7 +549,7 @@
    "id": "env",
    "name": "環境省",
    "source_url": "https://www.env.go.jp/press/index.html",
-   "fetched_at": "2026-11-18T07:44:40Z",
+   "fetched_at": "2026-11-18T20:44:24Z",
    "ok": true,
    "items": [
     {
@@ -583,9 +583,19 @@
    "id": "mod",
    "name": "防衛省",
    "source_url": "https://www.mod.go.jp/j/press/news/index.html",
-   "fetched_at": "2026-11-18T07:44:40Z",
+   "fetched_at": "2026-11-18T20:44:24Z",
    "ok": true,
    "items": [
+    {
+     "title": "防衛人事審議会公正審査分科会の開催について",
+     "url": "https://www.mod.go.jp/j/press/news/2026/11/18b.html",
+     "date": "2026-11-18"
+    },
+    {
+     "title": "中野審議官のウクライナ支援に関する多国間会議への参加",
+     "url": "https://www.mod.go.jp/j/press/news/2026/11/18a.html",
+     "date": "2026-11-18"
+    },
     {
      "title": "日印防衛相会談について",
      "url": "https://www.mod.go.jp/j/press/news/2026/11/17a.html",
@@ -600,16 +610,6 @@
      "title": "推定ロシア機による領空侵犯について",
      "url": "https://www.mod.go.jp/j/press/news/2026/11/17c.html",
      "date": "2026-11-17"
-    },
-    {
-     "title": "小田原防衛副大臣の海外出張予定について",
-     "url": "https://www.mod.go.jp/j/press/news/2026/11/16a.html",
-     "date": "2026-11-16"
-    },
-    {
-     "title": "小泉防衛大臣の部隊視察等の予定について",
-     "url": "https://www.mod.go.jp/j/press/news/2026/11/13c.html",
-     "date": "2026-11-13"
     }
    ]
   }
