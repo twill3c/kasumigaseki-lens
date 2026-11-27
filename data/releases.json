@@ -1,36 +1,36 @@
 {
- "generated_at": "2026-11-27T08:51:06Z",
+ "generated_at": "2026-11-27T21:28:54Z",
  "companies": [
   {
    "id": "kantei",
    "name": "首相官邸 新着情報",
    "source_url": "https://www.kantei.go.jp/jp/news/index.html",
-   "fetched_at": "2026-11-27T08:51:06Z",
+   "fetched_at": "2026-11-27T21:28:54Z",
    "ok": true,
    "items": [
     {
+     "title": "高市総理は経済同友会８０周年祝賀会に出席しました",
+     "url": "https://www.kantei.go.jp/jp/105/actions/202611/27keizaidoyukai80.html",
+     "date": "2026-11-28"
+    },
+    {
+     "title": "高市総理は全国都道府県知事会議に出席しました",
+     "url": "https://www.kantei.go.jp/jp/105/actions/202611/27chijikaigi.html",
+     "date": "2026-11-28"
+    },
+    {
+     "title": "高市総理は未来を選択する会議と面会しました",
+     "url": "https://www.kantei.go.jp/jp/105/actions/202611/27menkai.html",
+     "date": "2026-11-28"
+    },
+    {
+     "title": "高市総理は日仏クラブによる表敬を受けました",
+     "url": "https://www.kantei.go.jp/jp/105/actions/202611/27hyoukei.html",
+     "date": "2026-11-28"
+    },
+    {
      "title": "閣議の概要／副首都の指定に係る基本方針の策定等に関する基本的考え方について／クマ被害対策等に関する関係閣僚会議の開催について",
      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202611/27_a.html",
-     "date": "2026-11-27"
-    },
-    {
-     "title": "木原内閣官房長官は第６回クマ被害対策等に関する関係閣僚会議を開催しました",
-     "url": "https://www.kantei.go.jp/jp/pages/20261127choukan_kuma.html",
-     "date": "2026-11-27"
-    },
-    {
-     "title": "高市総理は第４７回中央防災会議を開催しました",
-     "url": "https://www.kantei.go.jp/jp/105/actions/202611/27bousai.html",
-     "date": "2026-11-27"
-    },
-    {
-     "title": "高市総理は第２９回規制改革推進会議に出席しました",
-     "url": "https://www.kantei.go.jp/jp/105/actions/202611/27kiseikaikaku.html",
-     "date": "2026-11-27"
-    },
-    {
-     "title": "高市総理はマーシャル諸島共和国のヒルダ・Ｃ・ハイネ大統領と首脳会談を行いました",
-     "url": "https://www.kantei.go.jp/jp/105/actions/202611/26marshall.html",
      "date": "2026-11-27"
     }
    ]
@@ -39,33 +39,33 @@
    "id": "kantei_actions",
    "name": "首相官邸 総理の一日",
    "source_url": "https://www.kantei.go.jp/jp/105/actions/index.html",
-   "fetched_at": "2026-11-27T08:51:06Z",
+   "fetched_at": "2026-11-27T21:28:54Z",
    "ok": true,
    "items": [
+    {
+     "title": "経済同友会８０周年祝賀会",
+     "url": "https://www.kantei.go.jp/jp/105/actions/202611/27keizaidoyukai80.html",
+     "date": "2026-11-27"
+    },
+    {
+     "title": "全国都道府県知事会議",
+     "url": "https://www.kantei.go.jp/jp/105/actions/202611/27chijikaigi.html",
+     "date": "2026-11-27"
+    },
+    {
+     "title": "未来を選択する会議との面会",
+     "url": "https://www.kantei.go.jp/jp/105/actions/202611/27menkai.html",
+     "date": "2026-11-27"
+    },
+    {
+     "title": "日仏クラブによる表敬",
+     "url": "https://www.kantei.go.jp/jp/105/actions/202611/27hyoukei.html",
+     "date": "2026-11-27"
+    },
     {
      "title": "中央防災会議",
      "url": "https://www.kantei.go.jp/jp/105/actions/202611/27bousai.html",
      "date": "2026-11-27"
-    },
-    {
-     "title": "規制改革推進会議",
-     "url": "https://www.kantei.go.jp/jp/105/actions/202611/27kiseikaikaku.html",
-     "date": "2026-11-27"
-    },
-    {
-     "title": "日・マーシャル諸島共和国首脳会談",
-     "url": "https://www.kantei.go.jp/jp/105/actions/202611/26marshall.html",
-     "date": "2026-11-26"
-    },
-    {
-     "title": "ノーベル化学賞受賞者硤合憲三東京理科大学栄誉教授による表敬",
-     "url": "https://www.kantei.go.jp/jp/105/actions/202611/26hyoukei.html",
-     "date": "2026-11-26"
-    },
-    {
-     "title": "地域未来戦略に関する関係副大臣等会議・地域未来戦略に関する総理報告",
-     "url": "https://www.kantei.go.jp/jp/105/actions/202611/26chiikimirai.html",
-     "date": "2026-11-26"
     }
    ]
   },
@@ -73,7 +73,7 @@
    "id": "kantei_statement",
    "name": "首相官邸 総理の会見・談話",
    "source_url": "https://www.kantei.go.jp/jp/105/statement/index.html",
-   "fetched_at": "2026-11-27T08:51:06Z",
+   "fetched_at": "2026-11-27T21:28:54Z",
    "ok": true,
    "items": [
     {
@@ -107,12 +107,17 @@
    "id": "kantei_tyoukanpress",
    "name": "首相官邸 官房長官記者会見",
    "source_url": "https://www.kantei.go.jp/jp/tyoukanpress/index.html",
-   "fetched_at": "2026-11-27T08:51:06Z",
+   "fetched_at": "2026-11-27T21:28:54Z",
    "ok": true,
    "items": [
     {
      "title": "午前 閣議の概要について 副首都の指定に係る基本方針の策定等に関する基本的考え方について クマ被害対策等に関する関係閣僚会議の開催について",
      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202611/27_a.html",
+     "date": "2026-11-27"
+    },
+    {
+     "title": "午後 冒頭発言なし",
+     "url": "https://www.kantei.go.jp/jp/tyoukanpress/202611/27_p.html",
      "date": "2026-11-27"
     },
     {
@@ -129,11 +134,6 @@
      "title": "午前 冒頭発言なし",
      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202611/25_a.html",
      "date": "2026-11-25"
-    },
-    {
-     "title": "午後 冒頭発言なし",
-     "url": "https://www.kantei.go.jp/jp/tyoukanpress/202611/25_p.html",
-     "date": "2026-11-25"
     }
    ]
   },
@@ -141,7 +141,7 @@
    "id": "cao",
    "name": "内閣府",
    "source_url": "https://www.cao.go.jp/press/houdou.html",
-   "fetched_at": "2026-11-27T08:51:06Z",
+   "fetched_at": "2026-11-27T21:28:54Z",
    "ok": true,
    "items": [
     {
@@ -175,7 +175,7 @@
    "id": "digital",
    "name": "デジタル庁",
    "source_url": "https://www.digital.go.jp/news",
-   "fetched_at": "2026-11-27T08:51:06Z",
+   "fetched_at": "2026-11-27T21:28:54Z",
    "ok": true,
    "items": [
     {
@@ -209,7 +209,7 @@
    "id": "fsa",
    "name": "金融庁",
    "source_url": "https://www.fsa.go.jp/news/index.html",
-   "fetched_at": "2026-11-27T08:51:06Z",
+   "fetched_at": "2026-11-27T21:28:54Z",
    "ok": true,
    "items": [
     {
@@ -243,7 +243,7 @@
    "id": "soumu",
    "name": "総務省",
    "source_url": "https://www.soumu.go.jp/menu_news/s-news/index.html",
-   "fetched_at": "2026-11-27T08:51:06Z",
+   "fetched_at": "2026-11-27T21:28:54Z",
    "ok": true,
    "items": [
     {
@@ -277,7 +277,7 @@
    "id": "moj",
    "name": "法務省",
    "source_url": "https://www.moj.go.jp/press_index.html",
-   "fetched_at": "2026-11-27T08:51:06Z",
+   "fetched_at": "2026-11-27T21:28:54Z",
    "ok": true,
    "items": [
     {
@@ -345,7 +345,7 @@
    "id": "mof",
    "name": "財務省",
    "source_url": "https://www.mof.go.jp/news/index.html",
-   "fetched_at": "2026-11-27T08:51:06Z",
+   "fetched_at": "2026-11-27T21:28:54Z",
    "ok": true,
    "items": [
     {
@@ -379,9 +379,14 @@
    "id": "mext",
    "name": "文部科学省",
    "source_url": "https://www.mext.go.jp/b_menu/news/index.html",
-   "fetched_at": "2026-11-27T08:51:06Z",
+   "fetched_at": "2026-11-27T21:28:54Z",
    "ok": true,
    "items": [
+    {
+     "title": "関芳弘文部科学大臣記者会見録（令和8年11月27日）",
+     "url": "https://www.mext.go.jp/b_menu/daijin/detail/mext_00755.html",
+     "date": "2026-11-27"
+    },
     {
      "title": "コミュニティ・スクールの今後の在り方等に関する検討会（第2回）を 開催します",
      "url": "https://www.mext.go.jp/b_menu/shingi/chousa/shougai/054/kaisai/mext_00001.html",
@@ -401,11 +406,6 @@
      "title": "第2回輸送体制の変更を踏まえた今後の南極地域観測事業に関する特別委員会",
      "url": "https://www.mext.go.jp/a_menu/shinkou/nankyoku/detail/1422598_00022.htm",
      "date": "2026-11-27"
-    },
-    {
-     "title": "学術分科会（第99回）　配付資料",
-     "url": "https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu4/siryo/mext_00004.html",
-     "date": "2026-11-27"
     }
    ]
   },
@@ -413,7 +413,7 @@
    "id": "mhlw",
    "name": "厚生労働省",
    "source_url": "https://www.mhlw.go.jp/stf/houdou/index.html",
-   "fetched_at": "2026-11-27T08:51:06Z",
+   "fetched_at": "2026-11-27T21:28:54Z",
    "ok": true,
    "items": [
     {
@@ -447,9 +447,14 @@
    "id": "maff",
    "name": "農林水産省",
    "source_url": "https://www.maff.go.jp/j/press/index.html",
-   "fetched_at": "2026-11-27T08:51:06Z",
+   "fetched_at": "2026-11-27T21:28:54Z",
    "ok": true,
    "items": [
+    {
+     "title": "愛知県で確認された高病原性鳥インフルエンザ（国内3例目）の遺伝子解析結果並びに患畜及びNA亜型の確定について",
+     "url": "https://www.maff.go.jp/j/press/syouan/douei/261127.html",
+     "date": "2026-11-27"
+    },
     {
      "title": "令和8年10月の米穀流通の動向（集荷、販売、民間在庫）",
      "url": "https://www.maff.go.jp/j/press/nousan/kikaku/261127.html",
@@ -469,11 +474,6 @@
      "title": "畜産物の環境負荷低減の取組の「見える化」新たな取組事例を紹介！",
      "url": "https://www.maff.go.jp/j/press/kanbo/b_kankyo/261127.html",
      "date": "2026-11-27"
-    },
-    {
-     "title": "野菜の生育状況及び価格見通し（令和8年12月）について",
-     "url": "https://www.maff.go.jp/j/press/nousan/engei/261127.html",
-     "date": "2026-11-27"
     }
    ]
   },
@@ -481,9 +481,24 @@
    "id": "meti",
    "name": "経済産業省",
    "source_url": "https://www.meti.go.jp/press/index.html",
-   "fetched_at": "2026-11-27T08:51:06Z",
+   "fetched_at": "2026-11-27T21:28:54Z",
    "ok": true,
    "items": [
+    {
+     "title": "第13回日本・モンゴル官民合同協議会を開催しました",
+     "url": "https://www.meti.go.jp/press/2026/11/20261127004.html",
+     "date": "2026-11-27"
+    },
+    {
+     "title": "日ASEANヤングビジネスリーダーズサミット2026を開催し、高市内閣総理大臣と赤澤経済産業大臣に対してビジネスリーダーから政策提言書を手交するとともに、宮本経済産業副大臣が出席し日本の食輸出1万者支援プログラムに係るイベントを実施しました",
+     "url": "https://www.meti.go.jp/press/2026/11/20261127007.html",
+     "date": "2026-11-27"
+    },
+    {
+     "title": "赤澤経済産業大臣がネットフリックス社のピーターズ共同最高経営責任者と会談を行いました",
+     "url": "https://www.meti.go.jp/press/2026/11/20261127005.html",
+     "date": "2026-11-27"
+    },
     {
      "title": "髙木経済産業副大臣がクック西オーストラリア州首相と会談を行いました",
      "url": "https://www.meti.go.jp/press/2026/11/20261127006.html",
@@ -493,21 +508,6 @@
      "title": "大韓民国産並びに台湾、澎湖諸島、金門及び馬祖から成る独立の関税地域産ビスフェノールAに対する不当廉売関税の課税を決定しました",
      "url": "https://www.meti.go.jp/press/2026/11/20261127003.html",
      "date": "2026-11-27"
-    },
-    {
-     "title": "大韓民国産及び中華人民共和国産水酸化カリウムに対する不当廉売関税の課税期間の延長を決定しました",
-     "url": "https://www.meti.go.jp/press/2026/11/20261127002.html",
-     "date": "2026-11-27"
-    },
-    {
-     "title": "大韓民国産及び中華人民共和国産溶融亜鉛めっき鋼帯及び鋼板に対する不当廉売関税の課税を決定しました",
-     "url": "https://www.meti.go.jp/press/2026/11/20261127001.html",
-     "date": "2026-11-27"
-    },
-    {
-     "title": "若山経済産業大臣政務官はモロッコ王国のムッズール産業・貿易・投資・経済包摂大臣とオンライン会談を実施しました",
-     "url": "https://www.meti.go.jp/press/2026/11/20261126001.html",
-     "date": "2026-11-26"
     }
    ]
   },
@@ -515,7 +515,7 @@
    "id": "mlit",
    "name": "国土交通省",
    "source_url": "https://www.mlit.go.jp/report/press/index.html",
-   "fetched_at": "2026-11-27T08:51:06Z",
+   "fetched_at": "2026-11-27T21:28:54Z",
    "ok": true,
    "items": [
     {
@@ -549,7 +549,7 @@
    "id": "env",
    "name": "環境省",
    "source_url": "https://www.env.go.jp/press/index.html",
-   "fetched_at": "2026-11-27T08:51:06Z",
+   "fetched_at": "2026-11-27T21:28:54Z",
    "ok": true,
    "items": [
     {
@@ -583,33 +583,33 @@
    "id": "mod",
    "name": "防衛省",
    "source_url": "https://www.mod.go.jp/j/press/news/index.html",
-   "fetched_at": "2026-11-27T08:51:06Z",
+   "fetched_at": "2026-11-27T21:28:54Z",
    "ok": true,
    "items": [
     {
-     "title": "多軌道観測実証衛星の打上げについて",
-     "url": "https://www.mod.go.jp/j/press/news/2026/11/24c.html",
-     "date": "2026-11-24"
+     "title": "上杉防衛大臣政務官の海外出張予定について",
+     "url": "https://www.mod.go.jp/j/press/news/2026/11/27e.html",
+     "date": "2026-11-27"
     },
     {
-     "title": "第３回那覇港湾施設移設に係るてだこの都市・浦添の振興に関する協議会の開催について",
-     "url": "https://www.mod.go.jp/j/press/news/2026/11/24b.html",
-     "date": "2026-11-24"
+     "title": "防衛人事審議会公正審査分科会の持ち回り開催について",
+     "url": "https://www.mod.go.jp/j/press/news/2026/11/27f.html",
+     "date": "2026-11-27"
     },
     {
-     "title": "シンガポール共和国国防大臣兼公共サービス調整大臣の当省訪問について",
-     "url": "https://www.mod.go.jp/j/press/news/2026/11/24a.html",
-     "date": "2026-11-24"
+     "title": "ジブチに対する軍楽隊育成分野の能力構築支援事業について",
+     "url": "https://www.mod.go.jp/j/press/news/2026/11/27d.html",
+     "date": "2026-11-27"
     },
     {
-     "title": "駐留軍要員健康保険組合（駐健保）の選定議員の公募について",
-     "url": "https://www.mod.go.jp/j/press/news/2026/11/20a.html",
-     "date": "2026-11-20"
+     "title": "日米合同委員会合意について",
+     "url": "https://www.mod.go.jp/j/press/news/2026/11/27c.pdf",
+     "date": "2026-11-27"
     },
     {
-     "title": "チリ共和国国防大臣の当省訪問について",
-     "url": "https://www.mod.go.jp/j/press/news/2026/11/19c.html",
-     "date": "2026-11-19"
+     "title": "Defense AI Visionの策定について",
+     "url": "https://www.mod.go.jp/j/press/news/2026/11/27a.html",
+     "date": "2026-11-27"
     }
    ]
   }
